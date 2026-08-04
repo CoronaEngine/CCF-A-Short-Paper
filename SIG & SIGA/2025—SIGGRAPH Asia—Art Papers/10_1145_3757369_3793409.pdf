@@ -1,0 +1,2017 @@
+
+
+
+
+
+<!DOCTYPE html>
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+<html lang="en"
+      
+        
+      
+      
+        
+
+        
+
+        
+        
+            
+        
+        
+        
+        
+        
+
+      class="pb-page"
+         data-request-id="a25b5c245d4ae38b-NRT"  
+
+>
+
+    
+        <head data-pb-dropzone="head">
+            
+
+<meta charset="UTF-8">
+
+
+
+
+
+
+    
+        
+            
+        
+    
+        
+            
+        
+    
+        
+            
+        
+    
+        
+            
+                
+                
+<title>Session Summary Podcast: Session 2: Ecological Worlding | Proceedings of the SIGGRAPH Asia 2025 Art Papers</title>
+
+
+
+
+
+                
+            
+        
+    
+        
+            
+        
+    
+
+
+
+
+
+
+
+    
+        
+            
+        
+    
+        
+            
+        
+    
+        
+            
+                
+                
+
+
+
+                
+            
+        
+    
+        
+            
+        
+    
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+
+
+    <link rel="stylesheet" href="/products/acm/releasedAssets/css/build-7651cd42961957a1fbbe.css"/><link rel="stylesheet" href="/products/acm/releasedAssets/css/print-7651cd42961957a1fbbe.css" media="print"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                
+                
+                
+                    
+                    <link rel="schema.DC" href="https://purl.org/DC/elements/1.0/"></link><meta name="dc.Format" content="text/HTML"></meta><meta name="dc.Identifier" scheme="acm-id" content="3793409"></meta><meta name="dc.Identifier" scheme="doi" content="10.1145/3757369.3793409"></meta><meta name="dc.Language" content="EN"></meta><meta name="dc.Coverage" content="world"></meta>
+
+
+
+
+<link rel="meta" type="application/atom+xml" href="https://doi.org/10.1145%2F3757369.3767594"></link>
+<link rel="meta" type="application/rdf+json" href="https://doi.org/10.1145%2F3757369.3767594"></link>
+<link rel="meta" type="application/unixref+xml" href="https://doi.org/10.1145%2F3757369.3767594"></link>
+
+
+                    
+                
+            
+        
+    
+        
+            
+                
+                
+                
+                    
+                    
+
+<style id="pb-theme">
+.theme {
+
+}
+</style>
+                    
+                
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+            
+        
+    
+        
+            
+                
+                
+                
+                    
+                    <meta name="robots" content="noindex"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            <meta property="og:title" content="Session Summary Podcast: Session 2: Ecological Worlding | Proceedings of the SIGGRAPH Asia 2025 Art Papers"/>
+        
+        
+    
+
+    
+        
+            <meta property="og:type" content="Chapter"/>
+        
+        
+    
+
+    
+        
+            <meta property="og:url" content="https://dl.acm.org/doi/10.1145/3757369.3793409"/>
+        
+        
+    
+
+    
+        
+            <meta property="og:site_name" content="ACM Conferences"/>
+        
+        
+    
+
+
+
+    
+        <meta property="og:image" content="https://dl.acm.org/cms/asset/6587041e-cd9f-449e-8a3c-e5fe91f4e188/3757369.cover.jpg"/>
+        
+            <meta property="og:image:width" content="132"/>
+            <meta property="og:image:height" content="171"/>
+        
+    
+    
+
+
+
+    
+    
+
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1"><meta name="publication_doi" content="10.1145/3757369.3793409"/>
+<meta name="event_group_key" content="5e040466-bf99-48a4-8a24-7be4557a88cb"/>
+    <meta name="service_name" content="showAbstract"/>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                
+            
+        
+    
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="stylesheet" href="/pb-assets/styles/acm-custom-1785427275263.css">
+<link rel="stylesheet" href="/pb-assets/styles/journals-colors-1781618713767.css">
+<link rel="stylesheet" href="/pb-assets/styles/conferences-colors-1780436891423.css">
+<link rel="stylesheet" href="/pb-assets/styles/magazines-colors-1780436891437.css">
+<link rel="stylesheet" href="/pb-assets/styles/sigs-colors-1780436891860.css">
+<script defer src="https://scholar.google.com/scholar_js/casa.js" async nonce="a25b5c245d4ae38b-NRT"></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="d5e9e377-b0f2-49fd-b006-d86d5073d17e" data-blockingmode="auto" type="text/javascript" nonce="a25b5c245d4ae38b-NRT"></script>
+<link rel="apple-touch-icon" sizes="180x180" href="/pb-assets/head-metadata/apple-touch-icon-1574252172393.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/pb-assets/head-metadata/favicon-32x32-1574252172003.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/pb-assets/head-metadata/favicon-16x16-1574252172937.png">
+<link rel="manifest" href="/pb-assets/head-metadata/site-1574252171130.webmanifest" crossorigin="use-credentials">
+<link rel="mask-icon" href="/pb-assets/head-metadata/safari-pinned-tab-1574252171193.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#00a300">
+<meta name="theme-color" content="#ffffff">
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"6e539318ac0a38db","token":"b7f168b3cd354a55a4dd51b513830799","version":"2021.12.0","si":100}' crossorigin="anonymous" nonce="a25b5c245d4ae38b-NRT"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854" integrity="sha512-bjgnUKX4azu3dLTVtie9u6TKqgx29RBwfj3QXYt5EKfWM/9hPSAI/4qcV5NACjwAo8UtTeWefx6Zq5PHcMm7Tg==" data-cf-beacon='{"rayId":"7f51c78ba8dacf41","token":"3bb0add5452d43a2b5d4b3d6c628944c","version":"2023.8.0","si":100}' crossorigin="anonymous" nonce="a25b5c245d4ae38b-NRT"></script>
+<!-- Google Tag Manager -->
+    <script nonce="a25b5c245d4ae38b-NRT">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;var n=d.querySelector('[nonce]');n&&j.setAttribute('nonce',n.nonce||n.getAttribute('nonce'));f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NFGCMX');</script>
+    <!-- End Google Tag Manager -->
+
+
+
+
+
+
+<meta name="pbContext" content=";taxonomy:taxonomy:conference-collections;topic:topic:conference-collections&gt;siggraph-asia;article:article:doi\:10.1145/3757369.3793409;wgroup:string:ACM Publication Websites;groupTopic:topic:acm-pubtype&gt;proceeding;ctype:string:Book Content;issue:issue:doi\:10.1145/3757369;page:string:Article/Chapter View;subPage:string:Abstract;csubtype:string:Conference Proceedings;website:website:dl-site;journal:journal:acmconferences;pageGroup:string:Publication Pages">
+        </head>
+    
+
+    
+
+
+
+    
+        
+        
+        
+            <body
+                    class="pb-ui website-dl-site">
+            
+
+
+
+
+
+
+    
+    
+        
+
+<!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NFGCMX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+
+
+
+
+<a href="#skip-to-main-content" class="sr-only-focusable">skip to main content</a>
+
+        <div id="pb-page-content" data-ng-non-bindable>
+                
+            <div data-pb-dropzone="main" data-pb-dropzone-name="Main">
+                
+                    
+                        
+
+
+
+        
+        
+
+
+
+        
+        
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+<div class="smart-layout">
+    
+        
+
+            
+            
+            
+            
+
+            
+
+        
+
+            
+            
+            
+            
+
+            
+                <div class="smart-layout_dropzone-container">
+
+                    
+
+                    
+                    <div data-pb-dropzone="premium-edition-9eb1bdee-2203-454d-b425-e756603eb3fb">
+                        
+
+
+
+        
+        
+<style>
+.display-inline,    
+.display-inline .smart-layout,
+.display-inline .smart-layout_dropzone-container {
+  display: inline;
+}
+
+article [data-core-aside="right-rail"] {
+  background-color: #f0f0f0;
+  padding-top: 30px;
+}
+
+</style>
+
+
+                    </div>
+                </div>
+            
+
+        
+    
+</div>
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <header data-widget-def="ux3-layout-widget" data-widget-id="88f434fd-b4d9-4f0e-b7b6-cde0fadcc9ef" class="header base siggraph-asia">
+        
+
+
+
+        
+        <div class="header__fixed-items fixed fixed-element">
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="ux3-layout-widget" data-widget-id="3d7a89c1-dce3-45a5-b19a-954f74b955f2" class="container header--first-row">
+        
+
+
+
+        
+        <nav class="pull-left">
+
+
+
+        
+        <ul class="rlist--inline">
+    <li class="header__logo1">
+        <a href="/" title="">
+            <img alt="ACM Digital Library home" src="/specs/products/acm/releasedAssets/images/acm-dl-logo-white-1ecfb82271e5612e8ca12aa1b1737479.png" loading="eager">
+        </a>
+    </li>
+    <li class="header__logo2 hidden-xs hidden-md">
+        <a href="https://www.acm.org" title="external site link">
+            <img alt="ACM - Association for Computing Machinery" src="/specs/products/acm/releasedAssets/images/acm-logo-1-ad466e729c8e2a97780337b76715e5cf.png" loading="eager">
+        </a>
+    </li>
+</ul> 
+</nav><div class="pull-right">
+
+
+
+        
+        <style>
+.header--first-row .pull-right .login-list {
+    padding-left: 1rem;
+    border-left: 0.0625rem solid rgba(255, 255, 255, 0.34);
+}
+.header--first-row .pull-right {
+    gap: 0;
+}
+.pull-right .edition-badge-wrapper {
+    padding-right: 1rem;
+}
+.header:not(.basic-premium-header) .institution-wrapper {
+    border-right: none;
+}  
+</style>
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="ux3SmartLayout" data-widget-id="7306c37f-71bf-45b5-8470-c381021f30fa" class="hidden-xs">
+        
+
+
+
+        
+        
+
+
+
+
+
+<div class="smart-layout">
+    
+        
+
+            
+            
+            
+            
+
+            
+                <div class="smart-layout_dropzone-container">
+
+                    
+
+                    
+                    <div data-pb-dropzone="premium-edition-8931fcc3-f02b-48f5-a4a0-82b8cfc63913">
+                        
+
+
+
+        
+        <style>
+a.edition-badge.premium:hover {
+    color: white;
+    background: linear-gradient(90deg, #db3a00, #db0a5b);
+}
+</style>
+<div class="edition-badge-wrapper"><a href="/premium" title="Premium Edition" class="edition-badge premium"><img src="/specs/products/acm/releasedAssets/images/dl-logo-white-9c8e697476e9b35e9580f17df1f72c28.svg" aria-hidden="true" class="edition-badge__logo"><span class="edition-badge__text">Premium Edition</span></a></div> 
+
+                    </div>
+                </div>
+            
+
+        
+
+            
+            
+            
+            
+
+            
+
+        
+    
+</div>
+
+
+        </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="ux3SmartLayout" data-widget-id="016de8d7-31d2-4fc8-a828-0cc39dd135a7" class="hidden-sm hidden-xs institution-banner-border">
+        
+
+
+
+        
+        
+
+
+
+
+
+<div class="smart-layout">
+    
+        
+
+            
+            
+            
+            
+
+            
+
+        
+
+            
+            
+            
+            
+
+            
+                <div class="smart-layout_dropzone-container">
+
+                    
+
+                    
+                    <div data-pb-dropzone="premium-dlr-inst-972dc361-2f89-4ac1-97e7-eea4fcf8c57e">
+                        
+
+
+
+        
+        <style>
+.institution-banner-border {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    padding-left: 1rem;
+    border-left: 0.0625rem solid rgba(255, 255, 255, 0.34);
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="UX3InstitutionBanner" data-widget-id="10bf7e93-d529-4a70-9292-8a5bc7efeef8" class="institution-wrapper">
+        
+
+
+
+        
+        <div class="institution"><a href="/institution/60011047" title="Kyushu University" target="_blank" class="institution__link d-flex align-items-center"><div class="institution-info-wrapper"><span class="institution__intro"> </span><span class="institution__name">Kyushu University</span></div></a></div>
+
+        </div>
+    
+
+
+                    </div>
+                </div>
+            
+
+        
+    
+</div>
+
+
+        </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <nav data-widget-def="ux3-layout-widget" data-widget-id="8b40b17b-36bf-4254-b242-27a4f0dbd586" class="header__quick-menu text-onDark">
+        
+
+
+
+        
+        <div class="login-list">
+
+
+
+        
+        
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="loginBar login-open">
+    
+        
+        
+            <ul class="rlist--inline">
+                <li class="login-link">
+                    
+                        
+                        
+                            <a href="/action/showLogin?redirectUri=%2Fdoi%2Fabs%2F10.1145%2F3757369.3793409">
+                                Sign in
+                            </a>
+                        
+                    
+                </li>
+                
+                    <li class="register-link">
+                        <a href="https://accounts.acm.org?redirectUri=%2Fdoi%2Fabs%2F10.1145%2F3757369.3793409" class="btn" title="Register">
+                            Register
+                        </a>
+                    </li>
+                
+            </ul>
+        
+    
+</div>
+    
+
+
+</div>
+
+        </nav>
+    
+
+</div>
+
+        </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="menuWidget" data-widget-id="13da1316-80a7-4370-a291-8968cd9cb35e" class="container header--second-row">
+        
+
+
+
+        
+        <div class="responsive-menu-container clearfix"><div class="left-section pull-left"></div><div class="menu-section"><div class="main-nav responsive-menu-nav"><a href="#global-menu" data-target="global-menu" data-toggle="nav" title="menu drawer"><span class="drawer__icons-box"><span class="drawer__icons-controls"></span></span></a><nav role="navigation" id="global-menu" data-ctrl-res="screen-sm" aria-label="Main Navigation" class="drawer__nav container gutterless hidden-sm hidden-xs"><div class="menu-login-items hidden-md hidden-lg"></div><ul id="menubar" class="menubar rlist--inline"><li id="menu-item-global-menu-0" class="menu-item mobile-menu-item hide-basic"><a href="/search/advanced"><span>Advanced Search</span></a></li><li id="menu-item-global-menu-1" class="menu-item"><a href="/journals"><span>Journals</span></a></li><li id="menu-item-global-menu-2" class="menu-item"><a href="/magazines"><span>Magazines</span></a></li><li id="menu-item-global-menu-3" class="menu-item"><a href="/proceedings"><span>Proceedings</span></a></li><li id="menu-item-global-menu-4" class="menu-item"><a href="/acmbooks"><span>Books</span></a></li><li id="menu-item-global-menu-5" class="menu-item"><a href="/sigs"><span>SIGs</span></a></li><li id="menu-item-global-menu-6" class="menu-item"><a href="/conferences"><span>Conferences</span></a></li><li id="menu-item-global-menu-7" class="menu-item"><a href="/institutions"><span>Institutions</span></a></li><li id="menu-item-global-menu-8" class="menu-item"><a href="/people"><span>People</span></a></li><li class="hidden-lg hidden-md"><div data-toggle="transplant" data-target-class="hidden-xs hidden-sm" data-target=".header__quick-menu .show-on-mobile" data-direction="from" data-transplant="self"></div></li><li aria-haspopup="true" aria-label="More" class="dropdown-more hidden dropdown menu-parent"><a href="#" title="More" data-toggle="dropdown" class="dropdown__toggle"><span>More</span><i aria-hidden="true" class="icon-section_arrow_d pull-right hidden-sm hidden-xs"></i></a><ul aria-labelledby="main0-1" aria-hidden="true" class="rlist dropdown__menu"></ul></li><li class="menubar__extra-mob-links">
+
+
+
+        
+        <script nonce="a25b5c245d4ae38b-NRT">
+document.addEventListener('DOMContentLoaded', function() {
+
+    var extraMobLinks = document.querySelector('.menubar__extra-mob-links');
+
+    var menubar = document.getElementById('menubar');
+    
+    if (extraMobLinks && menubar) {
+        menubar.insertBefore(extraMobLinks, menubar.firstChild);
+    }
+});
+</script>
+
+
+
+
+        
+        
+
+
+
+
+
+<div class="smart-layout">
+    
+        
+
+            
+            
+            
+            
+
+            
+                <div class="smart-layout_dropzone-container">
+
+                    
+
+                    
+                    <div data-pb-dropzone="premium-edition-8931fcc3-f02b-48f5-a4a0-82b8cfc63913">
+                        
+
+
+
+        
+        <div class="edition-badge-wrapper"><a href="/premium" title="Premium Edition"><img src="/pb-assets/images/premium-edition-1765756198883.png" aria-hidden="true" class="edition-badge__logo" style="height:34px;"></a></div>
+
+                    </div>
+                </div>
+            
+
+        
+
+            
+            
+            
+            
+
+            
+
+        
+    
+</div>
+
+
+
+
+
+        
+        <style>
+.menubar__extra-mob-links .quick-search {
+    display: block !important;
+}
+
+.menubar__extra-mob-links .c-hero__form {
+    justify-content: normal;
+}
+
+.menubar__extra-mob-links .c-hero__form .quick-search--input {
+    width: 100%;
+    margin: 0 1rem;
+}
+
+.menubar__extra-mob-links .auto-complete.quick-search__input {
+    border-radius: .5rem;
+    color: black;
+}
+
+.menubar__extra-mob-links .quick-search__button {
+    color: black !important;
+    font-weight: bolder;
+    font-size: 20px !important;
+}
+  
+.menubar__extra-mob-links .autoComplete {
+    display: none !important;
+}
+  
+.menubar__extra-mob-links .quick-search {
+    padding-bottom: 0;
+}
+</style>
+
+
+
+
+        
+        <div class="quickSearchFormContainer"><div class="quick-search"><div aria-live="assertive" class="advanced-search__autocomplete__announcer sr-only"></div><form action="/action/doSearch" name="defaultQuickSearch" method="get" title="Quick Search" class="c-hero__form"><div class="quick-search--input"><div class="input-group option-0"><input aria-label="Search" type="search" autocomplete="off" name="AllField" placeholder="Search" data-auto-complete-max-words="7" data-auto-complete-max-chars="32" data-contributors-conf="3" data-topics-conf="3" data-publication-titles-conf="3" data-history-items-conf="3" data-group-titles-conf="3" value="" class="auto-complete quick-search__input"/><button type="submit" title="Search" aria-label="Search" class="btn quick-search__button icon-Icon_Search"><span class="sr-only">Search</span><span>Search</span></button></div></div></form><div class="pb-dropzone" data-pb-dropzone="quickSearchDropZone" title="quickSearchDropZone"></div></div></div>
+</li></ul></nav><div id="menu-quick-search" data-db-target-of="menu-quick-search" class="hidden-md hidden-lg"><div class="menu-quick-search__wrapper"><div data-toggle="transplant" data-target-class="hidden-xs hidden-sm" data-target=".header--second-row .quick-search--form" data-direction="from" data-transplant="self" class="quick-search-mobile"></div></div></div></div></div><div class="right-section pull-right">
+
+
+
+        
+        <div class="quickSearchFormContainer"><div class="quick-search"><div aria-live="assertive" class="advanced-search__autocomplete__announcer sr-only"></div><div class="clearfix quick-search__clearfix"><form action="/action/doSearch" name="defaultQuickSearch" method="get" title="Quick Search" class="quick-search--form"><div class="quick-search--input"><div class="input-group option-0"><label for="AllFieldf73847c0-d936-48ec-9bf9-139b3828507f" class="sr-only">Search ACM Digital Library</label><input type="search" autocomplete="off" id="AllFieldf73847c0-d936-48ec-9bf9-139b3828507f" name="AllField" placeholder="Search ACM Digital Library" data-auto-complete-max-words="7" data-auto-complete-max-chars="32" data-contributors-conf="3" data-topics-conf="3" data-publication-titles-conf="3" data-history-items-conf="3" data-group-titles-conf="3" value="" class="auto-complete quick-search__input"/></div></div><div class="quick-search--button"><button type="submit" title="Search" aria-label="Search" class="btn quick-search__button icon-Icon_Search"><span class="sr-only">Search</span><span>Search</span></button></div></form></div>
+
+
+
+        
+        <a title="link to Advanced Search form" href="/search/advanced" class="quick-search__advancedHeader">Advanced Search</a>
+</div></div>
+</div></div><div class="header__dropzone"></div>
+
+        </div>
+    
+
+
+
+
+
+        
+        <span style="display: none;">10.1145/3757369.3793409</span><span style="display: none;">acmconferences</span><span style="display: none;">Article/Chapter View</span><span style="display: none;">Abstract</span><span style="display: none;">Publication Pages</span><span style="display: none;">siggraph-asia</span><span style="display: none;">Conference Proceedings</span><span style="display: none;">conference-collections</span><div class="sub-nav fixed-element"><a href="#" data-db-target-for="sub-nav__items" data-more="false" data-lines="1" style="text-transform: uppercase;" class="sub-nav__toggle hidden-lg truncate-text-css">siggraph-asia</a><div class="sub-nav__container"><div class="container"><div data-ctrl-res="screen-md" class="responsive-menu-container"><div class="left-section pull-left"></div><div class="menu-section"><div style="display: block" class="responsive-menu-nav"><nav id="sub-nav__items" data-db-target-of="sub-nav__items" class="sub-nav__holder drawer__nav"><ul class="rlist--inline menubar"><li><a href="/conference/siggraph-asia" class="sub-nav__item">Conference</a></li><li><a href="/conference/siggraph-asia/proceedings" class="sub-nav__item">Proceedings</a></li><li><a href="/conference/siggraph-asia/upcoming" class="sub-nav__item">Upcoming Events</a></li><li><a href="/conference/siggraph-asia/authors" class="sub-nav__item">Authors</a></li><li><a href="/conference/siggraph-asia/affiliations" class="sub-nav__item">Affiliations</a></li><li><a href="/conference/siggraph-asia/award-winners" class="sub-nav__item">Award Winners</a></li><li aria-haspopup="true" aria-label="More" class="dropdown-more hidden dropdown menu-parent"><a href="#" title="More" data-toggle="dropdown" class="dropdown__toggle hidden-md hidden-sm hidden-xs"><span>More</span><i aria-hidden="true" class="icon-section_arrow_d"></i></a><ul aria-labelledby="main0-1" aria-hidden="true" class="rlist dropdown__menu visible-md visible-sm visible-xs"></ul></li></ul></nav></div></div><div class="right-section hidden-md hidden-sm hidden-xs"></div></div></div></div><div class="hidden-xs hidden-sm"><div class="progress-bar--wrapper"><div style="width: 0.116818%;" class="progress-bar"></div></div></div></div>
+</div><div></div><div class="banner conference-landing"></div><div class="header-breadcrumb"></div>
+
+        </header>
+    
+
+
+
+
+                    
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="ux3-layout-widget" data-widget-id="84fac94e-a290-4bf2-9ff9-7edc8316a494" id="skip-to-main-content">
+        
+
+
+
+        
+        <main class="content siggraph-asia loi-page no-margin">
+
+
+
+        
+        <div role="dialog" aria-labelledby="exportCitationsPopup" class="ux-modal-container"><div id="exportCitation" class="modal"><div class="modal__dialog"><div class="modal__header"><button type="button" data-dismiss="modal" class="close"><i aria-hidden="true" aria-label="close popup" class="icon-close_thin"></i></button><h2 id="exportCitationsPopup">Export Citations</h2></div><div class="modal__body"><div class="exportCitation__tabs"><div class="tab"><ul role="tablist" class="rlist tab__nav"></ul></div><div class="csl-wrapper copy__text-wrapper"><form action="/action/exportCiteProcCitation" method="post" target="_blank"><input type="hidden" name="content" value=""/><input type="hidden" name="dois" value=""/><input type="hidden" name="format" value=""/><fieldset class="input-group"><label for="citation-format" class="visibility-hidden">Select Citation format</label><select id="citation-format" data-csl-doi="10.1145/3757369.3793409" aria-label="Select Citation format"><option value="bibtex" data-format="bibTex">BibTeX</option><option value="endNote" data-format="endNote">EndNote</option><option value="acm" data-format="text">ACM Ref</option></select><span class="select-arrow"><i class="icon-bottom-arrow"></i></span></fieldset><ul class="rlist tab__content"><li id="allResultstab" aria-labelledby="allResults" role="tabpanel" class="tab__pane"><div class="all-results-tab-container"><div class="hidden warning-message mb-2">Please download or close your previous search result export first before starting a new bulk export.</div><div class="desc-text"><div class="bold">Preview is not available.</div>By clicking download,<b class="ml-1">a status dialog</b> will open to start the export process. The process may take<b class="ml-1">a few minutes</b> but once it finishes a file will be downloadable from your browser. You may continue to browse the DL while the export process is in progress.</div></div></li><li id="selectedTab" aria-labelledby="selected" role="tabpanel" class="tab__pane active"><div class="csl-wrapper copy__text-wrapper"><pre class="copy__text csl-response"></pre><div id="export-warning"></div><div class="pull-right"><ul role="menu" class="rlist--inline separator"><li><a href="javascript:void(0)" role="menuitem" title="Download citation" class="download__btn disabled"><label class="visibility-hidden">Download citation</label><i aria-hidden="true" class="icon-Icon_Download"></i></a></li><li><input type="hidden" id="doisLimitNumber" value="1000"/><a href="javascript:void(0)" role="menuitem" title="Copy citation" class="copy__btn disabled"><label class="visibility-hidden">Copy citation</label><i aria-hidden="true" class="icon-pages"></i></a></li></ul></div></div></li></ul></form></div></div></div></div></div></div>
+
+
+
+
+        
+        <link id="build-style-article" rel="stylesheet" type="text/css" href="/products/acm/releasedAssets/css/build-article-7651cd42961957a1fbbe.css"/><article xmlns="http://www.w3.org/1999/xhtml" data-design="pill" data-has="right-rail" data-theme="conference-proceedings" data-type="chapter" vocab="http://schema.org/" typeof="Chapter" lang="en" dir="ltr"><header data-extent="frontmatter"><div class="core-container">
+
+
+
+        
+        <style>
+.article__breadcrumbs {
+    line-height: 1rem;
+    margin-bottom: 1rem;
+}
+  
+.meta-panel {
+  margin-top: 1rem;
+}
+
+.article__breadcrumbs {
+    a:link, a:visited, a:hover, a:active {
+        text-decoration: none;
+        color: inherit!important;
+    }
+}
+</style>
+
+
+
+
+        
+        
+
+
+
+        
+        <nav aria-label="Breadcrumbs" class="article__breadcrumbs separator"><ul><li><a href="https://dl.acm.org/" class="article__tocHeading">Home</a></li><li><a href="/conferences" class="article__tocHeading">Conferences</a></li><li><a href="/conference/siggraph-asia" class="article__tocHeading">SIGGRAPH-ASIA</a></li><li><a href="/conference/siggraph-asia/proceedings" class="article__tocHeading">Proceedings</a></li><li><a href="/doi/proceedings/10.1145/3757369" class="article__tocHeading">SA Art Papers '25</a></li><li><a href="/doi/abs/10.1145/3757369.3793409" aria-current="page" class="article__tocHeading">Session Summary Podcast: Session 2: Ecological Worlding</a></li></ul></nav>
+
+
+
+
+
+        
+        
+
+
+
+
+
+    
+
+    
+
+
+<div data-article-access="free" data-article-access-type="free" class="meta-panel"><div class="meta-panel__left-content"><div class="meta-panel__type"><span>podcast</span></div></div><div class="meta-panel__right-content"><div class="meta-panel__share">
+
+
+
+        
+        <!-- Go to https://www.addtoany.com/buttons/customize/ to customize your tools --><script type="text/javascript" defer="defer" src="https://static.addtoany.com/menu/page.js"></script><div class="share"><div class="share__block share__inline-links"><div class="pb-dropzone" data-pb-dropzone="shareBlock" title="shareBlock"></div><span class="sr-only">Share on</span><ul class="rlist--inline a2a a2a_kit a2a_kit_size_32"><li class="a2a_listitem_custom"><a role="link" title="share on X" class="a2a_button_x"><i aria-hidden="true" class="at-icon-wrapper icon-x"></i></a></li><li class="a2a_listitem_custom"><a role="link" title="share on LinkedIn" class="a2a_button_linkedin"><i aria-hidden="true" class="at-icon-wrapper icon-linkedin"></i></a></li><li class="a2a_listitem_custom"><a role="link" title="share on Reddit" class="a2a_button_reddit"><i aria-hidden="true" class="at-icon-wrapper icon-riddit-filled"></i></a></li><li class="a2a_listitem_custom"><a role="link" title="share on Facebook" class="a2a_button_facebook"><i aria-hidden="true" class="at-icon-wrapper icon-Icon_Facebook"></i></a></li><li class="a2a_listitem_custom"><a role="link" title="Share on Threads" class="a2a_button_threads"><i aria-hidden="true" class="at-icon-wrapper icon-threads"></i></a></li><li class="a2a_listitem_custom"><a role="link" title="share via email" class="a2a_button_email"><i aria-hidden="true" class="at-icon-wrapper icon-Icon_mail"></i></a></li><div class="pb-dropzone" data-pb-dropzone="share-additional-links" title="share-additional-links"></div></ul></div></div>
+</div></div></div><h1 property="name"><i class="icon-ai-podcast" aria-hidden="true"></i> Session Summary Podcast: Session 2: Ecological Worlding</h1><div class="core-relations my-3"></div><div class="contributors"><span class="authors"><span class="heading">Source</span>: <span role="list"><span property="author" typeof="Person" role="listitem"><a href="#artseq-00001"><img src="/pb-assets/icons/DOs/default-profile-1543932446943.svg" class="core-profile-image" role="presentation" /><span property="familyName">AI Generated</span></a></span></span></span><a href="#tab-contributors" class="to-authors-affiliations">Authors Info &amp; Claims</a></div><div class="core-self-citation"><div property="isPartOf" typeof="Book"><a href="/doi/proceedings/10.1145/3757369" property="name">SA Art Papers '25: Proceedings of the SIGGRAPH Asia 2025 Art Papers</a></div><div class="doi"><a href="https://doi.org/10.1145/3757369.3793409" property="sameAs">https://doi.org/10.1145/3757369.3793409</a></div></div><div class="core-published"><span class="label">Published</span>: <span class="core-date-published">26 January 2026</span> <a href="#core-history">Publication History</a><a data-target="crossmark" href="#" title="Check for updates on crossmark" data-doi="10.1145/3757369.3793409" data-id="article-info-crossmark" class="crossmark__link"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 290 58" height="27px" role="presentation"><path fill="url(#horizontal_crossmark)" stroke="#948F8F" stroke-miterlimit="10" stroke-width=".75" d="M287 1H3a2 2 0 0 0-2 2v52a2 2 0 0 0 2 2h284a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2Z"></path><path fill="#535353" d="M80.3 23.58a6.395 6.395 0 0 0-.55-1.43 3.92 3.92 0 0 0-2.19-1.86 5.099 5.099 0 0 0-1.71-.29 5 5 0 0 0-2.46.58 4.831 4.831 0 0 0-1.69 1.54 6.921 6.921 0 0 0-1 2.19 10.16 10.16 0 0 0 0 5 6.921 6.921 0 0 0 1 2.19 4.83 4.83 0 0 0 1.69 1.5 5 5 0 0 0 2.46.58 4.44 4.44 0 0 0 1.85-.36 4.12 4.12 0 0 0 1.38-1c.39-.436.695-.942.9-1.49A7.094 7.094 0 0 0 80.4 29h3a8.46 8.46 0 0 1-.69 2.92 7.179 7.179 0 0 1-1.59 2.29 7 7 0 0 1-2.35 1.49 8.14 8.14 0 0 1-3 .52 8.43 8.43 0 0 1-3.59-.74 7.88 7.88 0 0 1-2.69-2 9.001 9.001 0 0 1-1.69-3 11.41 11.41 0 0 1 0-7.23 9.001 9.001 0 0 1 1.69-3 8.001 8.001 0 0 1 2.69-2 8.3 8.3 0 0 1 3.59-.75 9.44 9.44 0 0 1 2.83.41c.866.242 1.68.642 2.4 1.18A6.229 6.229 0 0 1 82.65 21a6.66 6.66 0 0 1 .78 2.58H80.3ZM85.9 17.9h2.85v6.63h.05a4.15 4.15 0 0 1 1.56-1.46 4.61 4.61 0 0 1 2.31-.59 4.83 4.83 0 0 1 3.33 1.1 4.21 4.21 0 0 1 1.22 3.3v8.88H94.4v-8.13a3.51 3.51 0 0 0-.65-2.21 2.36 2.36 0 0 0-1.87-.69 3.1 3.1 0 0 0-1.3.26 2.821 2.821 0 0 0-1 .73A3.41 3.41 0 0 0 89 26.8a3.88 3.88 0 0 0-.23 1.33v7.63H85.9V17.9ZM102.47 30c-.002.491.069.98.21 1.45.131.448.348.866.64 1.23a3.08 3.08 0 0 0 1.08.84 3.543 3.543 0 0 0 1.55.31 3.431 3.431 0 0 0 2-.54c.541-.402.94-.966 1.14-1.61h2.7A5.349 5.349 0 0 1 109.7 35a5.715 5.715 0 0 1-1.74.85 7 7 0 0 1-2 .29 6.848 6.848 0 0 1-2.7-.5 5.577 5.577 0 0 1-2-1.4A5.953 5.953 0 0 1 100 32a8.748 8.748 0 0 1-.41-2.75 7.768 7.768 0 0 1 .44-2.61 6.67 6.67 0 0 1 1.25-2.17 5.863 5.863 0 0 1 4.56-2 5.79 5.79 0 0 1 2.74.64c.783.41 1.466.986 2 1.69a6.824 6.824 0 0 1 1.16 2.41c.264.905.352 1.852.26 2.79h-9.53Zm6.65-1.87a4.605 4.605 0 0 0-.29-1.3c-.148-.4-.368-.77-.65-1.09a3.22 3.22 0 0 0-1-.75 3 3 0 0 0-1.31-.29 3.431 3.431 0 0 0-1.36.26 3.108 3.108 0 0 0-1 .73 3.594 3.594 0 0 0-.7 1.09 3.798 3.798 0 0 0-.29 1.35h6.65-.05ZM122.88 27.15a2.666 2.666 0 0 0-1-1.81 3.14 3.14 0 0 0-2-.61c-.4.005-.798.07-1.18.19-.435.136-.83.376-1.15.7a3.92 3.92 0 0 0-.87 1.43 6.783 6.783 0 0 0-.35 2.39c.002.539.065 1.076.19 1.6.113.509.316.993.6 1.43.273.41.635.752 1.06 1a3 3 0 0 0 1.58.39 2.872 2.872 0 0 0 2.06-.77 3.596 3.596 0 0 0 1-2.18h2.85a6.26 6.26 0 0 1-1.91 3.86 5.83 5.83 0 0 1-4 1.34 6.61 6.61 0 0 1-2.69-.51 5.695 5.695 0 0 1-2-1.4 6.001 6.001 0 0 1-1.21-2.11 8.279 8.279 0 0 1-.41-2.65 8.987 8.987 0 0 1 .4-2.72 6.237 6.237 0 0 1 1.2-2.21 5.614 5.614 0 0 1 2-1.47 6.7 6.7 0 0 1 2.79-.54 7.801 7.801 0 0 1 2.14.29 5.634 5.634 0 0 1 1.8.86c.529.386.969.88 1.29 1.45a5 5 0 0 1 .6 2.07h-2.85l.06-.02ZM128.13 17.9H131V28l5.15-5.22h3.5l-5 4.75 5.42 8.17h-3.47l-4-6.27-1.6 1.7v4.63h-2.85V17.9h-.02ZM147.15 22.83h2.13v-1.08a5.505 5.505 0 0 1 .3-2c.161-.456.436-.862.8-1.18.33-.273.721-.462 1.14-.55.44-.094.89-.141 1.34-.14a8.158 8.158 0 0 1 2 .18v2.24a4.113 4.113 0 0 0-.59-.11 6.343 6.343 0 0 0-.74 0 1.74 1.74 0 0 0-1 .27 1.204 1.204 0 0 0-.41 1.08v1.33h2.42V25h-2.42v10.8h-2.85V25h-2.12v-2.17ZM162.23 36.1a6.999 6.999 0 0 1-2.76-.51 5.877 5.877 0 0 1-2-1.41 5.998 5.998 0 0 1-1.33-2.18 8.775 8.775 0 0 1 0-5.48 6.008 6.008 0 0 1 1.27-2.15 5.894 5.894 0 0 1 2-1.41A7.71 7.71 0 0 1 165 23a5.894 5.894 0 0 1 2 1.41 6.003 6.003 0 0 1 1.28 2.15c.585 1.78.585 3.7 0 5.48a5.99 5.99 0 0 1-3.28 3.54 7.002 7.002 0 0 1-2.77.52Zm0-2.25a3.268 3.268 0 0 0 1.65-.4c.447-.262.83-.621 1.12-1.05.304-.444.528-.938.66-1.46a6.581 6.581 0 0 0 0-3.31 4.416 4.416 0 0 0-.66-1.46 3.526 3.526 0 0 0-1.15-1 3.6 3.6 0 0 0-3.3 0 3.526 3.526 0 0 0-1.15 1 4.414 4.414 0 0 0-.66 1.46 6.558 6.558 0 0 0 0 3.31c.132.522.356 1.016.66 1.46a3.47 3.47 0 0 0 1.15 1.05 3.26 3.26 0 0 0 1.68.4ZM171.13 22.83h2.67v2.5c.097-.362.264-.701.49-1 .251-.341.547-.647.88-.91a4.404 4.404 0 0 1 1.14-.66 3.41 3.41 0 0 1 1.28-.25c.23-.013.46-.013.69 0h.39v2.79l-.61-.09a5.173 5.173 0 0 0-.61 0 3.278 3.278 0 0 0-1.36.29 3.131 3.131 0 0 0-1.11.85 4.171 4.171 0 0 0-.75 1.39 6 6 0 0 0-.28 1.9v6.15h-2.85V22.83h.03ZM198.22 35.75h-2.8V34a3.907 3.907 0 0 1-1.56 1.56 4.25 4.25 0 0 1-2.11.59 4.742 4.742 0 0 1-3.75-1.31 5.537 5.537 0 0 1-1.12-3.84v-8.2h2.85v7.92a3.503 3.503 0 0 0 .65 2.4 2.38 2.38 0 0 0 1.83.7 3.599 3.599 0 0 0 1.5-.27 2.66 2.66 0 0 0 1-.74c.259-.326.444-.705.54-1.11a5.79 5.79 0 0 0 .16-1.4v-7.5h2.85v12.95h-.04ZM201.3 22.83h2.7v1.75a3.523 3.523 0 0 1 1.72-1.58 5.568 5.568 0 0 1 2.33-.49 6.17 6.17 0 0 1 2.66.54 5.246 5.246 0 0 1 1.89 1.47c.515.65.899 1.394 1.13 2.19.257.87.385 1.773.38 2.68.001.851-.114 1.7-.34 2.52a6.568 6.568 0 0 1-1 2.16 5.002 5.002 0 0 1-4.21 2.06c-.419 0-.837-.036-1.25-.11a5.39 5.39 0 0 1-1.2-.36A4.737 4.737 0 0 1 205 35a3.567 3.567 0 0 1-.81-.91v6.45h-2.89V22.83Zm10 6.47c0-.574-.078-1.146-.23-1.7a4.606 4.606 0 0 0-.67-1.46 3.475 3.475 0 0 0-1.12-1 3.06 3.06 0 0 0-1.55-.39A3.141 3.141 0 0 0 205 26a5.518 5.518 0 0 0-1 3.3c-.004.611.077 1.22.24 1.81.138.523.38 1.012.71 1.44a3.55 3.55 0 0 0 1.14 1 3.242 3.242 0 0 0 1.54.35 3.18 3.18 0 0 0 1.65-.4c.438-.25.817-.59 1.11-1 .299-.44.513-.931.63-1.45a7.38 7.38 0 0 0 .23-1.75h.05ZM228.67 35.75H226V34a3.38 3.38 0 0 1-1.67 1.61 5.668 5.668 0 0 1-2.33.49 6.17 6.17 0 0 1-2.66-.54 5.307 5.307 0 0 1-1.89-1.46 6.254 6.254 0 0 1-1.12-2.19 9.48 9.48 0 0 1-.37-2.71 8.67 8.67 0 0 1 .47-3 6.058 6.058 0 0 1 1.26-2.1 4.89 4.89 0 0 1 1.8-1.21 5.738 5.738 0 0 1 2.06-.39c.412 0 .824.037 1.23.11.413.073.815.194 1.2.36.38.166.736.381 1.06.64.32.255.594.562.81.91V17.9h2.85v17.85h-.03Zm-10-6.33c-.001.55.069 1.098.21 1.63.13.511.35.996.65 1.43.288.414.668.757 1.11 1a3.241 3.241 0 0 0 1.6.38 3.199 3.199 0 0 0 1.64-.4 3.398 3.398 0 0 0 1.13-1.05c.297-.447.517-.94.65-1.46.14-.542.211-1.1.21-1.66a5.227 5.227 0 0 0-1-3.35 3.175 3.175 0 0 0-2.61-1.2 3.23 3.23 0 0 0-1.69.41 3.478 3.478 0 0 0-1.12 1.07 4.494 4.494 0 0 0-.62 1.5 7.871 7.871 0 0 0-.11 1.7h-.05ZM242.6 32.88c-.018.258.03.516.14.75a.577.577 0 0 0 .54.23h.3c.135-.002.269-.019.4-.05v2l-.39.11-.49.08-.5.08h-.42a2.75 2.75 0 0 1-1.45-.35 1.731 1.731 0 0 1-.75-1.23 4.998 4.998 0 0 1-2.09 1.2 8.224 8.224 0 0 1-2.39.38 5.861 5.861 0 0 1-1.67-.24 4.394 4.394 0 0 1-1.41-.7 3.35 3.35 0 0 1-1-1.18 3.624 3.624 0 0 1-.36-1.66 3.84 3.84 0 0 1 .44-2 3.246 3.246 0 0 1 1.15-1.17 5.195 5.195 0 0 1 1.6-.61c.593-.127 1.19-.223 1.79-.29a14.77 14.77 0 0 1 1.47-.21 6.896 6.896 0 0 0 1.24-.21c.318-.077.611-.236.85-.46a1.286 1.286 0 0 0 .31-.94 1.458 1.458 0 0 0-.26-.9A1.759 1.759 0 0 0 239 25a2.807 2.807 0 0 0-.86-.25 6.941 6.941 0 0 0-.9-.06 3.58 3.58 0 0 0-2 .5 2 2 0 0 0-.87 1.55h-2.85c.021-.73.227-1.442.6-2.07.338-.54.797-.996 1.34-1.33a5.475 5.475 0 0 1 1.84-.7c.692-.134 1.395-.2 2.1-.2.632 0 1.262.067 1.88.2a5.337 5.337 0 0 1 1.66.65 3.6 3.6 0 0 1 1.19 1.16c.314.525.47 1.129.45 1.74v6.65l.02.04Zm-2.85-3.6a3.45 3.45 0 0 1-1.6.51c-.667.06-1.3.147-1.9.26a6.137 6.137 0 0 0-.87.21 2.64 2.64 0 0 0-.75.38c-.22.164-.395.38-.51.63a2.129 2.129 0 0 0-.19.94c-.011.29.085.575.27.8.182.215.407.388.66.51.269.128.555.216.85.26.277.05.558.076.84.08a4.63 4.63 0 0 0 1-.12 3.418 3.418 0 0 0 1-.43 2.73 2.73 0 0 0 .81-.76 1.93 1.93 0 0 0 .32-1.14v-2.14l.07.01ZM244.37 22.83h2.15V19h2.85v3.88h2.58V25h-2.58v6.9a7.064 7.064 0 0 0 0 .77c.016.194.074.381.17.55a.84.84 0 0 0 .41.34 2 2 0 0 0 .75.11h.6c.203-.01.404-.04.6-.09v2.2l-.93.1a8.403 8.403 0 0 1-.92 0 6.33 6.33 0 0 1-1.81-.21 2.421 2.421 0 0 1-1.08-.62 2.15 2.15 0 0 1-.52-1 7.791 7.791 0 0 1-.16-1.42V25h-2.15v-2.17h.04ZM256.22 30c-.002.491.069.98.21 1.45.131.448.348.866.64 1.23a3.08 3.08 0 0 0 1.08.84 3.543 3.543 0 0 0 1.55.31 3.431 3.431 0 0 0 2-.54c.541-.402.94-.966 1.14-1.61h2.7a5.352 5.352 0 0 1-2.1 3.26 5.715 5.715 0 0 1-1.74.85 7 7 0 0 1-2 .29 6.848 6.848 0 0 1-2.7-.5 5.577 5.577 0 0 1-2-1.4 5.947 5.947 0 0 1-1.21-2.18 8.754 8.754 0 0 1-.41-2.75 7.758 7.758 0 0 1 .44-2.61 6.67 6.67 0 0 1 1.25-2.17 5.863 5.863 0 0 1 4.56-2 5.79 5.79 0 0 1 2.74.64c.783.41 1.466.986 2 1.69a6.824 6.824 0 0 1 1.16 2.41c.243.916.308 1.87.19 2.81h-9.5V30Zm6.65-1.87a4.605 4.605 0 0 0-.29-1.3c-.148-.4-.368-.77-.65-1.09a3.22 3.22 0 0 0-1-.75 3 3 0 0 0-1.31-.29 3.431 3.431 0 0 0-1.36.26 3.108 3.108 0 0 0-1 .73 3.575 3.575 0 0 0-.7 1.09 3.798 3.798 0 0 0-.29 1.35h6.65-.05ZM270 31.6a2.154 2.154 0 0 0 .95 1.75c.607.35 1.3.524 2 .5.304-.002.608-.022.91-.06a3.943 3.943 0 0 0 1-.24c.286-.105.54-.28.74-.51a1.23 1.23 0 0 0 .26-.89 1.261 1.261 0 0 0-.4-.9 2.779 2.779 0 0 0-1-.56 9.315 9.315 0 0 0-1.34-.36l-1.5-.33a14.219 14.219 0 0 1-1.54-.42 4.937 4.937 0 0 1-1.33-.68 3.12 3.12 0 0 1-.94-1.09 3.472 3.472 0 0 1-.35-1.64 2.94 2.94 0 0 1 .51-1.76 3.913 3.913 0 0 1 1.3-1.15 5.66 5.66 0 0 1 1.75-.61 10.316 10.316 0 0 1 1.84-.17 8.418 8.418 0 0 1 1.91.21 5.19 5.19 0 0 1 1.65.69c.496.318.916.741 1.23 1.24.341.559.55 1.188.61 1.84h-3a1.783 1.783 0 0 0-.94-1.37 3.892 3.892 0 0 0-1.69-.35 6.093 6.093 0 0 0-.71 0 3.327 3.327 0 0 0-.78.19 1.642 1.642 0 0 0-.61.4 1 1 0 0 0-.25.69 1.093 1.093 0 0 0 .36.85c.294.245.634.428 1 .54.437.153.885.274 1.34.36l1.55.33a20.9 20.9 0 0 1 1.53.42c.479.157.931.386 1.34.68.41.277.751.643 1 1.07.255.494.379 1.045.36 1.6a3.48 3.48 0 0 1-.52 2 4.15 4.15 0 0 1-1.36 1.3 6.19 6.19 0 0 1-1.86.73 9.435 9.435 0 0 1-2 .23 8.823 8.823 0 0 1-2.26-.27 5.265 5.265 0 0 1-1.8-.84 4 4 0 0 1-1.2-1.4 4.445 4.445 0 0 1-.46-2h2.7v-.02Z"></path><path fill="#C72914" d="m21.94 38.74 18.12-12.08v-14.5H21.94v26.58Z"></path><path fill="#EF3340" d="M40.06 38.74 21.94 26.66v-14.5h18.12v26.58Z"></path><path fill="#3EB1C8" d="M31 9a20 20 0 1 0 0 40 20 20 0 0 0 0-40Zm0 35.1a15.1 15.1 0 1 1 0-30.2 15.1 15.1 0 0 1 0 30.2Z"></path><path fill="#FFC72C" d="M42.09 39.23A15.09 15.09 0 0 1 17 23.38l-4.2-2.64a20 20 0 0 0 33.49 21.14l-4.2-2.65Z"></path><defs><linearGradient id="horizontal_crossmark" x1="145" x2="145" y1="7.33" y2="56.82" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"></stop><stop offset="1" stop-color="#c4c4c4"></stop></linearGradient></defs></svg></a></div><div class="core-related-do"></div><div class="info-panel"><div class="info-panel__left-content"><div class="info-panel__metrics info-panel__item">
+
+
+
+        
+        <div class="pub-metrics"><div class="issue-item__footer-info"><button tabindex="0" aria-haspopup="dialog" aria-expanded="false" aria-controls="metrics-tooltip-body-orv" title="Click to stay open" class="tooltip metrics-toggle"><span class="citation"><i aria-hidden="true" class="icon-quote"></i><span>0</span><span class="sr-only">citation</span></span><span class="metric"><i aria-hidden="true" class="icon-metric"></i><span>517</span><span class="sr-only">Downloads</span></span></button><div id="metrics-tooltip-body-orv" class="tooltip__body metrics-tooltip-body"><span class="arrow"></span><div class="left-bordered-title">Metrics</div><a href="#tab-citations" title="See Citations pane" class="tab-link"><div class="citation">Total Citations<span class="bold">0</span></div></a><a href="#tab-metrics-inner" title="See Bibliometrics pane" class="tab-link"><div class="metric">Total Downloads<span class="bold">517</span></div></a><div class="info">Last 12 Months<span class="bold">517</span></div><div class="info">Last 6 weeks<span class="bold">22</span></div></div></div></div>
+</div><div class="info-panel__altmetrics info-panel__item"></div></div><div class="info-panel__right-content"><div class="info-panel__article_tools info-panel__item">
+
+
+
+        
+        <button id="manageAlert__crtl" href="/action/addCitationAlert?doi=10.1145/3757369.3793409" data-toggle="modal" data-title="Get Citation Alerts" data-target="#manageAlert" aria-label="get citation alerts" title="Get Citation Alerts" class="article-actionbar__btn btn btn--icon simple-tooltip__block--b btn--slim"><i aria-hidden="true" class="icon-Icon_Alerts"></i><span class="visibility-hidden">Get Citation Alerts</span></button><div role="dialog" aria-labelledby="id-hatemile-navigation-6073290063892647-6" class="ux-modal-container"><div id="manageAlert" class="modal"><div class="modal__dialog"><div class="modal__dialog--success hidden"><div class="modal__header"><button type="button" data-dismiss="modal" aria-label="close popup" class="close"><i aria-hidden="true" class="icon-close_thin"></i></button><a id="id-hatemile-navigation-6073290063892647-7" name="id-hatemile-navigation-6073290063892647-7" data-headinganchorfor="id-hatemile-navigation-6073290063892647-6" class="heading-anchor"></a><h2 id="id-hatemile-navigation-6073290063892647-6">New Citation Alert added!</h2></div><div class="modal__body"><p>This alert has been successfully added and will be sent to:<span class="email"></span></p><p>You will be notified whenever a record that you have chosen has been cited.</p></div><div class="modal__footer"><p>To manage your alert preferences, click on the button below.</p><a href="/action/showPreferences?menuTab=Alerts" title="Manage my Alerts" id="id-hatemile-display-1019331959102511-5" class="btn blue big stretched manageAlert__btn"><span data-attributetitleof="id-hatemile-display-1019331959102511-5" class="force-read-before">Manage my Alerts</span></a></div></div><div class="modal__dialog--error hidden"><div class="modal__header"><button type="button" data-dismiss="modal" aria-label="close popup" class="close"><i aria-hidden="true" class="icon-close_thin"></i></button><a id="id-hatemile-navigation-6073290063892647-9" name="id-hatemile-navigation-6073290063892647-9" data-headinganchorfor="id-hatemile-navigation-6073290063892647-8" class="heading-anchor"></a><h2 id="id-hatemile-navigation-6073290063892647-8">Add a Citation Alert</h2></div><div class="modal__body"><p>To add a citation alert, please <a href="/action/showLogin?redirectUri=/doi/abs/10.1145/3757369.3793409" title="Sign In" class="link">log in to your account</a></p></div></div></div></div></div>
+</div><div class="info-panel__binder info-panel__item"><button class="article-actionbar__btn btn btn--icon simple-tooltip__block--b btn--slim binder saveToBinders" aria-label="Save to Binder" data-db-target-for="save-to-binder" data-link="/action/binderList?doi=10.1145/3757369.3793409"><i aria-hidden="true" class="icon-add-folder"></i></button></div><div class="info-panel__citations info-panel__item"><button data-target="#exportCitation" data-toggle="modal" aria-label="Export Citation" class="article-actionbar__btn btn btn--icon simple-tooltip__block--b btn--slim citations"><i aria-hidden="true" class="icon-quote"></i><input type="hidden" name="doiVal" value="10.1145/3757369.3793409"/></button></div><div class="info-panel__formats info-panel__item"><a href="https://dl.acm.org/doi/full/10.1145/3757369.3793409" class="btn simple-tooltip__block--b btn--fullText" aria-label="View full text"><i aria-hidden="true" class="icon-full-text"></i><span class="link-text">Full text</span></a></div></div></div></div></header><div data-core-nav="header" data-extent="frontmatter"><div class="core-nav-wrapper core-container" role="navigation" aria-label="Article navigation"><div><button aria-controls="article_sections_menu" aria-expanded="false" aria-label="Toggle section navigation menu"><i class="icon-burger" aria-hidden="true"></i><span>Contents</span></button><nav id="article_sections_menu" aria-label="Contents" data-core-nav="article"><header><div class="core-self-citation"><div property="isPartOf" typeof="Book"><a href="/doi/proceedings/10.1145/3757369" property="name">SA Art Papers '25: Proceedings of the SIGGRAPH Asia 2025 Art Papers</a></div><div class="core-publication-title" property="name">Session Summary Podcast: Session 2: Ecological Worlding</div></div><div class="content-navigation"><a href="/doi/10.1145/3757369.3767609" aria-label="Previous chapter" aria-disabled="false" class="content-navigation__prev"><div aria-hidden="true" class="content-navigation__hint"><div class="content-navigation__hint__content"><h6>PREVIOUS CHAPTER</h6><div>The Dream of Zhuang Zhou: Entangled Agencies in Multispecies Virtual Reality</div></div></div><i aria-hidden="true" class="icon-Arrow-Stroke"></i><span>Previous</span></a><a href="/doi/10.1145/3757369.3767594" aria-label="Next chapter" aria-disabled="false" class="content-navigation__next"><div aria-hidden="true" class="content-navigation__hint"><div class="content-navigation__hint__content"><h6>NEXT CHAPTER</h6><div>Deconstructing Computational Colonialism: An Eco-Relational Framework for Decolonial AI Art (1960s-Present)</div></div></div><span>Next</span><i aria-hidden="true" class="icon-Arrow-Stroke"></i></a></div></header><ul><li><a href="#summary-abstract">Abstract</a></li><li><a href="#bibliography">Summarised Articles</a></li></ul><footer>
+
+
+
+        
+        <div class="logo">
+    <img alt="ACM Digital Library" src="/specs/products/acm/releasedAssets/images/footer-logo1-45ae33115db81394d8bd25be65853b77.png" height="26" width="110" loading="eager">
+</div>
+</footer></nav></div><nav id="article_collateral_menu"><ul class="collateral-pill" data-core-nav="collateral"><li><a href="#core-collateral-info" aria-controls="core-collateral-info" aria-disabled="true" disabled="true" title="Information & Contributors"><i aria-hidden="true" class="icon-Icon_Information"></i><span class="sr-only">Information & Contributors</span></a></li><li><a href="#core-collateral-metrics" aria-controls="core-collateral-metrics" aria-disabled="true" disabled="true" title="Bibliometrics & Citations"><i aria-hidden="true" class="icon-metric"></i><span class="sr-only">Bibliometrics & Citations</span></a></li><li><a href="#core-collateral-fulltext-options" aria-controls="core-collateral-fulltext-options" aria-disabled="true" disabled="true" title="Reading Options"><i aria-hidden="true" class="icon-eye"></i><span class="sr-only">Reading Options</span></a></li><li><a href="#core-collateral-references" aria-controls="core-collateral-references" aria-disabled="true" disabled="true" title="References"><i aria-hidden="true" class="icon-Icon_Links-References"></i><span class="sr-only">References</span></a></li><li><a href="#core-collateral-figures" aria-controls="core-collateral-figures" aria-disabled="true" disabled="true" title="Figures"><i aria-hidden="true" class="icon-Icon_Images"></i><span class="sr-only">Figures</span></a></li><li><a href="#core-collateral-tables" aria-controls="core-collateral-tables" aria-disabled="true" disabled="true" title="Tables"><i aria-hidden="true" class="icon-table"></i><span class="sr-only">Tables</span></a></li><li><a href="#core-collateral-media" aria-controls="core-collateral-media" aria-disabled="true" disabled="true" title="Media"><i aria-hidden="true" class="icon-play_circle_filled"></i><span class="sr-only">Media</span></a></li><li><a href="#core-collateral-share" aria-controls="core-collateral-share" aria-disabled="true" disabled="true" title="Share"><i aria-hidden="true" class="icon-share"></i><span class="sr-only">Share</span></a></li></ul></nav></div></div><div data-core-wrapper="content"><div id="abstracts" data-extent="frontmatter"><div class="core-container"><section id="summary-abstract" data-type="summary" property="abstract" typeof="Text" role="doc-abstract"><h2 property="name">Abstract</h2><div role="paragraph">An AI-generated podcast companion article to augment the Ecological Worlding Session of the SA Art Papers '25</div><div role="paragraph">NOTE: AI content can contain errors and should be double-checked before use.</div></section></div></div><section id="bodymatter" data-extent="bodymatter" property="articleBody" typeof="Text"><div class="core-container"><section aria-labelledby="denial-block-title" class="denial-block "><h2 id="denial-block-title" class="denial-block__title">Formats available</h2><p class="denial-block__text">You can view the full content in the following formats:</p><div class="denial-block__available-formats"><a href="https://dl.acm.org/doi/full/10.1145/3757369.3793409" class="btn simple-tooltip__block--b btn--fullText" title="View full text" aria-label="View full text"><i aria-hidden="true" class="icon-full-text"></i><span class="link-text">Full Text</span></a></div></section></div></section><section id="backmatter" data-extent="backmatter"><div class="core-container"><section id="bibliography" role="doc-bibliography"><h2>Summarised Articles</h2><div class="bibliolist"><div class="biblioentry" data-has="label"><div class="label">[1]</div><div id="Bib0001" class="citations"><div class="citation"><div class="citation-content">Yuan Zhuang, Ze Gao, Mengyao Guo, et al. 2025. Deconstructing Computational Colonialism: An Eco-Relational Framework for Decolonial AI Art (1960s-Present). In <em>Proceedings of the SIGGRAPH Asia 2025 Art Papers (SA Art Papers '25)</em>. Association for Computing Machinery, New York, NY, USA, Pages 1-10.</div><div class="external-links"><div class="core-xlink-digital-library"><a href="/doi/10.1145/3757369.3767594">Digital Library</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=Deconstructing+Computational+Colonialism%3A+An+Eco-Relational+Framework+for+Decolonial+AI+Art+%281960s-Present%29&amp;author=Yuan+Zhuang&amp;author=Ze+Gao&amp;author=Mengyao+Guo&amp;publication_year=2025&amp;doi=10.1145%2F3757369.3767594">Google Scholar</a></div></div></div></div></div><div class="biblioentry" data-has="label"><div class="label">[2]</div><div id="Bib0002" class="citations"><div class="citation"><div class="citation-content">Ary-Yue Huang, Qing Qin, Wenzong Ma, et al. 2025. Drift of the Uncharted: A Speculative Fiction About Rising Sea-Level Landscapes through Robotic Performance. In <em>Proceedings of the SIGGRAPH Asia 2025 Art Papers (SA Art Papers '25)</em>. Association for Computing Machinery, New York, NY, USA, Pages 1-8.</div><div class="external-links"><div class="core-xlink-digital-library"><a href="/doi/10.1145/3757369.3767598">Digital Library</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=Drift+of+the+Uncharted%3A+A+Speculative+Fiction+About+Rising+Sea-Level+Landscapes+through+Robotic+Performance&amp;author=Ary-Yue+Huang&amp;author=Qing+Qin&amp;author=Wenzong+Ma&amp;publication_year=2025&amp;doi=10.1145%2F3757369.3767598">Google Scholar</a></div></div></div></div></div><div class="biblioentry" data-has="label"><div class="label">[3]</div><div id="Bib0003" class="citations"><div class="citation"><div class="citation-content">Baoyang Chen, Xian Xu, and Huamin Qu. 2025. Airy: Reading Robot Intent through Height and Sky. In <em>Proceedings of the SIGGRAPH Asia 2025 Art Papers (SA Art Papers '25)</em>. Association for Computing Machinery, New York, NY, USA, Pages 1-7.</div><div class="external-links"><div class="core-xlink-digital-library"><a href="/doi/10.1145/3757369.3767602">Digital Library</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=Airy%3A+Reading+Robot+Intent+through+Height+and+Sky&amp;author=Baoyang+Chen&amp;author=Xian+Xu&amp;author=Huamin+Qu&amp;publication_year=2025&amp;doi=10.1145%2F3757369.3767602">Google Scholar</a></div></div></div></div></div><div class="biblioentry" data-has="label"><div class="label">[4]</div><div id="Bib0004" class="citations"><div class="citation"><div class="citation-content">Zhen Wu, Xiaomin Fan, Mika Shirahama, et al. 2025. When the observer becomes the observed. In <em>Proceedings of the SIGGRAPH Asia 2025 Art Papers (SA Art Papers '25)</em>. Association for Computing Machinery, New York, NY, USA, Pages 1-10.</div><div class="external-links"><div class="core-xlink-digital-library"><a href="/doi/10.1145/3757369.3767610">Digital Library</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=When+the+observer+becomes+the+observed&amp;author=Zhen+Wu&amp;author=Xiaomin+Fan&amp;author=Mika+Shirahama&amp;publication_year=2025&amp;doi=10.1145%2F3757369.3767610">Google Scholar</a></div></div></div></div></div><div class="biblioentry" data-has="label"><div class="label">[5]</div><div id="Bib0005" class="citations"><div class="citation"><div class="citation-content">, and Peijing Mou. 2025. (Un)Natural Language: An Art Software Identifies Potential Ecological Threats in Documents. In <em>Proceedings of the SIGGRAPH Asia 2025 Art Papers (SA Art Papers '25)</em>. Association for Computing Machinery, New York, NY, USA, Pages -6.</div><div class="external-links"><div class="core-xlink-digital-library"><a href="/doi/10.1145/3757369.3767611">Digital Library</a></div><div class="core-xlink-google-scholar"><a href="https://scholar.google.com/scholar_lookup?title=%28Un%29Natural+Language%3A+An+Art+Software+Identifies+Potential+Ecological+Threats+in+Documents&amp;author=Peijing+Mou&amp;publication_year=2025&amp;doi=10.1145%2F3757369.3767611">Google Scholar</a></div></div></div></div></div></div></section>
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="ux3-layout-widget" data-widget-id="5eab360b-b0a7-47ce-b05a-6e2d026cb5d0" id="ACM_widgets">
+        
+
+
+
+        
+        <div>
+
+
+
+        
+        <div></div>
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <section data-widget-def="ux3-layout-widget" data-widget-id="39967302-8491-456d-8cd5-f2724d18d392" id="sec-terms">
+        
+
+
+
+        
+        <div>
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="UX3TagWidget" data-widget-id="e2ef85cc-92e2-4a74-b049-e0a086481942" class="citation article__section article__index-terms">
+        
+
+
+
+        
+        
+
+
+
+        
+        <h2>Index Terms</h2>
+<ol class="rlist organizational-chart"><li><div id="organizational-chart__title">Session Summary Podcast: Session 2: Ecological Worlding</div><ol class="rlist level-1  ch-4 hasNodes"><li><div data-background="#737373" style="background-color:#737373;box-shadow:none"><p><a href="/topic/ccs2012/10010405?ContentGroupKey=10.1145%2F3757369&amp;expand=all">Applied computing</a></p></div><ol class="rlist level-2 ch-2 hasNodes"><li><div data-background="#F5F5F5" style="background-color:#F5F5F5;box-shadow:none"><p><a href="/topic/ccs2012/10010405.10010476?ContentGroupKey=10.1145%2F3757369&amp;expand=all">Computers in other domains</a></p></div><ol class="rlist level-3 ch-0"></ol></li><li><div data-background="#737373" style="background-color:#737373;box-shadow:none"><p><a href="/topic/ccs2012/10010405.10010432?ContentGroupKey=10.1145%2F3757369&amp;expand=all">Physical sciences and engineering</a></p></div><ol class="rlist level-4 ch-1 hasNodes"><li><div data-background="#737373" style="background-color:#737373;box-shadow:none"><p><a href="/topic/ccs2012/10010405.10010432.10010437?ContentGroupKey=10.1145%2F3757369&amp;expand=all">Earth and atmospheric sciences</a></p></div><ol class="rlist level-5 ch-0"></ol></li></ol></li></ol></li><li><div data-background="#F5F5F5" style="background-color:#F5F5F5;box-shadow:none"><p><a href="/topic/ccs2012/10002944?ContentGroupKey=10.1145%2F3757369&amp;expand=all">General and reference</a></p></div><ol class="rlist level-2 ch-1 hasNodes"><li><div data-background="#F5F5F5" style="background-color:#F5F5F5;box-shadow:none"><p><a href="/topic/ccs2012/10002944.10011122?ContentGroupKey=10.1145%2F3757369&amp;expand=all">Document types</a></p></div><ol class="rlist level-3 ch-1 hasNodes"><li><div data-background="#F5F5F5" style="background-color:#F5F5F5;box-shadow:none"><p><a href="/topic/ccs2012/10002944.10011122.10002945?ContentGroupKey=10.1145%2F3757369&amp;expand=all">Surveys and overviews</a></p></div><ol class="rlist level-4 ch-0"></ol></li></ol></li></ol></li><li><div data-background="#F5F5F5" style="background-color:#F5F5F5;box-shadow:none"><p><a href="/topic/ccs2012/10003120?ContentGroupKey=10.1145%2F3757369&amp;expand=all">Human-centered computing</a></p></div><ol class="rlist level-2 ch-1 hasNodes"><li><div data-background="#F5F5F5" style="background-color:#F5F5F5;box-shadow:none"><p><a href="/topic/ccs2012/10003120.10003145?ContentGroupKey=10.1145%2F3757369&amp;expand=all">Visualization</a></p></div><ol class="rlist level-3 ch-1 hasNodes"><li><div data-background="#F5F5F5" style="background-color:#F5F5F5;box-shadow:none"><p><a href="/topic/ccs2012/10003120.10003145.10003147?ContentGroupKey=10.1145%2F3757369&amp;expand=all">Visualization application domains</a></p></div><ol class="rlist level-4 ch-0"></ol></li></ol></li></ol></li><li><div data-background="#F5F5F5" style="background-color:#F5F5F5;box-shadow:none"><p><a href="/topic/ccs2012/10002951?ContentGroupKey=10.1145%2F3757369&amp;expand=all">Information systems</a></p></div><ol class="rlist level-2 ch-2 hasNodes"><li><div data-background="#F5F5F5" style="background-color:#F5F5F5;box-shadow:none"><p><a href="/topic/ccs2012/10002951.10003317?ContentGroupKey=10.1145%2F3757369&amp;expand=all">Information retrieval</a></p></div><ol class="rlist level-3 ch-1 hasNodes"><li><div data-background="#F5F5F5" style="background-color:#F5F5F5;box-shadow:none"><p><a href="/topic/ccs2012/10002951.10003317.10003318?ContentGroupKey=10.1145%2F3757369&amp;expand=all">Document representation</a></p></div><ol class="rlist level-4 ch-0"></ol></li></ol></li><li><div data-background="#F5F5F5" style="background-color:#F5F5F5;box-shadow:none"><p><a href="/topic/ccs2012/10002951.10003227?ContentGroupKey=10.1145%2F3757369&amp;expand=all">Information systems applications</a></p></div><ol class="rlist level-4 ch-0"></ol></li></ol></li></ol></li></ol>
+
+        </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="graphQueryWidget" data-widget-id="a0e1f283-de80-413e-bd95-25e0e7f29726" class="disclaimer">
+        
+
+
+
+        
+        <span> Index terms have been assigned to the content through auto-classification.</span>
+
+        </div>
+    
+
+</div>
+
+        </section>
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <section data-widget-def="ux3-layout-widget" data-widget-id="05703002-6a13-4f45-bf69-ef3358f44bf6" id="sec-recommendations">
+        
+
+
+
+        
+        <div>
+
+
+
+        
+        <h2>Recommendations</h2> 
+
+
+
+
+        
+        <div class="show-recommended"><div data-exp-type="" data-query-id="10.1145/3757369.3793409" class="recommended-articles__content"><ul class="rlist lot"><li class="grid-item"><div class="creative-work"><a href="/doi/10.1145/3733820.3798059" title="Session Summary Podcast: Session 2"><h3 data-lines="2" class="creative-work__title truncate-text-css">Session Summary Podcast: Session 2</h3></a><div class="creative-work__sub-title mb-3 mt-1">QRSEC '25: Proceedings of the 2025 1st Workshop on Quantum-Resistant Cryptography and Security  </div><div class="description"><div class="issue-item__abstract truncate-text-css" data-lines="4"> 
+   <p>An AI-generated podcast companion article to augment the Session 2 Session of the
+      QRSEC '25</p> 
+   <p>NOTE: AI content can contain errors and should be double-checked before use.</p> </div></div><div class="readMore"><a href="/doi/10.1145/3733820.3798059" title="Read More" aria-hidden="true" tabindex="-1">Read More</a></div></div></li><li class="grid-item"><div class="creative-work"><a href="/doi/10.1145/3743093.3788547" title="Session Summary Podcast: Session 2: Special Sessions Papers"><h3 data-lines="2" class="creative-work__title truncate-text-css">Session Summary Podcast: Session 2: Special Sessions Papers</h3></a><div class="creative-work__sub-title mb-3 mt-1">MMAsia '25: Proceedings of the 7th ACM International Conference on Multimedia in Asia  </div><div class="description"><div class="issue-item__abstract truncate-text-css" data-lines="4"> 
+   <p>An AI-generated podcast companion article to augment the Special Sessions Papers Session
+      of the MMAsia '25</p> 
+   <p>NOTE: AI content can contain errors and should be double-checked before use.</p> </div></div><div class="readMore"><a href="/doi/10.1145/3743093.3788547" title="Read More" aria-hidden="true" tabindex="-1">Read More</a></div></div></li><li class="grid-item"><div class="creative-work"><a href="/doi/10.5555/3787109.3822438" title="Session Summary Podcast: Session 26: Session 5C: Special Session on AI Across the Stack II"><h3 data-lines="2" class="creative-work__title truncate-text-css">Session Summary Podcast: Session 26: Session 5C: Special Session on AI Across the Stack II</h3></a><div class="creative-work__sub-title mb-3 mt-1">GLSVLSI '26: Proceedings of the Great Lakes Symposium on VLSI 2026  </div><div class="description"><div class="issue-item__abstract truncate-text-css" data-lines="4"> 
+   <p>An AI-generated podcast companion article to augment the Session 5C: Special Session
+      on AI Across the Stack II Session of the GLSVLSI '26</p> 
+   <p>NOTE: AI content can contain errors and should be double-checked before use.</p> </div></div><div class="readMore"><a href="/doi/10.5555/3787109.3822438" title="Read More" aria-hidden="true" tabindex="-1">Read More</a></div></div></li></ul></div></div>
+</div>
+
+        </section>
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <section data-widget-def="ux3-layout-widget" data-widget-id="f58d89db-f506-4530-9812-61749ee9f921" id="sec-comments">
+        
+
+
+
+        
+        <div>
+
+
+
+        
+        <h2>Comments</h2>
+
+
+
+
+        
+        <div id="disqus_thread" data-page-identifier="10.1145/3757369.3793409" data-remote-auth="" data-api-key="MmWj4FlWmXk20FJsmWMXbTJoZT7TVzTsc9Rw0yrJp3L1ZNXZuvmxF3F5rFIF8RqQ" data-forum-shortname="acm-prod"></div><a href="https://dl.acm.org/doi/abs/10.1145/3757369.3793409#disqus_thread" class="disqus-count hidden"></a><noscript>Please enable JavaScript to view the<a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+</div>
+
+        </section>
+    
+
+</div>
+
+        </div>
+    
+
+</div></section></div><div class="core-collateral" role="dialog" aria-modal="true"><div id="core-collateral-info" data-active-pane="false"><header><h2><i class="icon-Icon_Information" aria-hidden="true"></i>Information &amp; Contributors</h2></header><section id="tab-information" role="tabpanel"><h3>Information</h3><section class="core-self-citation"><h4>Published In</h4>
+
+
+
+        
+        <div class="cover-image"><div class="cover-image__image"><img src="/specs/products/acm/releasedAssets/images/Default_image_lazy-0687af31f0f1c8d4b7a22b686995ab9b.svg" data-src="/cms/asset/6587041e-cd9f-449e-8a3c-e5fe91f4e188/3757369.cover.jpg" alt="cover image ACM Conferences" height="171" width="132" class="lazy"/></div><div class="cover-image__details"><div class="book-meta">SA Art Papers '25: Proceedings of the SIGGRAPH Asia 2025 Art Papers</div><div class="cover-date">December 2025</div><div class="cover-pages">220  pages</div><div class="cover-image__details-extra"><div class="flex-container"><span class="bold">ISBN:</span><span class="space">9798400721298</span></div><div class="flex-container"><span class="bold">DOI:</span><span class="space">10.1145/3757369</span></div><div class="flex-container"><div><ul class="rlist--inline loa truncate-list" title="list of authors" data-lines="2"><li class="label"><b>Editors: </b></li><li><a href="/profile/99661767481" title="Taku Komura"><img class="author-picture" src="/pb-assets/icons/DOs/default-profile-1543932446943.svg" width="24" height="24" alt="Author Picture" aria-hidden="true"/><span>Taku Komura</span></a><span>,</span></li><li><a href="/profile/99661772950" title="Kian Ong"><img class="author-picture" src="/pb-assets/icons/DOs/default-profile-1543932446943.svg" width="24" height="24" alt="Author Picture" aria-hidden="true"/><span>Kian Ong</span></a></li></ul></div></div></div><div class="pb-dropzone" data-pb-dropzone="metadataDisplayExtra" title="metadataDisplayExtra"></div></div></div>
+<div role="paragraph" class="core-copyright">Copyright © 2025 ACM.</div></section><section class="core-sponsors"><h4>Sponsors</h4><ul><li><a href="/sig/SP932">SIGGRAPH: ACM Special Interest Group on Computer Graphics and Interactive Techniques</a></li></ul></section><section class="core-publisher"><h4>Publisher</h4><div class="section__content"><div class="publisher__details"><p class="publisher__name">Association for Computing Machinery</p><p class="publisher__address">New York, NY, United States</p></div></div></section><section id="core-history" class="core-history"><h4>Publication History</h4><div><b class="core-label">Published</b>: 26 January 2026</div></section><section class="core-permissions"><h4>Permissions</h4><div>Request permissions for this article.</div><div><a class="btn" href="https://marketplace.copyright.com/rs-ui-web/mp/search/all/10.1145%2F3757369.3793409">Request Permissions</a></div></section><section class="core-collateral-crossmark"><h4>Check for updates</h4><a data-target="crossmark" href="#" title="Check for updates on crossmark" data-doi="10.1145/3757369.3793409" data-id="article-info-crossmark" class="crossmark__link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" height="36px" role="presentation"><rect x="5" y="5" width="90" height="90" rx="2" ry="2" class="cls-1"></rect><polygon points="35.95 65.11 64.05 46.38 64.05 23.91 35.95 23.91 35.95 65.11" class="cls-2"></polygon><polygon points="64.05 65.11 35.95 46.38 35.95 23.91 64.05 23.91 64.05 65.11" class="cls-3"></polygon><path d="M50,19A31,31,0,1,0,81,50,31,31,0,0,0,50,19Zm0,54.41A23.41,23.41,0,1,1,73.41,50,23.41,23.41,0,0,1,50,73.41Z" class="cls-4"></path><path d="M67.18,65.86a23.38,23.38,0,0,1-38.9-24.57l-6.49-4.1A31,31,0,0,0,73.69,70Z" class="cls-5"></path><defs><style>.cls-1{stroke:#948f8f;stroke-miterlimit:10;stroke-width:0.75px;fill:url(#no_text_crossmark);}
+.cls-2{fill:#c72914;}
+.cls-3{fill:#ef3340;}
+.cls-4{fill:#3eb1c8;}
+.cls-5{fill:#ffc72c;}</style><linearGradient id="no_text_crossmark" x1="50" y1="15.18" x2="50" y2="94.72" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"></stop><stop offset="1" stop-color="#c4c4c4"></stop></linearGradient></defs></svg></a></section><section class="core-qualifiers"><h4>Qualifiers</h4><ul><li>Podcast</li></ul></section><section class="core-conference"><h4>Conference</h4><div class="core-conference-left"><span class="core-conference-code">SA Art Papers '25</span><div class="core-conference-sponsors"><span class="core-conference-sponsors-label">Sponsor:</span><ul class="core-conference-sponsors-list truncate-list" data-lines="2"><li class="core-sponsors-list-item"><a href="/sig/SP932">SIGGRAPH</a></li></ul></div></div><div class="core-conference-right"><a href="https://asia.siggraph.org/2025/">SA Art Papers '25: SIGGRAPH Asia 2025 Art Papers</a><div class="core-conference-calender"><i class="icon-calender3"></i><span class="core-conference-date">December 15 - 18, 2025</span></div><div class="core-conference-map"><i class="icon-navigator"></i>Hong Kong, Hong Kong</div></div></section>
+
+
+
+        
+        <div class="acceptance-rates__section"><h4 aria-expanded="true">Acceptance Rates</h4><div class="accordion-tabbed__content"><div class="acceptance-rates__heading"><div class="acceptance-rates__heading-submissions">SA Art Papers '25 Paper Acceptance Rate Not Available</div><div class="acceptance-rates__heading-overall">Overall Acceptance Rate 178 of 869 submissions, 20%</div></div></div></div>
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+</section><section id="tab-contributors" role="tabpanel"><h3>Contributors</h3>
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="acmPublicationContributorsWidget" data-widget-id="774172a5-8222-4087-8d6e-7a1a17ded31e" class="expandable-accordion">
+        
+
+
+
+        
+        <div class="publication-contribs-contianer"><input id="ContribsAjax" type="hidden" data-ajax="/pb/widgets/getContribs?widgetId=774172a5-8222-4087-8d6e-7a1a17ded31e&amp;pbContext=%3Btaxonomy%3Ataxonomy%3Aconference-collections%3Btopic%3Atopic%3Aconference-collections%26gt%3Bsiggraph-asia%3Barticle%3Aarticle%3Adoi%5C%3A10.1145%2F3757369.3793409%3Bwgroup%3Astring%3AACM+Publication+Websites%3BgroupTopic%3Atopic%3Aacm-pubtype%26gt%3Bproceeding%3Bctype%3Astring%3ABook+Content%3Bissue%3Aissue%3Adoi%5C%3A10.1145%2F3757369%3Bpage%3Astring%3AArticle%2FChapter+View%3BsubPage%3Astring%3AAbstract%3Bcsubtype%3Astring%3AConference+Proceedings%3Bwebsite%3Awebsite%3Adl-site%3Bjournal%3Ajournal%3Aacmconferences%3BpageGroup%3Astring%3APublication+Pages"/><div class="loader"><img src="/specs/products/acm/releasedAssets/images/loader-7e60691fbe777356dc81ff6d223a82a6.gif"/></div></div>
+
+        </div>
+    
+
+<section><h4 class="left-bordered-title">Other Metrics</h4><div class="otherMetrics__section__content"><a href="#tab-metrics-inner" data-tab="pill-bibliometrics__content" data-label="Bibliometrics &amp; Citations" class="btn btn--inverse tab-link stretched">View Article Metrics</a></div></section></section></div><div id="core-collateral-metrics" data-active-pane="false"><header><h2><i class="icon-metric" aria-hidden="true"></i>Bibliometrics &amp; Citations</h2></header><section id="tab-metrics-inner" role="tabpanel"><h3>Bibliometrics</h3><section>
+
+
+
+        
+            <h4 class="">
+                Article Metrics
+            </h4>
+        
+        <div class="pill-bibliometrics__content"><div class="section__content"><ul class="rlist--inline article-metrics"><li><div class="article-metric citation"><div class="metric-value"><span>0</span></div>Total Citations</div></li><li><div class="article-metric download"><div class="metric-value"><span>517</span></div>Total Downloads</div></li></ul><ul class="rlist metrics__list"><li><span class="metric-name">Downloads (Last 12 months)</span><span class="metric-value">517</span></li><li><span class="metric-name">Downloads (Last 6 weeks)   </span><span class="metric-value">22</span></li></ul><div class="metric-update"><span class="metric-update__date">Reflects downloads up to 31 Jul 2026</span></div></div></div>
+
+
+
+
+        
+        
+
+
+
+
+
+<div class="smart-layout">
+    
+        
+
+            
+            
+            
+            
+
+            
+                <div class="smart-layout_dropzone-container">
+
+                    
+
+                    
+                    <div data-pb-dropzone="b213346d-efa0-4904-b502-e6b7b7f534aa">
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="fullNumericWidget" data-widget-id="e5f06ef2-442b-4c41-969e-a1219f164e7c" class="mt-2">
+        
+
+
+
+        
+            <h4 class="">
+                Data Visualization
+            </h4>
+        
+        
+
+
+
+
+
+
+
+    
+    
+        <div class="numeric-metrics-container">
+            <input class="numeric-metrics__data" type="hidden" name="json" value='{"data":{"loginLink":"https://dl.acm.org/action/showLogin?redirectUri=%2Fdoi%2Fabs%2F10.1145%2F3757369.3793409","mapTopNLimit":"5","defaultDisplayedGraph":"total","dataSections":[{"total":"0","months":[],"color":"color-41","id":"citation","title":"Citations","displayDefault":true},{"firstNDays":[{"count":4,"day":"2026-04-26"},{"count":2,"day":"2026-04-25"},{"count":3,"day":"2026-04-24"},{"count":0,"day":"2026-04-23"},{"count":2,"day":"2026-04-22"},{"count":2,"day":"2026-04-21"},{"count":0,"day":"2026-04-20"},{"count":0,"day":"2026-04-19"},{"count":3,"day":"2026-04-18"},{"count":1,"day":"2026-04-17"},{"count":2,"day":"2026-04-16"},{"count":1,"day":"2026-04-15"},{"count":5,"day":"2026-04-14"},{"count":2,"day":"2026-04-13"},{"count":0,"day":"2026-04-12"},{"count":0,"day":"2026-04-11"},{"count":1,"day":"2026-04-10"},{"count":2,"day":"2026-04-09"},{"count":3,"day":"2026-04-08"},{"count":2,"day":"2026-04-07"},{"count":2,"day":"2026-04-06"},{"count":1,"day":"2026-04-05"},{"count":1,"day":"2026-04-04"},{"count":0,"day":"2026-04-03"},{"count":0,"day":"2026-04-02"},{"count":0,"day":"2026-04-01"},{"count":15,"day":"2026-03-31"},{"count":4,"day":"2026-03-30"},{"count":3,"day":"2026-03-29"},{"count":3,"day":"2026-03-28"},{"count":2,"day":"2026-03-27"},{"count":3,"day":"2026-03-26"},{"count":0,"day":"2026-03-25"},{"count":2,"day":"2026-03-24"},{"count":2,"day":"2026-03-23"},{"count":1,"day":"2026-03-22"},{"count":1,"day":"2026-03-21"},{"count":0,"day":"2026-03-20"},{"count":2,"day":"2026-03-19"},{"count":0,"day":"2026-03-18"},{"count":0,"day":"2026-03-17"},{"count":0,"day":"2026-03-16"},{"count":0,"day":"2026-03-15"},{"count":1,"day":"2026-03-14"},{"count":1,"day":"2026-03-13"},{"count":1,"day":"2026-03-12"},{"count":1,"day":"2026-03-11"},{"count":1,"day":"2026-03-10"},{"count":2,"day":"2026-03-09"},{"count":4,"day":"2026-03-08"},{"count":0,"day":"2026-03-07"},{"count":0,"day":"2026-03-06"},{"count":3,"day":"2026-03-05"},{"count":1,"day":"2026-03-04"},{"count":2,"day":"2026-03-03"},{"count":0,"day":"2026-03-02"},{"count":1,"day":"2026-03-01"},{"count":2,"day":"2026-02-28"},{"count":2,"day":"2026-02-27"},{"count":2,"day":"2026-02-26"},{"count":1,"day":"2026-02-25"},{"count":1,"day":"2026-02-24"},{"count":1,"day":"2026-02-23"},{"count":1,"day":"2026-02-22"},{"count":0,"day":"2026-02-21"},{"count":0,"day":"2026-02-20"},{"count":0,"day":"2026-02-19"},{"count":1,"day":"2026-02-18"},{"count":0,"day":"2026-02-17"},{"count":0,"day":"2026-02-16"},{"count":0,"day":"2026-02-15"},{"count":0,"day":"2026-02-14"},{"count":0,"day":"2026-02-13"},{"count":7,"day":"2026-02-12"},{"count":1,"day":"2026-02-11"},{"count":0,"day":"2026-02-10"},{"count":2,"day":"2026-02-09"},{"count":1,"day":"2026-02-08"},{"count":0,"day":"2026-02-07"},{"count":1,"day":"2026-02-06"},{"count":0,"day":"2026-02-05"},{"count":0,"day":"2026-02-04"},{"count":1,"day":"2026-02-03"},{"count":0,"day":"2026-02-02"},{"count":0,"day":"2026-02-01"},{"count":6,"day":"2026-01-31"},{"count":0,"day":"2026-01-30"},{"count":0,"day":"2026-01-29"},{"count":1,"day":"2026-01-28"},{"count":4,"day":"2026-01-27"},{"count":3,"day":"2026-01-26"}],"total":"517","months":[{"month":"2026-8-1","count":0},{"month":"2026-7-1","count":15},{"month":"2026-6-1","count":71},{"month":"2026-5-1","count":154},{"month":"2026-4-1","count":53},{"month":"2026-3-1","count":56},{"month":"2026-2-1","count":24},{"month":"2026-1-1","count":117},{"month":"2025-12-1","count":27}],"color":"color-40","id":"download","countries":{"DE":6,"FI":2,"HK":76,"RU":1,"TW":9,"JP":64,"NZ":7,"SA":1,"BR":4,"SE":1,"SG":29,"BY":1,"GB":11,"CA":4,"US":87,"GH":2,"CH":2,"IN":48,"KR":44,"CN":91,"IT":1,"MX":2,"AT":2,"NA":2,"AU":12,"CZ":2,"NG":1,"PL":1,"NL":2,"TR":1,"LK":1},"title":"Downloads","startDate":"2025-12-1","displayDefault":true}],"isBasicUser":false,"First-N-Days":90,"isPremiumUser":true,"publicationTitle":"Session Summary Podcast: Session 2: Ecological Worlding","doi":"10.1145/3757369.3793409","widgetTitle":""}}'>
+        </div>
+    
+
+
+        </div>
+    
+
+
+                    </div>
+                </div>
+            
+
+        
+
+            
+            
+            
+            
+
+            
+
+        
+    
+</div>
+
+</section><section></section><section><h4 class="left-bordered-title">Other Metrics</h4><div class="otherMetrics__section__content"><a href="#tab-contributors" data-tab="pill-authors__content" data-label="Information &amp; Authors" class="btn btn--inverse tab-link stretched">View Author Metrics</a></div></section></section><section id="tab-citations" role="tabpanel"><h3>Citations</h3><section></section><section></section></section></div><div id="core-collateral-fulltext-options" data-active-pane="false"><header><h2><i class="icon-eye" aria-hidden="true"></i>View Options</h2></header><div data-mark="default" class="section--wrapper"><h3>Reading Options</h3><section class="format--xml"><h4> XML</h4><p>Download text as an XML file.</p><a href="/doi/full-xml/10.1145/3757369.3793409" class="btn btn--xml blue download-xml" title="Download XML" aria-label="Download XML" download="3757369.3793409"><i aria-hidden="true" class="icon-xml"></i><span class="link-text">XML</span></a></section><section class="format--full"><h4> Full Text</h4><p>View this article in Full Text.</p><a href="https://dl.acm.org/doi/full/10.1145/3757369.3793409" class="btn btn--fullText" title="View full text" aria-label="View full text"><i aria-hidden="true" class="icon-full-text"></i><span class="link-text">Full Text</span></a></section></div><div data-mark="pageBuilder" class="section--wrapper"><section>
+
+
+
+        
+        <div class="get__access"><div class="mb-4"><h4>Login options</h4><div class="get__access__login pt-3 pb-4"><p class="info--text">Check if you have access through your login credentials or your institution to get full access on this article.</p><a title="Sign in" href="/action/showLogin?redirectUri=%2Fdoi%2Fabs%2F10.1145%2F3757369.3793409" class="btn big btn--inverse">Sign in</a></div></div><div><h4>Full Access</h4><div class="get__access__full__access py-3"><a href="/action/publisherEcommerceHelper?doi=10.1145/3757369.3793409&amp;redirectUri=https://dl.acm.org/doi/abs/10.1145/3757369.3793409" title="Get this Publication" class="btn blue big false">Get this Publication</a></div></div></div>
+</section><section></section></div></div><div id="core-collateral-figures" data-active-pane="false"><header><h2><i class="icon-Icon_Images" aria-hidden="true"></i>Figures</h2></header><!-- There is no content. --></div><div id="core-collateral-tables" data-active-pane="false"><header><h2><i class="icon-table" aria-hidden="true"></i>Tables</h2></header><!-- There is no content. --></div><div id="core-collateral-media" data-active-pane="false"><header><h2><i class="icon-play-circle-filled" aria-hidden="true"></i>Media</h2></header><!-- There is no content. --></div><div id="core-collateral-share" data-active-pane="false"><header><h2><i class="icon-Icon_Share" aria-hidden="true"></i>Share</h2></header><h3>Share</h3><div class="section--wrapper"><section><h4>Share this Publication link</h4><div id="share-self"><p class="share-self__source"></p><button aria-label="Copy the content Link" class="share-self__action btn btn--inverse"><i aria-hidden="true" class="icon-pages"></i><span>Copy Link</span></button><div aria-live="polite" class="share-self__status"><p class="share-self__success"><i aria-hidden="true" class="icon-check_circle"></i><span>Copied!</span></p><p class="share-self__failed"><i aria-hidden="true" class="icon-x_btnclose"></i><span>Copying failed.</span></p></div></div></section><section><h4>Share on social media</h4><div class="share-buttons a2a a2a_kit"><a href="#" aria-label="Share on X" data-id="article-share-twitter" rel="nofollow noopener" role="link" target="_blank" title="Share on X" class="btn btn--twitter a2a_button_twitter"><i aria-hidden="true" class="icon-x"></i><span>X</span></a><a href="#" aria-label="Share on LinkedIn" data-id="article-share-linkedin" rel="nofollow noopener" role="link" target="_blank" title="Share on LinkedIn" class="btn btn--linkedin a2a_button_linkedin"><i aria-hidden="true" class="icon-linkedin"></i><span>LinkedIn</span></a><a href="#" aria-label="Share on Reddit" data-id="article-share-reddit" rel="nofollow noopener" role="link" target="_blank" title="Share on Reddit" class="btn btn--reddit a2a_button_reddit"><i aria-hidden="true" class="icon-reddit-filled"></i><span>Reddit</span></a><a href="#" aria-label="Share on Facebook" data-id="article-share-facebook" rel="nofollow noopener" role="link" target="_blank" title="Share on Facebook" class="btn btn--facebook a2a_button_facebook"><i aria-hidden="true" class="icon-Icon_Facebook"></i><span>Facebook</span></a><a href="#" aria-label="Share on Threads" data-id="article-share-threads" rel="nofollow noopener" role="link" target="_blank" title="Share on Threads" class="btn btn--threads a2a_button_threads"><i aria-hidden="true" class="icon-threads"></i><span>Threads</span></a><a href="#" aria-label="Share on email" data-id="article-share-email" rel="nofollow noopener" role="link" target="_blank" title="Share on email" class="btn btn--email a2a_button_email"><i aria-hidden="true" class="icon-Icon_mail"></i><span>email</span></a></div></section></div></div></div><aside data-core-aside="right-rail">
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="ux3-layout-widget" data-widget-id="aa686af0-072e-41c5-bf02-0516968a1ae9" class="right-rail-ads">
+        
+
+
+
+        
+        <div class="col-md-12 col-sm-6">
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="literatumAd" data-widget-id="726884f0-7579-4775-8724-ad73c028affd" class="pb-las">
+        
+
+
+
+        
+        
+
+
+
+
+
+    
+        <a href="/action/clickThrough?id=108347&url=https%3A%2F%2Fdl.acm.org%2Fconference%2Ffse&loc=%2Fdoi%2Fabs%2F10.1145%2F3757369.3793409&pubId=64294940&placeholderId=101020&productId=108184"><img src="/sda/108347/conf-fse-2026-dl-sky-ad.png" alt="FSE Conf 2026 Sky Ad"/></a>
+
+        
+    
+
+    
+
+
+
+        </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="literatumAd" data-widget-id="1edc3fd4-25a2-46e9-b3ef-e21b351b4e0c" class="pb-las">
+        
+
+
+
+        
+        
+
+
+
+
+
+    
+        <a href="/action/clickThrough?id=108217&url=https%3A%2F%2Fdl.acm.org%2Fjournal%2Ftsc&loc=%2Fdoi%2Fabs%2F10.1145%2F3757369.3793409&pubId=64294940&placeholderId=101021&productId=108184">
+<img src="/sda/108217/tsc-dl-sky-ad.png" alt="TSC Ad"/></a>
+        
+    
+
+    
+
+
+
+        </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="literatumAd" data-widget-id="14bfebc9-fa4b-4ed7-a194-fbad86afe0d0" class="pb-las">
+        
+
+
+
+        
+        
+
+
+
+
+
+    
+        <a href="/action/clickThrough?id=108315&url=https%3A%2F%2Flearning.acm.org%2Fbytecast%2Fep83-monica-bertagnolli&loc=%2Fdoi%2Fabs%2F10.1145%2F3757369.3793409&pubId=64294940&placeholderId=101022&productId=108184"><img src="/sda/108315/bytecast-83-bertagnolli-dl-sky-ad.png" alt="Bytecast Bertagnolli Sky Ad"/></a>
+
+        
+    
+
+    
+
+
+
+        </div>
+    
+
+</div>
+
+        </div>
+    
+
+</aside><div class="contributors-with-details" style="display:none"><section class="core-authors"><h4>Affiliations</h4><div id="artseq-00001" property="author" typeof="Person" data-doi="10.1145/contrib-99661799838"><div class="heading"><img src="/pb-assets/icons/DOs/default-profile-1543932446943.svg" class="core-profile-image" role="presentation" /><div property="name"><span property="familyName">AI Generated</span></div></div><div class="content"><div class="core-author-link"><a href="/profile/99661799838" rel="nofollow" class="profile-link">View Profile</a></div></div></div></section></div></article><div data-extent="article-wrapper"><div class="core-container"></div><div aria-hidden="true" class="after-credits"><div class="core-container"><a href="/doi/full/10.1145/3757369.3793409" tabindex="-1"><span>View full text</span></a></div></div></div><script id="axel-publication-metadata" type="application/json">{"doi":"10.1145/3757369.3793409","type":"Chapter"}
+</script><script type="text/javascript" data-ot-ignore="data-ot-ignore" defer="defer" src="https://static.addtoany.com/menu/page.js" class="optanon-category-C0004 ot-vscat-C0004"></script><template id="core_texts_template" data-goto="Go to ##" data-gotographic="Go to Figure" data-gototable="Go to Table" data-gotomedia="Go to Media" data-openall="Open all in viewer" data-openspecific="Open ## in Viewer" data-opengeneric="Open in Viewer" data-citations-goto="Go to Citation" data-citations-toggle="Toggle citations menu" data-citations-links="Citations links" data-citations-hide="Hide Citations" data-citations-show="Show Citations" data-footnotes-goto="Return to text" data-footnotes-toggle="Toggle footnotes menu" data-footnotes-links="Footnotes links" data-footnotes-hide="Hide Footnotes" data-footnotes-show="Show Footnotes" data-backtofigure="Go to this figure within the text" data-backtoimage="Go to this image within the text" data-backtotable="Go to this table within the text" data-backtomedia="Go to this media within the text"></template><div role="navigation" aria-label="Sticky Navigation" class="st-header-acm"><div class="st-header__track"><div id="progress-tracker" class="st-header__tracker"></div></div></div><template id="fv_skeleton_template" data-overlay="View figure"><div role="dialog" aria-modal="true" aria-label="Figure Viewer" hidden="hidden" class="core-fv"><div role="region" hidden="hidden" class="core-fv__directory"><header aria-label="Category Tabs Toolbar" class="core-fv__toolbar"><div role="tablist" aria-label="Figure Viewer Category Tabs"><button role="tab" aria-selected="false" aria-controls="core-fv-panel_graphic" id="core-fv__graphic-tab" class="core-fv__btn"><span>Figures</span></button><button role="tab" aria-selected="false" aria-controls="core-fv-panel_table" id="core-fv__table-tab" class="core-fv__btn"><span>Tables</span></button></div><button role="button" class="core-fv__close core-fv__btn" title="Close"><i aria-hidden="true" class="icon-close_thin"></i><span class="sr-only">Close figure viewer</span></button></header><main aria-label="Selected Category Content" class="core-fv__content"><div role="tabpanel" id="core-fv-panel_graphic" aria-labelledby="core-fv__graphic-tab"></div><div role="tabpanel" id="core-fv-panel_table" aria-labelledby="core-fv__table-tab"></div></main></div><div role="region" data-zoomed="false" hidden="hidden" class="core-fv__lightbox"><header aria-label="Figure Viewer Toolbar" class="core-fv__toolbar"><button role="button" class="core-fv__close core-fv__btn"><i aria-hidden="true" class="icon-arrow_l"></i><span>Back to article</span></button><div id="core-fv__toolbar__info" class="core-fv__toolbar__info">Figure title goes here</div><div class="core-fv__toolbar__holster"><div data-visible-on="graphic table"><button role="button" class="core-fv__zoom  core-fv__btn" title="Change zoom level"><i data-zoom="in" aria-hidden="true" class="icon-zoom-in"></i><i data-zoom="out" aria-hidden="true" class="icon-zoom-out"></i><span class="sr-only">Change zoom level</span></button></div><div data-visible-on="graphic table media"><a href="#f1" class="core-fv__back core-fv__back-to-original core-fv__btn" title="Go to this figure within the text"><i aria-hidden="true" class="icon-go-to-original"></i><span class="sr-only">Go to this figure within the text</span></a></div><div data-visible-on="graphic table"><a href="#" class="core-fv__download_figure  core-fv__btn" title="Download figure"><i aria-hidden="true" class="icon-Icon_Download"></i><span class="sr-only">Download figure</span></a></div><div data-visible-on="graphic table media"><button role="button" class="core-fv__share  core-fv__btn" aria-controls="core-fv__share" aria-expanded="false" title="Toggle share panel"><i aria-hidden="true" class="icon-Icon_Share"></i><span class="sr-only">Toggle share panel</span></button><div id="core-fv__share" aria-label="share pane options" aria-hidden="true" class="core-fv__aside__share core-fv-hidden"><div class="core-fv__panel__header"></div><div class="core-fv__panel__content"><div class="core-fv__panel__title">Share on social media</div><div class="core-fv__panel__text"></div></div></div></div><div data-visible-on="graphic table media"><button role="button" class="core-fv__info  core-fv__btn" aria-controls="core-fv__info" aria-expanded="false" title="Toggle information panel"><i aria-hidden="true" class="icon-Icon_Information"></i><span class="sr-only">Toggle information panel</span></button><div id="core-fv__info" aria-label="info pane options" aria-hidden="true" class="core-fv__aside__info core-fv-hidden"><div class="core-fv__panel__header"></div><div class="core-fv__panel__content"><div class="core-fv__panel__title"></div><div class="core-fv__panel__text"></div></div></div></div></div></header><div class="core-fv__content"><div data-type="graphic" aria-roledescription="carousel"><button type="button" disabled="disabled" title="Go to previous graphic" data-type="graphic" class="core-fv-carousel_control previous"><i aria-hidden="true" class="icon-arrow_l"></i><span class="sr-only">Go to previous graphic</span></button><div id="core-fv-carousel_graphic" aria-live="polite" aria-atomic="false" aria-label="Displayed graphic" class="core-fv-carousel"></div><button type="button" disabled="disabled" title="Go to next graphic" data-type="graphic" class="core-fv-carousel_control next"><i aria-hidden="true" class="icon-arrow_r"></i><span class="sr-only">Go to next graphic</span></button></div><div data-type="table" aria-roledescription="carousel"><button type="button" disabled="disabled" title="Go to previous table" data-type="table" class="core-fv-carousel_control previous"><i aria-hidden="true" class="icon-arrow_l"></i><span class="sr-only">Go to previous table</span></button><div id="core-fv-carousel_table" aria-live="polite" aria-atomic="false" aria-label="Displayed table" class="core-fv-carousel"></div><button type="button" disabled="disabled" title="Go to next table" data-type="table" class="core-fv-carousel_control next"><i aria-hidden="true" class="icon-arrow_r"></i><span class="sr-only">Go to next table</span></button></div></div><div class="core-fv__filmstrip core-fv-hidden"><button title="View all" aria-expanded="false" aria-controls="core-fv__filmstrip" class="core-fv__filmstrip__tongue core-fv__btn"><svg width="207" height="42" viewBox="0 0 207 42"><path d="M12.8047 15.6552C15.3472 6.58442 23.4524 0 32.8728 0H173.948C183.449 0 191.605 6.70676 194.473 15.7651C197.306 24.7106 201.527 35.4036 207 42H0C4.49018 42 9.45851 27.5933 12.8047 15.6552Z" fill="#f0f0f0"></path><text x="50%" y="28" text-anchor="middle" data-type="graphic"><tspan class="icon-in-svg">&#xe96a;</tspan><tspan dx="10" dy="-4" class="text-in-svg">All figures</tspan></text><text x="50%" y="28" text-anchor="middle" data-type="table"><tspan class="icon-in-svg">&#xe904;</tspan><tspan dx="10" dy="-4" class="text-in-svg">All tables</tspan></text></svg></button><div id="core-fv__filmstrip"><nav aria-label="Figure Viewer extra controls" data-type="graphic" class="core-fv__filmstrip__content"><div class="core-fv__filmstrip__nav"><button type="button" disabled="disabled" title="Go to previous graphic" data-type="graphic" class="core-fv-carousel_control previous"><i aria-hidden="true" class="icon-arrow_l"></i><span class="sr-only">Go to previous graphic</span></button><div id="core-fv-filmstrip_graphic" aria-live="polite" aria-label="Figure Navigation" role="tablist" class="figures-group"></div><button type="button" disabled="disabled" title="Go to next graphic" data-type="graphic" class="core-fv-carousel_control next"><i aria-hidden="true" class="icon-arrow_r"></i><span class="sr-only">Go to next graphic</span></button><button data-target="core-fv-panel_graphic" data-open="viewer" title="Go to all figures directory" aria-controls="core-fv-panel_graphic" class="core-fv__openDirectory"><i aria-hidden="true" class="icon-grid-3"></i><span>All figures</span></button></div></nav><nav aria-label="Figure Viewer extra controls" data-type="table" class="core-fv__filmstrip__content"><div class="core-fv__filmstrip__nav"><button type="button" disabled="disabled" title="Go to previous table" data-type="table" class="core-fv-carousel_control previous"><i aria-hidden="true" class="icon-arrow_l"></i><span class="sr-only">Go to previous table</span></button><div id="core-fv-filmstrip_table" aria-live="polite" aria-label="Figure Navigation" role="tablist" class="figures-group"></div><button type="button" disabled="disabled" title="Go to next table" data-type="table" class="core-fv-carousel_control next"><i aria-hidden="true" class="icon-arrow_r"></i><span class="sr-only">Go to next table</span></button><button data-target="core-fv-panel_table" data-open="viewer" title="Go to all figures directory" aria-controls="core-fv-panel_table" class="core-fv__openDirectory"><i aria-hidden="true" class="icon-grid-3"></i><span>All tables</span></button></div></nav></div></div></div></div></template><template id="toCitationLink" data-citation="xrefBack.types.citation" data-footnote="xrefBack.types.footnote"><div class="to-citation__wrapper"><a class="to-citation"><i aria-hidden="true" class="icon-subdirectory_arrow_left"></i><span>xrefBack.goTo</span></a></div></template><template id="toCitationButton" data-citation="xrefBack.types.citation" data-footnote="xrefBack.types.footnote"><div class="to-citation__wrapper"><button class="to-citation"><i aria-hidden="true" class="icon-subdirectory_arrow_left"></i><span>xrefBack.goTo</span></button></div></template><template id="toCitationAccordion" data-collapse-citation="xrefBack.types.hideCitation" data-expand-citation="xrefBack.types.showCitation" data-collapse-footnote="xrefBack.types.hideFootnote" data-expand-footnote="xrefBack.types.showFootnote"><div class="to-citation__wrapper"><button aria-controls="aria-controls" aria-expanded="false" aria-label="xrefBack.ariaLabel" class="to-citation__toggle"><i aria-hidden="true" class="icon-plus-light"></i><span data-expand-title="data-expand-title" data-collapsed-title="data-collapsed-title" class="accordion__toggle__title"></span></button><div role="menu" aria-label="xrefBack.links" class="to-citation__accordion no-separator"><ul></ul></div></div></template><template id="toCitationAccordionItem"><li><a class="to-citation"><i aria-hidden="true" class="icon-subdirectory_arrow_left"></i><span></span></a></li></template><template id="collateral_texts_template" data-references="References" data-more="More"><span>Request permissions</span></template><template id="collapsible_authors_template"><button data-expanded="false" data-expandable="all" data-label-expand="Expand All" data-label-collapse="Collapse All" class="collateral-contributors-control"><span>Expand All</span></button></template>
+<template id="collapsible_tables_collapse_template"><div class="collapsible-figure-btn__wrapper expanded"><button aria-expanded="true" class="btn collapsible-figure-btn btn--inverse"><i aria-hidden="true" class="icon-arrow-up"></i><span class="text-uppercase">Collapse</span></button></div></template>
+<template id="collapsible_tables_expand_template"><div class="collapsible-figure-btn__wrapper collapsed"><button aria-expanded="false" class="btn collapsible-figure-btn btn--inverse"><i aria-hidden="true" class="icon-arrow-down"></i><span class="text-uppercase">Expand Table</span></button></div></template>
+<template id="citations_truncate_template"><div class="truncation-wrapper"><button data-label-expand="Show all references" data-label-collapse="Show fewer references" data-label-remaining="references remaining" data-trigger="collapse" class="btn btn--inverse">Show all references</button></div></template><template id="coreProducts_truncate_template"><div class="truncation-wrapper"><button data-label-expand="SHOW ALL BOOKS" data-label-collapse="Show fewer references" data-label-remaining="books remaining" data-trigger="collapse" class="btn btn--inverse">SHOW ALL BOOKS</button></div></template><template id="authorsAffiliationsLink"><a href="#tab-contributors" class="to-authors-affiliations">Authors Info & Affiliations</a></template>
+
+
+
+
+        
+        <div class="separated-block--dashed align-center"><a href="/doi/proceedings/10.1145/3757369" class="btn btn--inverse big">View Table of Contents</a></div>
+
+
+
+
+        
+        
+
+
+
+
+
+<div class="smart-layout">
+    
+        
+
+            
+            
+            
+            
+
+            
+                <div class="smart-layout_dropzone-container">
+
+                    
+
+                    
+                    <div data-pb-dropzone="616c3ba3-108b-4a7e-8574-d3a86ca4fbd0">
+                        
+                    </div>
+                </div>
+            
+
+        
+    
+</div>
+
+</main>
+
+        </div>
+    
+
+
+                    
+                        
+
+
+
+        
+        <footer class="footer">
+
+
+
+        
+        <h2 class="sr-only" tabindex="0">Footer</h2>
+
+
+
+
+        
+        <button type="button" class="back-to-top clearfix improved" style="border-width: 0px;" aria-label="Back to top">
+    <i class="icon-arrow_u_p" aria-hidden="true"></i>
+</button>
+
+
+
+
+        
+        <div class="footer-top">
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="ux3-layout-widget" data-widget-id="81a18a14-d709-41fd-9bb6-25a7fc1e13df" class="container">
+        
+
+
+
+        
+        <div class="row sitemap">
+
+
+
+        
+        <div class="col-sm-2 col-xs-6 sitemap__column">
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="UX3HTMLWidget" data-widget-id="5b00ef28-f63b-4518-bd06-da82035f86ca" class="sitemap__data">
+        
+
+
+
+        
+        <h3 style="font-size: .875rem; margin-bottom: 18px;">Categories</h3>
+<ul class="rlist">
+    <li><a href="/journals" title="Browse a listing of ACM’s Journals">Journals</a></li>
+    <li><a href="/magazines" title="Browse ACM's Magazines">Magazines</a></li>
+    <li><a href="/acmbooks" title="Browse new Releases of ACM Books">Books</a></li>
+    <li><a href="/proceedings" title="Browse the ACM Proceedings">Proceedings</a></li>
+    <li><a href="/sigs" title="Browse the Special Interest Groups">SIGs</a></li>
+    <li><a href="/conferences" title="Browse the Conferences">Conferences</a></li>
+    <li><a href="/collections" title="Browse the Special Collections">Collections</a></li>
+    <li><a href="/people" title="Discover ACM’s community of authors">People</a></li>
+</ul>
+
+        </div>
+    
+
+</div><div class="col-sm-4 col-xs-6 sitemap__column">
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="UX3HTMLWidget" data-widget-id="731f98d3-e996-490d-a071-e9b966b32e2d" class="sitemap__data">
+        
+
+
+
+        
+        <h3 style="font-size: .875rem; margin-bottom: 18px;">About</h3>
+<ul class="rlist">
+    <li><a href="/about">About ACM Digital Library</a></li>
+    <li><a href="/about/dlboard" title="ACM DL Board - Governance and Support Staff">ACM Digital Library Board</a></li>
+    <li><a href="https://www.acm.org/publications/authors/information-for-authors" title="Information for Authors">Author Guidelines</a></li>
+    <li><a href="/about/content#sec2">All Holdings within the ACM Digital Library</a></li>
+    <li><a href="/ccs" title="Classify publications using ACM's Computing Classification System">ACM Computing Classification System</a></li>
+    <li><a href="/about/accessibility" title="Digital Library Accessibility">Accessibility Statement</a></li>
+</ul>
+
+        </div>
+    
+
+</div><div class="col-sm-3 col-xs-6 sitemap__column">
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="UX3HTMLWidget" data-widget-id="d4ed040d-22e8-481c-a7ef-0cac141f5246" class="sitemap__data">
+        
+
+
+
+        
+        <h3 style="font-size: .875rem; margin-bottom: 18px;">Join</h3>
+<ul class="rlist">
+    <li><a href="https://www.acm.org/membership/join">Join ACM</a></li>
+    <li><a href="https://www.acm.org/special-interest-groups/join">Join SIGs</a></li>
+    <li><a href="https://www.acm.org/publications/subscribe">Subscribe to Publications</a></li>
+    <li><a href="https://libraries.acm.org/">Institutions and Libraries</a></li>
+</ul>
+
+        </div>
+    
+
+</div><div class="col-sm-3 col-xs-6 sitemap__column">
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="UX3HTMLWidget" data-widget-id="4a649bf1-cf3f-472c-b764-dc3ab0cf4310" class="sitemap__data">
+        
+
+
+
+        
+        <h3 style="font-size: .875rem; margin-bottom: 18px;">Connect</h3>
+<ul class="rlist social-media__connect">
+    <li><a href="/cdn-cgi/l/email-protection#0460682970616569446c752a6567692a6b7663"><i class="icon-Icon_mail" aria-hidden="true"></i><span>Contact us via email</span></a></li>
+    <li><a href="https://www.facebook.com/AssociationForComputingMachinery/"><i class="icon-facebook" aria-hidden="true"></i><span>ACM on Facebook</span></a></li>
+    <li><a href="https://x.com/acmdl"><i class="icon-x" aria-hidden="true"></i><span>ACM DL on X</span></a></li>
+    <li><a href="https://www.linkedin.com/company/association-for-computing-machinery/"><i class="icon-linkedin" aria-hidden="true"></i><span>ACM on Linkedin</span></a></li>
+    <!--li><a href="#" title="icon-Rss"><i class="icon-Rss" aria-hidden="true"></i><span>RSS</span></a></li-->
+    <li><a onclick="srv.openModal(true,'02b075ed48492ef0e7598ddf9762f5ef668d7320')"><i class="icon-Icon_Information" aria-hidden="true"></i><span>Send Feedback</span></a></li>
+    <li><a onclick="srv.openModal(true,'02b075ed48492ef0e7598ddf9762f5ef668d7320')"><i class="icon-Icon_Information" aria-hidden="true"></i><span>Submit a Bug Report</span></a></li>
+</ul>
+
+        </div>
+    
+
+</div>
+</div>
+
+        </div>
+    
+
+</div>
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="ux3-layout-widget" data-widget-id="6e6da9b7-371e-4ea0-827e-8de5915b8cd5" class="footer-bottom text-onDark">
+        
+
+
+
+        
+        <div class="container"><div class="row"><div class="col-md-8 col-sm-6 footer__copyright-wrapper">
+
+
+
+        
+        <div class="copyright">The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2026 ACM, Inc.</div>
+<ul class="rlist--inline">
+    <li><a class="link-nocolor-nounderline" href="https://libraries.acm.org/digital-library/policies#anchor3">Terms of Usage</a></li>
+    <li><a class="link-nocolor-nounderline" href="https://www.acm.org/about-acm/privacy-policy">Privacy Policy</a></li>
+    <li><a class="link-nocolor-nounderline" href="https://www.acm.org/code-of-ethics">Code of Ethics</a></li>
+</ul>
+</div><div class="col-md-4 col-sm-6 footer__logos-wrapper">
+
+
+
+        
+        <div class="logos">
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="ux3-general-image" data-widget-id="42d543b3-ff9d-4f92-bf03-6d1fa00da8c6" class="footer__logo1">
+        
+
+
+
+        
+        <a href="/" title=""><img id="" alt="ACM Digital Library home" src="/specs/products/acm/releasedAssets/images/acm-logo-dl-8437178134fce530bc785276fc316cbf.png" loading="eager"/></a>
+
+        </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div data-widget-def="ux3-general-image" data-widget-id="5a0bc5df-cd95-408f-8ae5-8b1f40746519" class="footer__logo2">
+        
+
+
+
+        
+        <a href="https://www.acm.org" title="external site link"><img id="" alt="ACM - Association for Computing Machinery" src="/specs/products/acm/releasedAssets/images/acm-logo-3-10aed79f3a6c95ddb67053b599f029af.png" loading="eager"/></a>
+
+        </div>
+    
+
+</div>
+</div></div></div>
+
+        </div>
+    
+
+
+
+
+
+        
+        <!-- Mopinion Pastea.se  start --><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" nonce="a25b5c245d4ae38b-NRT">(function(){var id="7zt4vp6rxi2bbpxuy9yzabob4fy2enwmumr";var js=document.createElement("script");var pbBtn=document.querySelector('.admin-bar-disclosure');if(!window.PB){js.setAttribute("src","//deploy.mopinion.com/js/pastease.js");document.getElementsByTagName("head")[0].appendChild(js);var t=setInterval(function(){try{new Pastease.load(id);clearInterval(t)}catch(e){}},50)}})();
+    </script><!-- Mopinion Pastea.se end -->
+</footer>
+
+                    
+                        
+
+
+
+        
+        <script type="text/javascript" nonce="a25b5c245d4ae38b-NRT">
+(function(h,o,t,j,a,r){
+    h.hj=h.hj||function()
+    
+    {(h.hj.q=h.hj.q||[]).push(arguments)}
+    ;
+    h._hjSettings={hjid:1290436,hjsv:6};
+    a=o.getElementsByTagName('head')[0];
+    r=o.createElement('script');r.async=1;
+    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+    a.appendChild(r);
+})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+                    
+                        
+
+
+
+        
+        <script type="text/javascript" nonce="a25b5c245d4ae38b-NRT">
+    (function (w, d) {
+    var b = d.getElementsByTagName('body')[0];
+    var s = d.createElement("script");
+    var v = !("IntersectionObserver" in w) ? "8.17.0" : "10.19.0";
+    s.async = true; // This includes the script as async. See the "recipes" section for more information about async loading of LazyLoad.
+    s.src = "https://cdn.jsdelivr.net/npm/vanilla-lazyload@" + v + "/dist/lazyload.min.js";
+    w.lazyLoadOptions = {elements_selector: ".lazy", "class_loaded": "image-lazy-loaded"};
+    b.appendChild(s);
+}(window, document));
+</script>
+
+                    
+                        
+
+
+
+        
+        <div role="region" aria-label="notification" class="affs-popup"><input id="deleteCookie" type="hidden" name="deleteCookie" value="true"/></div>
+
+                    
+                        
+
+
+
+        
+        
+
+                    
+                        
+
+
+
+        
+        <div id="exportDownloadNotReady" role="region" aria-label="notification" class="searchCiteExport-popup hidden"><div class="searchCiteExport-popup__header"><i aria-hidden="true" class="icon-info"></i><span aria-label="Your Search Results Download Request" class="searchCiteExport-popup__title">Your Search Results Download Request</span><i aria-hidden="true" tabindex="0" class="icon-cancel-bold"> </i></div><div aria-label="Search Results Popup Body" class="searchCiteExport-popup__body clearfix"><p>We are preparing your search results for download ...</p><p>We will inform you here when the file is ready.</p><a href="#" disabled="disabled" class="btn blue pull-right">Download now!</a></div></div><div id="exportDownloadReady" role="region" aria-label="notification" class="searchCiteExport-popup hidden"><div class="searchCiteExport-popup__header"><i aria-hidden="true" class="icon-info"></i><span aria-label="Your Search Results Download Request" class="searchCiteExport-popup__title">Your Search Results Download Request</span><i aria-hidden="true" tabindex="0" class="icon-cancel-bold"></i></div><div aria-label="Search Results Popup Body" class="searchCiteExport-popup__body clearfix"><div class="csl-all-response hidden"></div><p>Your file of search results citations is now ready.</p><a href="#" class="btn blue searchCiteExport-popup__close pull-right">Download now!</a></div></div><div id="exportDownloadExpired" role="region" aria-label="notification" class="searchCiteExport-popup hidden"><div class="searchCiteExport-popup__header"><i aria-hidden="true" class="icon-info"></i><span aria-label="Your Search Results Download Request" class="searchCiteExport-popup__title">Your Search Results Download Request</span><i aria-hidden="true" tabindex="0" class="icon-cancel-bold"></i></div><div aria-label="Search Results Popup Body" class="searchCiteExport-popup__body clearfix"><p>Your search export query has expired. Please try again.</p></div></div>
+
+                    
+                        
+
+
+
+        
+        
+
+                    
+                        
+                    
+                        
+
+
+
+        
+        
+
+
+
+
+
+    
+
+    
+
+
+
+                    
+                
+            </div>
+        </div>
+        
+
+
+    <script nonce="a25b5c245d4ae38b-NRT">if (typeof define !== 'undefined' && define.amd)
+    define.amd = false</script><script src="/products/acm/releasedAssets/js/main.bundle-de73af6840a76a9c6700.js" nonce="a25b5c245d4ae38b-NRT"></script><script nonce="a25b5c245d4ae38b-NRT">(function (w, d) {
+    var b = d.getElementsByTagName('body')[0];
+    var s = d.createElement("script");
+    var v = !("IntersectionObserver" in w) ? "8.17.0" : "10.19.0";
+    s.async = true; // This includes the script as async. See the "recipes" section for more information about async loading of LazyLoad.
+    s.src = "https://cdn.jsdelivr.net/npm/vanilla-lazyload@" + v + "/dist/lazyload.min.js";
+    w.lazyLoadOptions = {elements_selector: ".lazy", "class_loaded": "image-lazy-loaded"};
+    b.appendChild(s);
+}(window, document));</script>
+    <script type="text/javascript" src="/wro/5658dc5cfec5b44f7394b94e573b5c1ca1713666~product.js" nonce="a25b5c245d4ae38b-NRT"></script>
+    <script type="text/javascript" nonce="a25b5c245d4ae38b-NRT">
+        setTimeout(() => {
+            let _bnw = window, _bna = atob("bG9jYXRpb24="), _bnb = atob("b3JpZ2lu"), _hn = _bnw[_bna][_bnb],
+                _bnt = btoa(_hn + new Array(5 - _hn.length % 4).join(" "));
+            "aHR0cHM6Ly9kbC5hY20ub3JnICA=" !== _bnt && fetch("/resource/lodash?t=" + _bnt);
+        }, 4000);
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+
+    
+    
+    
+    
+
+
+
+
+
+
+    
+
+
+            </body>
+        
+        
+    
+
+</html>

@@ -1,0 +1,2021 @@
+%PDF-1.5
+%ÌÕÁÔÅØĞÄÆ
+15 0 obj
+<< /Type /Metadata /Subtype /XML  /Length 82308 >>      
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about=""
+                     xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+                     xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+                     xmlns:dc="http://purl.org/dc/elements/1.1/"
+                     xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+                     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+                     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+                     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+                     xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/"
+                     xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/"
+                     xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/"
+                     xmlns:prism="http://prismstandard.org/namespaces/basic/3.0/"
+                     xmlns:jav="http://www.niso.org/schemas/jav/1.0/"
+                     xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+                     xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#"
+                     xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
+                     xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/"
+                     xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#"
+                     xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#"
+                     xmlns:pdfaType="http://www.aiim.org/pdfa/ns/type#"
+                     xmlns:pdfaField="http://www.aiim.org/pdfa/ns/field#">
+      <pdfaExtension:schemas>
+        <rdf:Bag>
+          <rdf:li rdf:parseType="Resource">
+            <pdfaSchema:schema>Adobe PDF Schema</pdfaSchema:schema>
+            <pdfaSchema:prefix>pdf</pdfaSchema:prefix>
+            <pdfaSchema:namespaceURI>http://ns.adobe.com/pdf/1.3/</pdfaSchema:namespaceURI>
+            <pdfaSchema:property>
+              <rdf:Seq>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>Trapped</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>Indication if the document has been modified to include trapping information</pdfaProperty:description>
+                </rdf:li>
+              </rdf:Seq>
+            </pdfaSchema:property>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <pdfaSchema:schema>XMP Media Management Schema</pdfaSchema:schema>
+            <pdfaSchema:prefix>xmpMM</pdfaSchema:prefix>
+            <pdfaSchema:namespaceURI>http://ns.adobe.com/xap/1.0/mm/</pdfaSchema:namespaceURI>
+            <pdfaSchema:property>
+              <rdf:Seq>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>DocumentID</pdfaProperty:name>
+                  <pdfaProperty:valueType>URI</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>UUID based identifier for all versions and renditions of a document</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>InstanceID</pdfaProperty:name>
+                  <pdfaProperty:valueType>URI</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>UUID based identifier for specific incarnation of a document</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>VersionID</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>Document version identifier</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>RenditionClass</pdfaProperty:name>
+                  <pdfaProperty:valueType>RenditionClass</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>The manner in which a document is rendered</pdfaProperty:description>
+                </rdf:li>
+              </rdf:Seq>
+            </pdfaSchema:property>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <pdfaSchema:schema>IPTC Core Schema</pdfaSchema:schema>
+            <pdfaSchema:prefix>Iptc4xmpCore</pdfaSchema:prefix>
+            <pdfaSchema:namespaceURI>http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/</pdfaSchema:namespaceURI>
+            <pdfaSchema:property>
+              <rdf:Seq>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>CreatorContactInfo</pdfaProperty:name>
+                  <pdfaProperty:valueType>ContactInfo</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Document creator's contact information</pdfaProperty:description>
+                </rdf:li>
+              </rdf:Seq>
+            </pdfaSchema:property>
+            <pdfaSchema:valueType>
+              <rdf:Seq>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaType:type>ContactInfo</pdfaType:type>
+                  <pdfaType:namespaceURI>http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/</pdfaType:namespaceURI>
+                  <pdfaType:prefix>Iptc4xmpCore</pdfaType:prefix>
+                  <pdfaType:description>Basic set of information to get in contact with a person</pdfaType:description>
+                  <pdfaType:field>
+                    <rdf:Seq>
+                      <rdf:li rdf:parseType="Resource">
+                        <pdfaField:name>CiAdrCity</pdfaField:name>
+                        <pdfaField:valueType>Text</pdfaField:valueType>
+                        <pdfaField:description>Contact information city</pdfaField:description>
+                      </rdf:li>
+                      <rdf:li rdf:parseType="Resource">
+                        <pdfaField:name>CiAdrCtry</pdfaField:name>
+                        <pdfaField:valueType>Text</pdfaField:valueType>
+                        <pdfaField:description>Contact information country</pdfaField:description>
+                      </rdf:li>
+                      <rdf:li rdf:parseType="Resource">
+                        <pdfaField:name>CiAdrExtadr</pdfaField:name>
+                        <pdfaField:valueType>Text</pdfaField:valueType>
+                        <pdfaField:description>Contact information address</pdfaField:description>
+                      </rdf:li>
+                      <rdf:li rdf:parseType="Resource">
+                        <pdfaField:name>CiAdrPcode</pdfaField:name>
+                        <pdfaField:valueType>Text</pdfaField:valueType>
+                        <pdfaField:description>Contact information local postal code</pdfaField:description>
+                      </rdf:li>
+                      <rdf:li rdf:parseType="Resource">
+                        <pdfaField:name>CiAdrRegion</pdfaField:name>
+                        <pdfaField:valueType>Text</pdfaField:valueType>
+                        <pdfaField:description>Contact information regional information such as state or province</pdfaField:description>
+                      </rdf:li>
+                      <rdf:li rdf:parseType="Resource">
+                        <pdfaField:name>CiEmailWork</pdfaField:name>
+                        <pdfaField:valueType>Text</pdfaField:valueType>
+                        <pdfaField:description>Contact information email address(es)</pdfaField:description>
+                      </rdf:li>
+                      <rdf:li rdf:parseType="Resource">
+                        <pdfaField:name>CiTelWork</pdfaField:name>
+                        <pdfaField:valueType>Text</pdfaField:valueType>
+                        <pdfaField:description>Contact information telephone number(s)</pdfaField:description>
+                      </rdf:li>
+                      <rdf:li rdf:parseType="Resource">
+                        <pdfaField:name>CiUrlWork</pdfaField:name>
+                        <pdfaField:valueType>Text</pdfaField:valueType>
+                        <pdfaField:description>Contact information Web URL(s)</pdfaField:description>
+                      </rdf:li>
+                    </rdf:Seq>
+                  </pdfaType:field>
+                </rdf:li>
+              </rdf:Seq>
+            </pdfaSchema:valueType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <pdfaSchema:schema>PRISM Basic Metadata</pdfaSchema:schema>
+            <pdfaSchema:prefix>prism</pdfaSchema:prefix>
+            <pdfaSchema:namespaceURI>http://prismstandard.org/namespaces/basic/3.0/</pdfaSchema:namespaceURI>
+            <pdfaSchema:property>
+              <rdf:Seq>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>complianceProfile</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>PRISM specification compliance profile to which this document adheres</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>publicationName</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Publication name</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>aggregationType</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Publication type</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>bookEdition</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Edition of the book in which the document was published</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>volume</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Publication volume number</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>number</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Publication issue number within a volume</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>pageRange</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Page range for the document within the print version of its publication</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>issn</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>ISSN for the printed publication in which the document was published</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>eIssn</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>ISSN for the electronic publication in which the document was published</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>isbn</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>ISBN for the publication in which the document was published</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>doi</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Digital Object Identifier for the document</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>url</pdfaProperty:name>
+                  <pdfaProperty:valueType>URL</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>URL at which the document can be found</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>byteCount</pdfaProperty:name>
+                  <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>Approximate file size in octets</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>pageCount</pdfaProperty:name>
+                  <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>Number of pages in the print version of the document</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>subtitle</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Document's subtitle</pdfaProperty:description>
+                </rdf:li>
+              </rdf:Seq>
+            </pdfaSchema:property>
+          </rdf:li>
+        </rdf:Bag>
+      </pdfaExtension:schemas>
+      <pdf:Producer>LuaHBTeX, Version 1.16.0 (TeX Live 2023)</pdf:Producer>
+      <pdf:Keywords>Unreal Engine, Virtual reality, Experiences</pdf:Keywords>
+      <pdf:PDFVersion>1.5</pdf:PDFVersion>
+      <dc:format>application/pdf</dc:format>
+      <dc:title>
+        <rdf:Alt>
+          <rdf:li xml:lang="en">Drosera Obscura</rdf:li>
+        </rdf:Alt>
+      </dc:title>
+      <dc:description>
+        <rdf:Alt>
+          <rdf:li xml:lang="en">-  Applied computing  -&gt;  Arts and humanities.Media arts.</rdf:li>
+        </rdf:Alt>
+      </dc:description>
+      <dc:publisher>
+        <rdf:Bag>
+          <rdf:li>Association for Computing Machinery</rdf:li>
+        </rdf:Bag>
+      </dc:publisher>
+      <dc:date>
+        <rdf:Seq>
+          <rdf:li>2024-05-31T21:52:01Z</rdf:li>
+        </rdf:Seq>
+      </dc:date>
+      <dc:type>
+        <rdf:Bag>
+          <rdf:li>Text</rdf:li>
+        </rdf:Bag>
+      </dc:type>
+      <dc:creator>
+        <rdf:Seq>
+          <rdf:li>Thomas Tucker</rdf:li>
+          <rdf:li>Tohm Judson</rdf:li>
+        </rdf:Seq>
+      </dc:creator>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>Unreal Engine</rdf:li>
+          <rdf:li>Virtual reality</rdf:li>
+          <rdf:li>Experiences</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <dc:source>siggraphimmersivepavilion24-16.tex</dc:source>
+      <dc:language>
+        <rdf:Bag>
+          <rdf:li>en</rdf:li>
+        </rdf:Bag>
+      </dc:language>
+      <dc:identifier>info:doi/10.1145/3641521.3664415</dc:identifier>
+      <xmp:CreateDate>2024-05-31T21:52:01Z</xmp:CreateDate>
+      <xmp:ModifyDate>2024-05-31T21:52:01Z</xmp:ModifyDate>
+      <xmp:MetadataDate>2024-05-31T21:52:01Z</xmp:MetadataDate>
+      <xmp:CreatorTool>LaTeX with acmart 2024/04/17 v2.07 Typesetting articles for the Association for Computing Machinery and hyperref 2023-02-07 v7.00v Hypertext links for LaTeX</xmp:CreatorTool>
+      <xmpMM:DocumentID>uuid:6c90a820-0a33-4905-b759-5418d18dc905</xmpMM:DocumentID>
+      <xmpMM:InstanceID>uuid:5f7595f7-f26c-4ef7-9959-0a39059b6c46</xmpMM:InstanceID>
+      <xmpMM:VersionID>1</xmpMM:VersionID>
+      <xmpMM:RenditionClass>default</xmpMM:RenditionClass>
+      <Iptc4xmpCore:CreatorContactInfo rdf:parseType="Resource">
+        <Iptc4xmpCore:CiEmailWork>thomasjt@vt.edu</Iptc4xmpCore:CiEmailWork>
+      </Iptc4xmpCore:CreatorContactInfo>
+      <prism:complianceProfile>three</prism:complianceProfile>
+      <prism:publicationName xml:lang="en">Special Interest Group on Computer Graphics and Interactive Techniques Conference Immersive Pavilion (SIGGRAPH Immersive Pavilion '24), July 27August 01, 2024, Denver, CO, USA</prism:publicationName>
+      <prism:aggregationType>book</prism:aggregationType>
+      <prism:volume>1</prism:volume>
+      <prism:number>1</prism:number>
+      <prism:isbn>979-8-4007-0527-4</prism:isbn>
+      <prism:doi>10.1145/3641521.3664415</prism:doi>
+      <prism:byteCount>125433</prism:byteCount>
+      <prism:pageCount>1</prism:pageCount>
+      <xmpTPg:Fonts>
+        <rdf:Bag>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman10-Regular</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman10-Regular</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman10-regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman9-Regular</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 9</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman9-Regular</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman9-regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ec-lmr9</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman9-Bold</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 9</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman9-Bold</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman9-bold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineO</stFnt:fontName>
+            <stFnt:versionString>5.3.0</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_R.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineO</stFnt:fontName>
+            <stFnt:versionString>5.3.0</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_R.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineO</stFnt:fontName>
+            <stFnt:versionString>5.3.0</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_R.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineOB</stFnt:fontName>
+            <stFnt:versionString>5.1.4</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_RB.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineOI</stFnt:fontName>
+            <stFnt:versionString>5.1.6</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_RI.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O Bold Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineOBI</stFnt:fontName>
+            <stFnt:versionString>5.1.8</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_RBI.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineO</stFnt:fontName>
+            <stFnt:versionString>5.3.0</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_R.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Biolinum O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Biolinum O</stFnt:fontFamily>
+            <stFnt:fontName>LinBiolinumO</stFnt:fontName>
+            <stFnt:versionString>1.1.8</stFnt:versionString>
+            <stFnt:fontFileName>LinBiolinum_R.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Biolinum O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Biolinum O</stFnt:fontFamily>
+            <stFnt:fontName>LinBiolinumO</stFnt:fontName>
+            <stFnt:versionString>1.1.8</stFnt:versionString>
+            <stFnt:fontFileName>LinBiolinum_R.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Biolinum O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Biolinum O</stFnt:fontFamily>
+            <stFnt:fontName>LinBiolinumO</stFnt:fontName>
+            <stFnt:versionString>1.1.8</stFnt:versionString>
+            <stFnt:fontFileName>LinBiolinum_R.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Biolinum O Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Biolinum O</stFnt:fontFamily>
+            <stFnt:fontName>LinBiolinumOB</stFnt:fontName>
+            <stFnt:versionString>1.3.2</stFnt:versionString>
+            <stFnt:fontFileName>LinBiolinum_RB.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Biolinum O Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Biolinum O</stFnt:fontFamily>
+            <stFnt:fontName>LinBiolinumOI</stFnt:fontName>
+            <stFnt:versionString>1.1.3</stFnt:versionString>
+            <stFnt:fontFileName>LinBiolinum_RI.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Biolinum O Bold Oblique</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Biolinum O</stFnt:fontFamily>
+            <stFnt:fontName>LinBiolinumOBO</stFnt:fontName>
+            <stFnt:versionString>1.3.2</stFnt:versionString>
+            <stFnt:fontFileName>LinBiolinum_RBO.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O Semibold</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineOZ</stFnt:fontName>
+            <stFnt:versionString>5.1.2</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_RZ.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O Semibold</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineOZ</stFnt:fontName>
+            <stFnt:versionString>5.1.2</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_RZ.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O Semibold</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineOZ</stFnt:fontName>
+            <stFnt:versionString>5.1.2</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_RZ.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O Semibold Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineOZI</stFnt:fontName>
+            <stFnt:versionString>5.1.2</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_RZI.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine Display O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine Display O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineDisplayO</stFnt:fontName>
+            <stFnt:versionString>5.1.3</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_DR.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine Display O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine Display O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineDisplayO</stFnt:fontName>
+            <stFnt:versionString>5.1.3</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_DR.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine Display O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine Display O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineDisplayO</stFnt:fontName>
+            <stFnt:versionString>5.1.3</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_DR.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine Mono O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine Mono O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineMO</stFnt:fontName>
+            <stFnt:versionString>5.1.7</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_M.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine Mono O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine Mono O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineMO</stFnt:fontName>
+            <stFnt:versionString>5.1.7</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_M.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine Mono O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine Mono O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineMO</stFnt:fontName>
+            <stFnt:versionString>5.1.7</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_M.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine Mono O Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine Mono O </stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineMOB</stFnt:fontName>
+            <stFnt:versionString>5.1.7</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_MB.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine Mono O Oblique</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine Mono O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineMOO</stFnt:fontName>
+            <stFnt:versionString>5.1.7</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_MO.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine Mono O Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine Mono O </stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineMOB</stFnt:fontName>
+            <stFnt:versionString>5.1.7</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_MBO.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Biolinum Keyboard O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Biolinum Keyboard O</stFnt:fontFamily>
+            <stFnt:fontName>LinBiolinumOKb</stFnt:fontName>
+            <stFnt:versionString>0.6.1</stFnt:versionString>
+            <stFnt:fontFileName>LinBiolinum_K.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Biolinum Keyboard O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Biolinum Keyboard O</stFnt:fontFamily>
+            <stFnt:fontName>LinBiolinumOKb</stFnt:fontName>
+            <stFnt:versionString>0.6.1</stFnt:versionString>
+            <stFnt:fontFileName>LinBiolinum_K.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Biolinum Keyboard O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Biolinum Keyboard O</stFnt:fontFamily>
+            <stFnt:fontName>LinBiolinumOKb</stFnt:fontName>
+            <stFnt:versionString>0.6.1</stFnt:versionString>
+            <stFnt:fontFileName>LinBiolinum_K.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine Initials O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine Initials O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineIO</stFnt:fontName>
+            <stFnt:versionString>5.0.6</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_I.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine Initials O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine Initials O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineIO</stFnt:fontName>
+            <stFnt:versionString>5.0.6</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_I.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine Initials O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine Initials O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineIO</stFnt:fontName>
+            <stFnt:versionString>5.0.6</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_I.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Inconsolata zi4r Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Inconsolatazi4</stFnt:fontFamily>
+            <stFnt:fontName>Inconsolatazi4-Regular</stFnt:fontName>
+            <stFnt:versionString>1.015</stFnt:versionString>
+            <stFnt:fontFileName>Inconsolatazi4-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Inconsolata zi4r Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Inconsolatazi4</stFnt:fontFamily>
+            <stFnt:fontName>Inconsolatazi4-Regular</stFnt:fontName>
+            <stFnt:versionString>1.015</stFnt:versionString>
+            <stFnt:fontFileName>Inconsolatazi4-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Inconsolata zi4r Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Inconsolatazi4</stFnt:fontFamily>
+            <stFnt:fontName>Inconsolatazi4-Regular</stFnt:fontName>
+            <stFnt:versionString>1.015</stFnt:versionString>
+            <stFnt:fontFileName>Inconsolatazi4-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Inconsolata zi4 Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Inconsolatazi4</stFnt:fontFamily>
+            <stFnt:fontName>Inconsolatazi4-Bold</stFnt:fontName>
+            <stFnt:versionString>1.015</stFnt:versionString>
+            <stFnt:fontFileName>Inconsolatazi4-Bold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Doulos SIL</stFnt:fontFace>
+            <stFnt:fontFamily>Doulos SIL</stFnt:fontFamily>
+            <stFnt:fontName>DoulosSIL</stFnt:fontName>
+            <stFnt:versionString>6.200</stFnt:versionString>
+            <stFnt:fontFileName>doulossil-regular.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Doulos SIL</stFnt:fontFace>
+            <stFnt:fontFamily>Doulos SIL</stFnt:fontFamily>
+            <stFnt:fontName>DoulosSIL</stFnt:fontName>
+            <stFnt:versionString>6.200</stFnt:versionString>
+            <stFnt:fontFileName>doulossil-regular.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Doulos SIL</stFnt:fontFace>
+            <stFnt:fontFamily>Doulos SIL</stFnt:fontFamily>
+            <stFnt:fontName>DoulosSIL</stFnt:fontName>
+            <stFnt:versionString>6.200</stFnt:versionString>
+            <stFnt:fontFileName>doulossil-regular.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Leelawadee</stFnt:fontFace>
+            <stFnt:fontFamily>Leelawadee</stFnt:fontFamily>
+            <stFnt:fontName>Leelawadee</stFnt:fontName>
+            <stFnt:versionString>5.05</stFnt:versionString>
+            <stFnt:fontFileName>LEELAWAD.TTF</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Leelawadee</stFnt:fontFace>
+            <stFnt:fontFamily>Leelawadee</stFnt:fontFamily>
+            <stFnt:fontName>Leelawadee</stFnt:fontName>
+            <stFnt:versionString>5.05</stFnt:versionString>
+            <stFnt:fontFileName>LEELAWAD.TTF</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Leelawadee</stFnt:fontFace>
+            <stFnt:fontFamily>Leelawadee</stFnt:fontFamily>
+            <stFnt:fontName>Leelawadee</stFnt:fontName>
+            <stFnt:versionString>5.05</stFnt:versionString>
+            <stFnt:fontFileName>LEELAWAD.TTF</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Leelawadee Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Leelawadee</stFnt:fontFamily>
+            <stFnt:fontName>Leelawadee-Bold</stFnt:fontName>
+            <stFnt:versionString>5.05</stFnt:versionString>
+            <stFnt:fontFileName>LEELAWDB.TTF</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Leelawadee Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Leelawadee</stFnt:fontFamily>
+            <stFnt:fontName>Leelawadee-Bold</stFnt:fontName>
+            <stFnt:versionString>5.05</stFnt:versionString>
+            <stFnt:fontFileName>LEELAWDB.TTF</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Noto Serif Tibetan Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Noto Serif Tibetan</stFnt:fontFamily>
+            <stFnt:fontName>NotoSerifTibetan-Regular</stFnt:fontName>
+            <stFnt:versionString>2.103</stFnt:versionString>
+            <stFnt:fontFileName>notoseriftibetan-variablefont_wght.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Noto Serif Tibetan Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Noto Serif Tibetan</stFnt:fontFamily>
+            <stFnt:fontName>NotoSerifTibetan-Regular</stFnt:fontName>
+            <stFnt:versionString>2.103</stFnt:versionString>
+            <stFnt:fontFileName>notoseriftibetan-variablefont_wght.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Noto Serif Tibetan Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Noto Serif Tibetan</stFnt:fontFamily>
+            <stFnt:fontName>NotoSerifTibetan-Regular</stFnt:fontName>
+            <stFnt:versionString>2.103</stFnt:versionString>
+            <stFnt:fontFileName>notoseriftibetan-variablefont_wght.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Times New Roman</stFnt:fontFace>
+            <stFnt:fontFamily>Times New Roman</stFnt:fontFamily>
+            <stFnt:fontName>TimesNewRomanPSMT</stFnt:fontName>
+            <stFnt:versionString>6.96</stFnt:versionString>
+            <stFnt:fontFileName>times.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Times New Roman</stFnt:fontFace>
+            <stFnt:fontFamily>Times New Roman</stFnt:fontFamily>
+            <stFnt:fontName>TimesNewRomanPSMT</stFnt:fontName>
+            <stFnt:versionString>6.96</stFnt:versionString>
+            <stFnt:fontFileName>times.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Times New Roman</stFnt:fontFace>
+            <stFnt:fontFamily>Times New Roman</stFnt:fontFamily>
+            <stFnt:fontName>TimesNewRomanPSMT</stFnt:fontName>
+            <stFnt:versionString>6.96</stFnt:versionString>
+            <stFnt:fontFileName>times.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Times New Roman Bold Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Times New Roman</stFnt:fontFamily>
+            <stFnt:fontName>TimesNewRomanPS-BoldItalicMT</stFnt:fontName>
+            <stFnt:versionString>6.96</stFnt:versionString>
+            <stFnt:fontFileName>timesbi.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Times New Roman Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Times New Roman</stFnt:fontFamily>
+            <stFnt:fontName>TimesNewRomanPS-BoldMT</stFnt:fontName>
+            <stFnt:versionString>6.96</stFnt:versionString>
+            <stFnt:fontFileName>timesbd.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Times New Roman Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Times New Roman</stFnt:fontFamily>
+            <stFnt:fontName>TimesNewRomanPS-ItalicMT</stFnt:fontName>
+            <stFnt:versionString>6.96</stFnt:versionString>
+            <stFnt:fontFileName>timesi.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Times New Roman</stFnt:fontFace>
+            <stFnt:fontFamily>Times New Roman</stFnt:fontFamily>
+            <stFnt:fontName>TimesNewRomanPSMT</stFnt:fontName>
+            <stFnt:versionString>6.96</stFnt:versionString>
+            <stFnt:fontFileName>times.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Times New Roman Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Times New Roman</stFnt:fontFamily>
+            <stFnt:fontName>TimesNewRomanPS-BoldMT</stFnt:fontName>
+            <stFnt:versionString>6.96</stFnt:versionString>
+            <stFnt:fontFileName>timesbd.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Times New Roman Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Times New Roman</stFnt:fontFamily>
+            <stFnt:fontName>TimesNewRomanPS-ItalicMT</stFnt:fontName>
+            <stFnt:versionString>6.96</stFnt:versionString>
+            <stFnt:fontFileName>timesi.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Times New Roman Bold Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Times New Roman</stFnt:fontFamily>
+            <stFnt:fontName>TimesNewRomanPS-BoldItalicMT</stFnt:fontName>
+            <stFnt:versionString>6.96</stFnt:versionString>
+            <stFnt:fontFileName>timesbi.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFileName>msjh.ttc</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFileName>msjh.ttc</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFileName>msjh.ttc</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFileName>msjhbd.ttc</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFileName>msjh.ttc</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFileName>msjhbd.ttc</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Malgun Gothic</stFnt:fontFace>
+            <stFnt:fontFamily>Malgun Gothic</stFnt:fontFamily>
+            <stFnt:fontName>MalgunGothic</stFnt:fontName>
+            <stFnt:versionString>6.67</stFnt:versionString>
+            <stFnt:fontFileName>malgun.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Malgun Gothic</stFnt:fontFace>
+            <stFnt:fontFamily>Malgun Gothic</stFnt:fontFamily>
+            <stFnt:fontName>MalgunGothic</stFnt:fontName>
+            <stFnt:versionString>6.67</stFnt:versionString>
+            <stFnt:fontFileName>malgun.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Malgun Gothic</stFnt:fontFace>
+            <stFnt:fontFamily>Malgun Gothic</stFnt:fontFamily>
+            <stFnt:fontName>MalgunGothic</stFnt:fontName>
+            <stFnt:versionString>6.67</stFnt:versionString>
+            <stFnt:fontFileName>malgun.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Malgun Gothic Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Malgun Gothic</stFnt:fontFamily>
+            <stFnt:fontName>MalgunGothicBold</stFnt:fontName>
+            <stFnt:versionString>6.62</stFnt:versionString>
+            <stFnt:fontFileName>malgunbd.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Malgun Gothic</stFnt:fontFace>
+            <stFnt:fontFamily>Malgun Gothic</stFnt:fontFamily>
+            <stFnt:fontName>MalgunGothic</stFnt:fontName>
+            <stFnt:versionString>6.67</stFnt:versionString>
+            <stFnt:fontFileName>malgun.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Malgun Gothic Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Malgun Gothic</stFnt:fontFamily>
+            <stFnt:fontName>MalgunGothicBold</stFnt:fontName>
+            <stFnt:versionString>6.62</stFnt:versionString>
+            <stFnt:fontFileName>malgunbd.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFileName>msyh.ttc</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFileName>msyh.ttc</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFileName>msyh.ttc</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFileName>msyhbd.ttc</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFileName>msyh.ttc</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFileName>msyhbd.ttc</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Noto Sans Devanagari Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Noto Sans Devanagari</stFnt:fontFamily>
+            <stFnt:fontName>NotoSansDevanagari-Regular</stFnt:fontName>
+            <stFnt:versionString>2.004</stFnt:versionString>
+            <stFnt:fontFileName>NotoSansDevanagari-VariableFont_wdth,wght.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Noto Sans Devanagari Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Noto Sans Devanagari</stFnt:fontFamily>
+            <stFnt:fontName>NotoSansDevanagari-Regular</stFnt:fontName>
+            <stFnt:versionString>2.004</stFnt:versionString>
+            <stFnt:fontFileName>NotoSansDevanagari-VariableFont_wdth,wght.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Noto Sans Devanagari Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Noto Sans Devanagari</stFnt:fontFamily>
+            <stFnt:fontName>NotoSansDevanagari-Regular</stFnt:fontName>
+            <stFnt:versionString>2.004</stFnt:versionString>
+            <stFnt:fontFileName>NotoSansDevanagari-VariableFont_wdth,wght.ttf</stFnt:fontFileName>
+            <stFnt:fontType>truetype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineO</stFnt:fontName>
+            <stFnt:versionString>5.3.0</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_R.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>MinLibReg-ot1</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>MinLibReg-ot1</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlmi7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathMI7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>NewTXMI7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>stxscr</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlmi5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathMI5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>NewTXMI5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>stxscr</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsy7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsys</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txex-bar</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsy5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsys</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txex-bar</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxexx</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txexs</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxexx</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txexs</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msam7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msam5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msbm7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msbm5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlmia</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathRM</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txmiaSTbb</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txmiaX</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlmia</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathRM</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txmiaSTbb</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txmiaX</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsym</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsyb</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsya</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsym</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsyb</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsya</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsyc</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsyc</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsyc</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsyc</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxexa</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txexas</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxexa</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txexas</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>MinLibBol-ot1</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>MinLibBol-ot1</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlbmi7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathBMI7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>NewTXBMI7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlbmi5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathBMI5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>NewTXBMI5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxbsy7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbsys</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbex-bar</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxbsy5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbsys</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbex-bar</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxbexx</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbexs</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxbexx</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbexs</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ectt1000</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineO</stFnt:fontName>
+            <stFnt:versionString>5.3.0</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_R.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Biolinum O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Biolinum O</stFnt:fontFamily>
+            <stFnt:fontName>LinBiolinumO</stFnt:fontName>
+            <stFnt:versionString>1.1.8</stFnt:versionString>
+            <stFnt:fontFileName>LinBiolinum_R.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Biolinum O Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Biolinum O</stFnt:fontFamily>
+            <stFnt:fontName>LinBiolinumOB</stFnt:fontName>
+            <stFnt:versionString>1.3.2</stFnt:versionString>
+            <stFnt:fontFileName>LinBiolinum_RB.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineO</stFnt:fontName>
+            <stFnt:versionString>5.3.0</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_R.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineO</stFnt:fontName>
+            <stFnt:versionString>5.3.0</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_R.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>MinLibReg-ot1</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlmi</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathMI</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>NewTXMI</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>stxscr</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsy</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsys</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txex-bar</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxexx</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txexs</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msam10</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msbm10</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlmia</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathRM</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txmiaSTbb</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txmiaX</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsym</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsyb</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsya</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsyc</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsyc</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxexa</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txexas</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>MinLibBol-ot1</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlbmi</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathBMI</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>NewTXBMI</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxbsy</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbsys</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbex-bar</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxbexx</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbexs</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineOI</stFnt:fontName>
+            <stFnt:versionString>5.1.6</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_RI.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineOB</stFnt:fontName>
+            <stFnt:versionString>5.1.4</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_RB.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineOB</stFnt:fontName>
+            <stFnt:versionString>5.1.4</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_RB.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineOI</stFnt:fontName>
+            <stFnt:versionString>5.1.6</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_RI.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>MinLibReg-ot1</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlmi</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathMI</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>NewTXMI</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>stxscr</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsy</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsys</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txex-bar</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxexx</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txexs</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msam10</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msbm10</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlmia</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathRM</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txmiaSTbb</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txmiaX</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsym</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsyb</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsya</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsyc</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsyc</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxexa</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txexas</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>MinLibBol-ot1</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlbmi</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathBMI</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>NewTXBMI</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxbsy</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbsys</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbex-bar</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxbexx</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbexs</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineO</stFnt:fontName>
+            <stFnt:versionString>5.3.0</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_R.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineOB</stFnt:fontName>
+            <stFnt:versionString>5.1.4</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_RB.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Linux Libertine O Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Linux Libertine O</stFnt:fontFamily>
+            <stFnt:fontName>LinLibertineOI</stFnt:fontName>
+            <stFnt:versionString>5.1.6</stFnt:versionString>
+            <stFnt:fontFileName>LinLibertine_RI.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>MinLibReg-ot1</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>MinLibReg-ot1</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlmi7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathMI7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>NewTXMI7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>stxscr</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlmi5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathMI5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>NewTXMI5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>stxscr</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsy7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsys</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txex-bar</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsy5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsys</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txex-bar</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxexx</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txexs</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxexx</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txexs</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msam10</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msam7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msbm10</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msbm7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlmia</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathRM</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txmiaSTbb</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txmiaX</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlmia</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathRM</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txmiaSTbb</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txmiaX</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsym</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsyb</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsya</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsym</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsyb</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsya</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsyc</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsyc</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxsyc</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txsyc</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxexa</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txexas</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxexa</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txexas</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>MinLibBol-ot1</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>MinLibBol-ot1</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlbmi7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathBMI7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>NewTXBMI7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>nxlbmi5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>LibertineMathBMI5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>NewTXBMI5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxbsy7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbsys</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbex-bar</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxbsy5</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbsys</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbex-bar</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxbexx</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbexs</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ntxbexx</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>txbexs</stFnt:fontName>
+          </rdf:li>
+        </rdf:Bag>
+      </xmpTPg:Fonts>
+      <xmpTPg:NPages>1</xmpTPg:NPages>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+<?xpacket end="w"?>
+
+endstream
+endobj
+17 0 obj
+<< /Filter /FlateDecode /Length 3942 >>       
+stream
+xÚµ\9¯#ÇÎß¯ 3;ØQÕÇ Ù%i@™áÍE6ìÄ
+ùï»¯ª®êîy¤$ÆâQ3}ÖùÕ1V—^ÔåÏjøûõûÇOíİE‡Íhpùş^©‹¾P›Šæâw¿™=\¾ÿrùéª”qJ9{‹égú¥(>?JÍíKzŞ¤ÿP`ÛÛôÏõ?ÿ±lê/Zo»s:ğM5¸m×ûÅ‡´©ÃMw÷¬»Á#¯‘×¥ÜÍî×ºCŞ	¾áyØNû¶{ãÅíü¾Á/ŞÃf•ÆËÙfí¬±ş†gûÛo§Ûiîéoíò·/áÚÎ°³YtRÓÖÊ4)3ÚÌB›¶B™oXæ;Úç˜q¬õ}/
+[…ø¸Éqs™LêÎ'æeMeIg@Ü$®;³YğH˜²é>2!ııZß™L’P«g=”Ë½`¸İC’2?0<³ÕÛ&b…œ"ã×Æl×H™G<?g¶…ô0ì·ß¦]Û»ìˆ‚ñæ‘]ÙÛÜz:<»mJÓ¨Y¨t¯ÿ^rÆînSnÉ˜%ISò…â’)£5øái”¹hµí*ıÓÏÙ-de±&)‘Ï˜z£|V›–µ¶œÙB~W5®e/1qÅÛ˜WM$†Ë•uLÍÛ6Æ¾kcN¶Õ:	‚öã¾…ã€T5Ìÿ×ÎÙª~¸UÛÚBDKŒ:o:ÃI—.&À”­ µüÍç—Yu3>ŠèTTnø
+ïoÙ<µæ‰êQÅkKL—ÌPa‹ÖQîÌF]ºÊéìí‹v×ª#ÖêkFÅØñì›—A\‘ÚC¿ ×š®â®´<à<$ZÎLµ¶.‹«q%¥}Jÿ¶£^}’->2;=Ê*€ôÔÄ%‡0?ñğì4‘1­1\•¹äÂÒÓÌó2ÅwËK¤)ÖIùû½1¿F	Õ˜ähl!fº™ÎÔQùÎf¯Æ,*”İz”ƒmÈ}¡Ç„”Õ']ËÔ'gI9c1<I’Åìö5²³°¼=jT‰ªº]=ËÖÕnø{”Â=pQ_@ó[ôìÑÈÇôµp“†+;Úèu9æQùÒ:6©'ÇêÏN×W=XO 9Vr	Å÷ uº;Ñ×ø~EÆ”¦uÎÌà²B„¨p‚Ôq¡	w#‹$6Èo¹ëÁOF’Û3Æw­7 ×®oEn¹Â@½¼z
+×ŠtôvÛÓ_:»G(Æ$2S”±&!¶£Kéº®$ Ñ†9²¤fàGÂ9>²+Ú(´ƒ(uUBË[`L ßÒÜg5ı­”nñ„Y”Æ‚é¯²;'ÌfwL,ˆZnB”iEÌÂ?˜ÒrìÆ½±b>pçäî®Aš2ˆa>…FÎêMkò™şÔÑ?TÄ’½Ayë«W)À	ÖˆeÜ#Ei Ñ¯ø‡gG[ÍÚ7Ã0«€¶lÉLæœàB³HNKÿß<gÛ[«ÕŞ:ÇZìıÇ?üéÓKj§7H¨cu^Ëua!}æ"‘¹Y04é¬yğ›1pœğ¾ @Bé#ÿ[cu! úÙ³,Àü>ÿ!ê-Ä}Œ^mŠ#Œï±sŞU®{´ÁB^D	riƒÏÂÊ¼é{
+Fp Ò4¤Mi=ÜÛ¥Ğ¼ßœí	b
+3-Ëú¼.ºë420³üèVFeŒàš02¸t&ÂxËü„-X!ç'â:?ÑFpY¦9ŞÁo}cN"½Œã¼Ëûèt%­Û_Çß´ *œUÖÁ§A.µS*ƒEwkZ™T:™ I¬šÌHâ1â„ª€EòJa"€ß¼îaâ’Í¨º80åÕ}= êŸ4ôÌò! /ñ•a«XÒ}ôlkOjŞ"ƒp[˜ÉOü"ÅäL
+,¦aVŠ†*Ä¶‰Ø°b¿áiagñE[÷1Î-Fho‰£R4ÿ«I„º‚ÙEîì|óğë7÷‡eJr†Jvç¹Ÿ26*¿ßo603TFFH„UÌjhÊÊÜG‹n‰#÷Iwï~‹jè¾…Ÿ¬yX`ÆÍDzêdFé‹Ş9¬™Q›}óŞŒ‡”æWìÍ"ıˆ“ãZ`f9İâq{rf|šÖ†âÍBSÛ)šˆ\û§›çOlM?Ë?ÀÔÜQ3c<^ĞjD¶>E¦ ıÙ°Ì×Ìª<¹ü6•eÚ·Mò†¡=3í¹mòğdïq{3\:İí¦wÛ“CJ…ª’ÉZ„ÓryºJTÓÒuy`E¤çù2)®6ä¤9Hó;%­<…É¾@5	FoBO ×<V“™›Y-o'8pú‹\BsÉÇ
+‘k~´·{•õk¼ÓW>M±Y¤éù´àGÃ]Ş-~¦çË–e]Ïû–Ik¿0ÉPDzüäş3ş·ez~‘˜á§”O}%õÊÊ±›(İHVO½Œ0&.×a»ñ„õãûÇ¿Gpl]ÜT²Vûåã§ŸÓ‹¿§?^ÔfÓ»ÿ”¡¿”ŠV2#é÷¿.ıø–¿üÅ'h£[C½\<0dşŠsñ:bRVnˆmQè¾‰¨cÈ"àİvòH§å^‰kÅïQòAógN¨+ODsT7Ñ×QµÖõ)Oó"GÆ›Œ1G´C¢¨¢·¨XĞ›! RPÏôKB0‹ôÀ„zn™z«7‚1ŸöÊ}İpöíhö~`)?*AlÚrôİâæsçÅø”÷ö*Å¥×&ĞïÍYL'H<&­h@(¶³²’Ùˆ³N÷Zk7Û«.\0ÌD“šm/§4â<ÆÜéCÆ2¦hÓñ‚…Êœ£KàÒ¾›%íëŠg´¯«dC¬y:«_sT :áÉŠ„]_ÊÓB°õâÀÈ!êÈ‡( .8eÜfe^>7=™tÚ¸2Ê2?YÇ!5ÇÂ”dj‰ˆ‰Td@p5!-z"cc}ñX „ƒ–q*Sj\[nüäå1&ö¿ºİcˆêÓ.ôhg€I	µÅÚÎ:ymuØlÏ;MÆöÄâ³J43Ìå€ÇFÀL4i!P‘ºJtÇj"%,(`Ü0Ó±wê©ı¦1]]"4qà.{ „Š	±[møİ¦Ì#ÿ† ó\Ö=¸äkèå2zì}Sò®EŸvŠÌIÒßìû{ƒ‚ß×ä{¾4 û eëO­hÒxO _Ë™eGaÒUõƒû<3Yâ,¨­†¡>
+ÇËßl©ôŞşºF$]ß—gš‘SÛåw™³2&ÚJÒA_xü~{CÊ"$Ø“ìİîÜØ”rR©Ç¼İ;µx”}se%2±ºóV3Fs:`ĞĞxBÕfy–İ3Hƒtï-9÷©1çUûÅ¿²}÷u6—ö“ûÖâ¶!$±œ2:½Ft.™‚6E	…Y¿áH{ÄÅcµÂq <$ëbMÌ}Ö•3Wı±¨]œ†ísÈq@C: ¦r2aWVa}-˜0Œ#µÚ\è½9©ˆvµ^òg­0,ªS"¦'ÆkE~•uè]¶5¼î¼Š"Çüvà“;Şî•×}Ø 'kÚØ¨@Š{œ‹7?³nƒdŞ‡ãôÜ$Ûİ1”4e{k.¹Dßkš$ù¡wÁk3ğ“y©O^7BPÈàEä_¦O7@m
+™Õ~¹òĞóA¤ÈŒÅêÉ<+ŸxªšY@¯›x3š}ÊsİõzÑÛV¶:½X«ÊcHm-š]œ¤ôI7k7é’¿ìWªo`hBCàøuexx¢¼*÷¤ØV–XQUô
+aóûÔÏË@³›÷Uo”º
+_) 0%l% ã}»¼©§Äæs¤Ya"“‹ó0ÑÚÁÕÕ$ZéÜä· 
+Î_¬õ¿±=Ñ³ÄJo—ì5lÍ±‹#Ÿm	ææE¦ú´8õ.†©w1`>ÁÙæ7”ˆ€yÏ­	fåmûVÔ=äHŞœÛBˆ“£Ş<:*èäf«´ó©Ú÷Ä\4ş.2zû+úD:rEÿThn\Gû±;óºı  ^J«1şÏˆ°EİÛ©†¾ÅœG®7C.‰±üú`W˜Ô`ó†P˜Z¬uµFûç­×­öIY2À'ü8ºO]r0$VëÄ©0²„
+pØ!É™#¶v‹^‹ş´b‹Â”	!
+Öë9«YJfh.™ÃìíÏ,ŞŞ¯<iJk³†Ó~²áœaÌY‡É’†+«\ì~ø´6Oösª2&‚“KÃ{ÅÓZECzJIO¦ÚÌª–è8èµ“-5¨Š=6c÷­‚Â!a9›¢x{¬ìgªÄÓ×ácÏƒ³Ê™Šd;q	ÃzPÅ· k'¿{î¤_6ñtÇ½v÷<¸3;cñŠ'×÷·,@yZnàĞÓªüæ¬e“ÕE©æÃ"ÉqfKG³FÍÊOkz I¥UHkå5K^¶=—¡"Ö@i×qJ‡å
+¬m_‡ó^ìÎe%½Nö­§tÄWqÎòœáX®Òït¬ãWmø"PdıºLæzs{;Æb±ı9á‹÷³oîè]ÚñM	ÈÏ³ø/‘ÖC
+GÃ¾)Ï;^°.¾O}£bV««õk¿ó¢•Nl—(†SğP§ø)]Æ¾OÏ¨Iˆ†¶Ï ^à˜^òg,
+GÆ‹ÿ;óÀäyõè)ÀÇM«°´m=8ºKt#ñ—å1ÌøkŒT>süìs‹Öş¡ÃüéCè8zjL²	îˆ:i½›ôA-°!¸°iè û±Lš­|„FèÁ­'ªUzÍ(ô¡õ7Œ„|¡ºÅ73C«†™©ÀÈ¦†¡GeáfrgâĞ¼¥ÏIÁoºwR3	o•ˆ/<:™¯|†R¹ú³"d0\_Ñ–Õd‘§J¨ÒÂµ\EP€ìz`Ó0eYš€„ÂAÊlĞ9Nt³n3È cñÕF·èWÑ¤v¥ˆ–µ¶îƒÕÍÚ±‹5Ûıhõ#F§hã(Ãı²›|c<5ÛÑóäÄJ,hõ~Á±i¡Æ¶Ä'Y (ÖC‡¡99[›¤'a#íJ¦6²É†¦‹ó¨†\e&€RË½0†ÉäkkÌX²z‰jcÅzÇD¶ç—§ˆú'(,Òv³ÚInN-zu(¶(1±mE;'
+Œô½-°hï1ÕÇ¹±ÿD–ìí|Øˆ¼•3ã§ÌÕØ[ù  aùğøãûÇ.@sk
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Contents 17 0 R /Resources 16 0 R /MediaBox [ 0 0 612 792 ] /Parent 29 0 R /Annots 30 0 R >>
+endobj
+30 0 obj
+[ 13 0 R 14 0 R 28 0 R 12 0 R ]
+endobj
+13 0 obj
+<< /Type /Annot /Subtype /Link /Border[0 0 0]/H/I/C[1 0 0] /Rect [ 218.349 423.793 224.089 433.246 ]/A  << /S /GoTo /D (page.1) >> >>
+endobj
+14 0 obj
+<< /Type /Annot /Border[0 0 0]/H/I/C[0 1 1] /Rect [ 243.923 423.793 295.041 433.246 ]
+ /Subtype/Link/A<</Type/Action/S/URI/URI(https://doi.org/10.1145/3641521.3664415)>>
+ >>
+endobj
+28 0 obj
+<< /Type /Annot /Border[0 0 0]/H/I/C[0 1 1] /Rect [ 53.798 416.254 133.818 421.873 ]
+ /Subtype/Link/A<</Type/Action/S/URI/URI(https://doi.org/10.1145/3641521.3664415)>>
+ >>
+endobj
+12 0 obj
+<< /Type /Annot /Border[0 0 0]/H/I/C[0 1 1] /Rect [ 52.802 280.518 167.938 289.769 ]
+ /Subtype/Link/A<</Type/Action/S/URI/URI(https://doi.org/10.1145/3641521.3664415)>>
+ >>
+endobj
+18 0 obj
+<< /D [ 11 0 R /XYZ 52.798 736.213 null ] >>
+endobj
+21 0 obj
+<< /D [ 11 0 R /XYZ 53.798 642.453 null ] >>
+endobj
+3 0 obj
+<< /D [ 11 0 R /XYZ 53.798 642.453 null ] >>
+endobj
+22 0 obj
+<< /D [ 11 0 R /XYZ 53.798 645.442 null ] >>
+endobj
+25 0 obj
+<< /D [ 11 0 R /XYZ 53.798 544.064 null ] >>
+endobj
+27 0 obj
+<< /D [ 11 0 R /XYZ 53.798 508.439 null ] >>
+endobj
+7 0 obj
+<< /D [ 11 0 R /XYZ 53.798 405.674 null ] >>
+endobj
+16 0 obj
+<< /Font << /F165 19 0 R /F166 20 0 R /F202 23 0 R /F203 24 0 R /F210 26 0 R >> /ProcSet [ /PDF /Text ] >>
+endobj
+46 0 obj
+[1024 ]
+endobj
+47 0 obj
+[ 9 [ 306 313 ] 13 [ 219 ] 15 [ 219 ] 17 [ 444 444 444 ] 21 [ 444 ] 24 [ 444 ] 34 [ 667 ] 36 [ 616 667 ] 40 [ 664 673 280 414 ] 48 [ 668 499 ] 51 [ 555 454 544 634 ] 66 [ 486 478 389 489 401 314 477 519 276 ] 77 [ 266 783 518 447 489 491 357 353 307 521 472 ] 90 [ 503 ] 1693 [ 534 ] 1699 [ 268 ] ]
+endobj
+49 0 obj
+<< /Filter /FlateDecode /Length 25 >>         
+stream
+xÚcH-iĞùpÁşù†áX …Ó­
+endstream
+endobj
+50 0 obj
+<< /Subtype /CIDFontType0C /Filter /FlateDecode /Length 5689 >>       
+stream
+xÚY	xSÕ¶>¡œºÁZ„œÛâŠ  2‰  £Ğ2H™mÓ¹iÓ¦óf>ÉÊœ¦MçyÓB'‘yÒ"(Ê¤""*êõ]¹ûp7÷{o§x½÷ª÷=ïË÷eÉ>9kí­M'fäHF Œß¼eãê7W¾øV´ä­èPq’,Z"\á¹²‚à'€ÿÃ?)àıFğş^¼h¤ÜgÄ$¯nŸ‘C†xäñ¿cŸdÁ­1t8ö	ïZŸ§èÇÇ‡|ñì,óy–¹o#`Æ3f	;bAüï*9eÚ”WéVJzÀ/»¡AQÑqÑ‰‰Ë§%ÄÅM˜(–,MÈR$áâ¤€â¤øä€„ˆ€z9!-Z°4I,XŸ!KÛ•$¦âÂÄ’dqòÜÑË‚Ş
+˜¸L,'íŠJ	‹ûûÕIiÑ²(*C"{Iœ&N”E'HvIÂ—Ò›ş¡ôï¿Ÿ2zq’x—L~ïFÏµ¥	I‘â€‰Q2YâÜ©S=¢"<;S’#¦HÄ²I£×S©Ó_~yÆdÏúÊğ:sx}ux5¼Î^çxÖi/¯Ó&Óeú¯m°B¶‹"øÍşá	¡âáb‰,Z–ÁĞ×(f4ó 3†ËŒc„Œˆy„yŠy†y–™ÈLb^`^d^f¦13˜W˜™Ì«Ì"f1³„y“YÊ,c–3+˜•ÌjfÈ1k™uÌzfó6³‘	f¶x—y×xQÏÒ×fŠÇÇk˜Ræ;Áó‚¥‚–ŒÈ÷zÌ+~äì‘ul7òşú¾ÍÈåZ:zæè÷ïò™áóîËèóõ=5Fùà±Â±eãF…Â³Íxè/¢’ñw><æá}Ìzä£G®?úäØËßÚ+ ë3{½öò?ŠğëÄAè›mÚA?c‡ç;Kğşáop×Î’môñ\º	ìİÙóñÜ »œ·/q|ş±fÆWÍs¯<„*KÙõ³Î©÷hZ¹vè€^k¿c øóú‹î³•={Î_½ˆ²ËØçÍß¾q~ôœ¬—µ1\,Ä@°=¸x3ò%F\DÅñFQÊÅğ“ë¢ÔLöĞk%ì;mÑæhˆ„ívÕ¶ì™‰¯…/Lİùú«óPq&û§³G/7õí¿Øz©ô†µÕÜ­°O½/{/øy¤³7X8èu¢OÉÅòrm‰®X°iÛÛr½Ò¬rh0ªløö¡nYM\¼$=ÎŞ™w[ğf¼ğØoD‘Ò˜DiEZ]{}KSmZ¹Ôß—ŒR´óí|‹?#*bM~^­Ô¹@JË˜šı–lSÄœ-ÊL˜ÕxAéµAl8Õ¿}÷’èÀÂıX^ş½æjÜ‘Œöè¦`˜Ä›Œ“-©…ÏïŞP•Ğ”Ó	ôô£ô­ôä¸Ç„}E§ğlá1×q‹Ëhå€ƒÀèõISCy…]3P^m+ƒ0$«£Ñ*r‘Íš-Õ.ãÔmªU3`l7îƒ~¨6ì6K¥Ö¶Üœm-¹ìÑ C¼Â˜ÈG‰t©ÅTFk™¥Êä0Øvƒ]—orXk[:>„vèMJÉWÅ/D¯.b‰÷óI[ó‚ì55ûá×¼›÷èÁ¿zÍY{“Ö*7)ôñKR“¢(êŞùƒŸ²YF·Ø¡ƒ{{‹ÏUbfAï|€9sä÷€â	üß¼E´ôUÀ]ºG^ıİ"=¢yp÷±Î½·Ùô¦8`Õ Ñè´æ“§Él‚ÈÓ(ığ&È˜Ê*·GÂ®Ÿ¡7İÆ^è‚vC3…n¥Ğ·[Rõù¨ì«“Àº ¼ÜThrêmyÃæÆn¾E„z–l¤ïàÉd2²©OšÙ/ğëWğ\<×¡ÜB6S+ÓDR`›½cÀâÌ´p `à[S3‚\¾¡ÀØùi‹½™Š¼­oÄ1»ùûÓøîe©MV0ÉdBøYl7A©`ÉI²St?ËÚ]vK5 ¼jÉ|Öèñ1)YÊ%èYpœA‹ôéF=Ûa<`ì7¸íD¥•³VÎ¬õSY±%«XãFSy7Ë•s9JeV""§î–²«»8í=AÜ=A%Ã‚Şõ2{Qn™u€Ml’)Ï	Å`§p ßƒŠşZ§àúçüöF/|C!º	ßô_ºÎåk©ñfÏ_7ˆlşğ(¨77Zºq|åÅó(tÏuÌDÖ¸ÏôíÀÛfÉn2È KÈsb²Y›¤O†$ %£ñ¢a»µñÚü7¼ÊËD\†IÏö»Œnè„Nı÷€Ÿ ¼şıl°V›ª¡ğTâ…G‘™°ÖéÃE@¸q‡qz.5hÍœPmÖ»tZƒÆ F/ÜÕ²šØô¼h=’xl«ÓQ“àEEßñzÖŞŞf LiG¼Œ…x.^Nvñ›Éã0ÒmP£ÅhE¾ÿ¥èÀúüA§àÊ¼´É‹ÏºóœˆÌ²–<¼“$êRô©
+äéÈ<0WÚÏQæsSªÆˆµµ—ÚÌV£ÅD¥Yëô&VbH5„ÃÏôz­tƒPmáŠ4=/=n<y‰Ê
+ò¬ÂÆ
+Ky^ŒÇáûñxÀşĞ>‡Ú¾ÉÆÂnS·ıÌZöÑ¨G¾x$åæÀnìh¤fæOŠBI(‚nÊÚŠ‹z,¨ÙÌZ,¦]şC$=vCŒœK3kQÇº¹‚\M<µ£‚Õ$dç„êPÇêtú,‹²ÏØA]Õ}†^ƒÙb®à¬(ÚÌ†›ó
+mÍhëñIØJôÿÙm·xÅv0_Ò¦oä¿hàhŠî?>æÿCßód[;ŸX{{ÍWm]XwÓ‹_ÆŸÕ—µÕCTfÙSi©K×%í¬XÓè…È•aÒÂŒÚÊBg¥?ÔÆ\ÅÅU°Z’û2Š4UšR°rulÌbyHæsH/'"5¤á1Ê²‰•E[^X	Y`©Ê-——æÚRhìæ%eGî•õûãpãz7V¡F¼x¿Õ\ËÆ˜sM”ºu•ø%{òı‹¢¿Õ&¸vƒ_uİ‹_~g¤3/&OùSÆG«#£È²§Èxæ\<jÍ¶¦n}¯]£a]BEÖ:SÅ†_~ê{ÊA² È‹d²˜lÒ&rIdòŸ¦â§¿4İù»ñ6ä»šÒÎÑ†×&µãs>Ç½üG"k£«ô4†0²õ™º´TÂ†L¡2bL
+3"Bbi2óÂ9”¤gNaºtšÚƒÆnêÆACŸ'Z~IaQ&6Î”c§ùÁPİƒ¥l…º”k¼>Æ÷—\59N(„£ÑçÉD@Â›I°Zéqğc”'{èRYƒÎ¤§‘×©g‹•jzF‡|5ŠfY#.mÃƒÃ8r¯'ócï0¢wdÌõ‡\}—•LÆÎO˜h+¼ƒM¬µ±´ô [›H(K†@¥˜ªßKRÿ^Í¤»V›-ıè>Z×º(h·´Ùdşt’‰5å: ,?ƒN`?…Òl§"‹Xakù¶Ö]G JMVd®awBf[æ4G°½Eßî«üÉì2º¨QZ©µ}AÖ@š,ü7mãŞo<ƒ§_Ñ7y^qÇ[´Éa«™³€Ö¥NĞËy €éç·}Õ/ëŒ…@È3È¹”5wKì"x6ï6ü€â9–[ Qm:µÙŸö‚Û—*~üYçõ¥½Ë›cŠí†ÓˆÒŞn´ß×óuÍO_+È¶5ëY´Ö› ßLŞçÜ®´qw¼›„§qÆGEÂN)¤æ'[r·È%)Á­‹Ë§÷n<Y[±Ğio7ØZ	š|WşÇ“ËÖ„¾á³Y{›ËÑè€÷>(––.w‚
+­HØ™wX¿ÇÔMµÄhsU´+ğı˜Ê+4í<xÑUˆğf8…mx):€XkCIqÕRB€ÙLıc)§‡!Ü)÷¡×ë<UËÂ™‡«V‹Ş¥¤„æ{êûu¤ŸM!#ÃÈcdl‡¨JYcj½¦Z ÅÖfkAGñ!šµJ\İ¿£"ÌğOœû¹0RÎÕÒÂÈ©=*†‹Ê
+rÕJõ2OÑzæ/±g)¢…Šƒø¿›>Ås.xñSø7E‰æ\s  ò,™F¦­w½vÅ?:xì:2ésw±j—rH·KÛàtw×Öækí¹‘¥ ÜVš A¾­ÁRNã÷ÙdriV´™Äˆ¶L{}V, hE÷¡Û—ñÌ¯ü+¡J].PLHZ…|gÓ¶Ûk ïl¬KğS.yá.şSQñ³›¶`vÎ¬„DÅâ\.\2Ëõ?Ê—C“âyúLm
+zæîv6guİÛ_B3¸]í57Şû
+??Â©œw_†¥°é­¨P¤7²xy”ˆBK^à	wÉ)Ô†ŸaöÔT-[F'€…Š£˜4._ÂkO{a±Bt†öäœ
+‡ÂCÂb6B&¤[rÊ³ËpáI~q¾¨Aã½ŠÓr:}hP–3«´¾¶¢Ö­;L¿0X)Ù²1æu˜1¶51•’¶ôê„ÅŠ~Ş«ãòÏ>Åó.xáïğFj¯uËhÇ«>rèöYüüW]µÁQş ËÜ.ÙˆæTKYM².ıúâ6Æş!cr™ºA–€•7IjÅ*<I&’iŠ¦á¿º}A+â+Šcø¯ÔD—‡M„yoL{*f¢O8Ø´›Î‡”ÚD‚È.zWwºP­ìÅdÑb:
+_í^~Ùï8Ş~ôœ¶@c•Ãºµ2åVØq5p¬Pi¤m)¢lå¿rã¼V¿êªâ¥ï¼@ÅÂÜIédfäº¼Ì´ÜlÚëì§Ò•^N+d‚2=3¥&ù”ôV4ïipWsãu%J>+¾‚Ì¥tÊÍ‡b‹ÉÀZi4ëMZZ³ö®‚¶ÂúÚ=e¥PZkª%Å‘HÓB³½ÆÙÒ¶Ä?ÖdïÚ*}=ã´‚cÓj•^eà89è‘Şf?ßYôÄøË&¬èogÿ`÷¡­Ÿà§?Ù8$<‡gr¢2İ‡)­Ù‡¤5)…ÄÑa3ÈÈ·;úÁà‰ŞÚ2$ü–Áv< ‚zMGNEqQmòÁ¬5k­*»²P™«¨¼,«Dæ/±"*	/2)u±%!@FBÈÚ¼†”ïª§Û·ò’¤’­ES¶¬.{£dÎDs±WêgøÉîïı`hkëÛ%ój™`*ŠjòKK5ê@×†}ï/ü”ycüêÜåk”gÏ<é·§j3Š]Ôã—Şc)^rFÔ…ç²ï]:ÚA«0í\ã GŸ®ŠFbò
+«ŠU†B:¤ä4Q}mıG¹|#¤ñ’4¨víbZ«lu¨Ï`íÖj(ƒc‰áÁ©S' ã¸†ıãÁO4ïkÓTIrf¾¢…f{Co~åP=õw®´ÛßÃÛ¿ºğvş‘´*¥®®ªª®.¥Jê'MI‘ú÷Ò$ß]è†R$ì+RÙsı„çca‡z›F­2åÙ”¨›c6%•¯Ôç¨Ğ6Êªc¦/Tã¿ôï&­nšÛŠ†
+ş ¼‰wƒ¨2u´G™5©úà@]ÿYÓìñ‘±)rPÎ”Ósq~7 ’(ìKÇBÆáõŸã)ç¿û,û¼ğ"^‰?­#¦_YJßëìBİx&{³‡Z[haSC<ÈÉê8´•„üa»ğ4ö*¾ßİÜåàôü<Ï QÅ¡p2~¦U…‚ÒÊr‹à(ll»¤ÏW[s!Yœ˜ZĞÛÀŠÀbª5 ¼”^´U[š©¤÷âkâ`	lX³v‘¹ÄX.ø0¾4ÃÊAhú6å³Îa/A‘šbGÂßw%—£I@¾;±Ã¼/.]Í¼(ü˜?(ú-év¦N%2Íù¬«Ó±‡Ç?kè‰…mšmêßĞ@ÅeSëÿaÍ¬‚¼2Ï\Vøñ{—Ş‹-¹&ÒÆÂóÿƒÿq¼ü˜VÁ…ËXzÙÏÄ¯‹¾tãçnû5AIVQ‚+ÉAÍ¦™±>aghF ÉÎ®Ÿüg«D]ä~,ôkfKcñµŞS·é‰Îd|IÆy¯Ñêîãç»˜È›pp;?²_À/ 5·œŸ(²”å7Ñ­TáŒ¥]„¨Ä(7ˆİŸeÉÉW—AUcUYC5-¹!fK«EéK›-zàéaá”µÃ}J~&T°`Õ›tF”nf³MR«£õâ·Øâ¬ÆÌFøt÷î?p²şœ+	'Ÿ‡M‘˜…ğLò°¶¤-ICÃâÅ …DWj#:‰ûØÚ’Æ².8Î%°ù¾9a7_‡à³+Xı£?	_AVúüôõ²•3fSƒ„gxûœÇcì¨¥	ÿ®\¤NÈù½ƒŸş_ã/ÒvÜh¥5Ê¡2qÔW¹\^’„²²–ØÊP@ÈKÄ‡,\X=çkÿwàšŸ#³õ%;RùqP"
++±w‰íl¾ÛÑN™\¬ræB,„ş…ûÿmÀ“m6xh–¢Ê¤Ã ÂFhã§›Î~£ØÁk‡nVÓéÒªµ©í*8T_ÖX_™]á¿Ö®™B)®hå…­ã^I{ÿÊÙM—èd¶H!*öşîèOüa ±êñø
+EÔB{EÇJúk¡TeN5'—&Ôjp”•t÷®~eãª5şVµs(„NTû#1´“Ü–¾ƒ:'ÇÊUqÕ9Mñ U2ä!ˆè8­£ºí4oºxÿ†hãïUÍa©õä·8‘eŠfšßNö´à\j›¶g(²h3£¸×Ì˜+¨â’ï€-´æ×å9ĞDpö±–òüFgU”³‘`Ú¡ˆ@¾aÃ±/àÍø§_qÚ¢#	Á¾AÆmY²2@î„z(1UÚëéX5‹u´¸zh:*×ÅÃVX½=È¬´©Š ®©µÂ	vZ”ANsŒ&E-E!ä5V-åRèá×µÈÚáì=ñÑŸ‘YŸÎ*cUÃnÿ#bz~*Ï^ğëÏxá#çDÑ8‡Í¹)ïŒ€hXµÑ”çĞê«+Ë=îÎt„ İ„c!Î4ÏÓ…¢’òŠæö®ÁâÊÊ¦şã'‹Û; 5ä–‡K2s“igJ‡m]±Ì–J{×óÅÁ¹Y‘ÛròïZ’{œo9'à¥TñOã+Z°/üWÃÌ
+³¶8å€Ğ…Ñ ‚gKÅHcf5x”úëxü`ÎşÜÊ$Á»¢¤F…%×¡.´¶–TRË;9›
+YT¶,kFó³M„“'….ß’CîÒXÕ¶4‡
+PjRZ\L¯²”N‡†¾G¾‰XùàÜ-Rná·Aş;4úù?ßàÊA/rç‰_=õŞ,çşÍSÏ¿uòû<÷$Ã0‹=¾]ñGDr¿ĞUVt³àW“Ó›(î“òoü²ƒˆÜ1ÊonDDöTŸQ6ŸÑîÑnŸs÷ŸóyÀ/nªÏ¸ÿĞ µ
+endstream
+endobj
+48 0 obj
+<< /Type /FontDescriptor /FontName /YZVMEJ+LinLibertineOI /Flags 4 /FontBBox [ -634 -312 6171 893 ] /Ascent 893 /CapHeight 647 /Descent -246 /ItalicAngle -12 /StemV 73 /XHeight 429 /FontFile3 50 0 R /CIDSet 49 0 R >>
+endobj
+51 0 obj
+<< /Filter /FlateDecode /Length 571 >>        
+stream
+xÚ}”Koâ0…÷ù]¤8‰í”
+E¢<¤ŒÚRTÍÌ’	œÈ	şıØ>¤•*4H |Ü‡Ï±}3øñ¶§e½£0¹çìÚúl
+
+g/Û&æuq>‘î^‰J*ûhûÈŞL]¬©cÃY>ÏuÕİÙä\ÇsI}Öí¤':Tú+Å­Ã†úşşóñ²ø>Wú¹Ú‘é*M«<ä®fSuG›û¿4fcìfŒùdÚªÖ,ºçœÛ?ºœÕ'ç­FW}lÔ+ŞWº4W‘lç$QÌÊªè®ä‹“İ$W¼¾´r½¯ƒÉ„Şm°íÌÅ+¾F+S’©ôo*´ësÓÉ©a<È2VÒŞ6¶{óº=9ãyi£Uw¹½_›KC,öAlQ—Ô6Û‚ÌV(˜Øà›,í'H—ßâU»=Ğ&ôBö¡âïÖøFcÛˆóø!ó4AsĞ´-<E‘§„ƒbPJ@1H‚è”zŠQ'PPB@]Œ:q­ƒjÕ1T¨Ÿ@SO	-AP-¡:N		V—X=Áê«'
+$=	¨VP-ĞE¡‹@….]ºtQ×.)HàOÁŸ€?şü	œŠÂ©ˆhÂ)œ‘„wïŞSx—ğÂƒ„‡$<¤ğ á!…	)<HxHáABgêuª±Ó»Ëàhš€Æî£¿îêº	üœ“âlŒ?¦~ÜØñøœä¦n\•ÿúW@ÿ"r´Zÿ –*TĞ
+endstream
+endobj
+24 0 obj
+<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /BaseFont /YZVMEJ+LinLibertineOI /DescendantFonts [ 52 0 R ] /ToUnicode 51 0 R >>
+endobj
+52 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /YZVMEJ+LinLibertineOI /FontDescriptor 48 0 R /W 47 0 R /CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >> >>
+endobj
+53 0 obj
+[ 18 [ 514 ] 27 [ 256 ] 34 [ 740 654 706 734 609 545 ] 42 [ 367 ] 44 [ 736 ] 46 [ 899 740 730 614 ] 51 [ 716 504 652 732 ] 56 [ 1028 ] 58 [ 624 ] 66 [ 506 ] 68 [ 456 561 489 391 521 ] 74 [ 322 ] 77 [ 325 905 616 551 581 ] 83 [ 428 ] 85 [ 358 598 ] ]
+endobj
+55 0 obj
+<< /Filter /FlateDecode /Length 19 >>         
+stream
+xÚc`P°×¾·@ù5 íÅ
+endstream
+endobj
+56 0 obj
+<< /Subtype /CIDFontType0C /Filter /FlateDecode /Length 6350 >>       
+stream
+xÚµZxL×ößcÌÌ!i1is1z¿j†x”ªVT›¢¨V©G’9„!-™ ™=yB&¨WƒĞšD£DÕ£îm'èC•¢¨æ¶êÑöè	û¿Ö¡n[÷ÿ÷ûş¾/û;sÎ>{­½ÖoıÖZûP‘úõ‰J¥
+{ù™çŸÕ):!1:!Æšœ’h>Ÿ<ë‹ğµ¤ÁF_sâk¡òëùLj_Óú‚Õàúw*gš?Öì7ªiAˆê»F0Ö³4¹Ü
+.Úl	nƒ¿;?NtõˆŠ„‘fªHÕ‹ª	ªXÕ´¿”×³ë]-pkÎ¼ˆûw#bæGŒˆO˜0sfÄs]#F$MŸŞ¹áğ™ÖÄˆ¨¤Ä”ˆ9‰qÖäˆÑÖä³#’ä'¥&$N‰ˆJ¶Z#F%É)©““­°\¬5q¶uvß†CFDG´bM´&O1bNÌô„Ø{O;D¤&¤ÄÃ‰)]¬ób­3S’#&'ÆE‚—~zo~×†Ï$['§Xãü/â³¨¤ä)Öˆöñ))3ûvë†KÉx§ël¹k¢5¥CÃQ°jDîİÍq´ˆ±§{‰1RŒ½ÅØÇ'º‹ñ‰Î0ôø£m†GJš÷§»OÇ%ÅX‡ÆYSRæøJš‘V¤5iC'mI;Ò‘t&]I7Ò<AÌÄBz’^¤7éK‘gÉ`E†çÈóäE2Œ'#ÈKdy™ŒQƒá_Ò½9Œ!\õ}½"u{uMı“š#Úº¤Õ÷oxäZˆ«QvãC{è_ÓŸ5¼Ö,lócï†¿~¸ÙâæÛ[Ì6şÃt:âz«öchµïJµ
+Æ6ÕêjßÏ6@Y¦ÀŸ¦t\³eø[£D°ıâ­[ªQÆÃ}O5u½ï¾œÛ#êr´!qö2ßØ¹¬mªŠe°0µOÍBìnÿ²CÔX´8‘1ƒ¦e§Ø†%™m™Â	ñÖp~]–9Ñ™Ípå.vg|¸aG®›JE®ì±&¥FG{Ë“‘IçfRÊ¹ê¡U³B]Ÿá7.Ÿ“B”jÊL¬;3©°¶ê#Œ¬Ûfx<eÛŞİ9­466aZœQÙSÿO÷BØp{›¸Ç—°†9tI'jĞ‹4ŒöJœ¼*ƒßx,œhkeÊÉKµ²’¡QŠ”I†ıÌ¤)(råo¤I*‘wç'İÅœÔ‡=ñã8Ô¹‹3AyWf¹ó²s'­ åèéâü”ÖUÛçç¼^Î¹Ìß')1¾ãš7çüŒ×K%ÎÛ™-uË5³^äü‚dqş…äÜ[tXôÀ‹F{Ö-øqTE-Ë«*¤Ÿì•“ËØJ6¿2¡,ôgÁ²ˆ®¬¾Ëò}dØRàöî>8¿C¿	SŸ5ÒN®ÿ™V_òKÕ°ÃçZ”Ç†go1Eùô3bm.5ùıq gs6í-Õ=^JzĞKZğ’¤¯ôĞOìG(›Lk.ĞŸé·µÜ,åêô½>ÜXy€î£ÇAW¯÷"ç½Ì:–r~Ğc¶s~>º†J!¬KÆ¾Ï+Tå¬“¯ó.µ¯e†á
+½´ûØ¥¬åi+môÙş}g¦’"ucÍYwNVÉò×œ¤»‹Y‰iUÿ’+³9Ñ{,àÎ h¯+ëƒÅ{xµ`‚GiD•W©Ò‡óLËyk02çÂÁVí.·›“ˆÇ¢k¤O^?•võŠô¯œZÊ´`¾2ÖIÿ[Ê‚¾®º%kw°±ë•şJ'åyEõâSÆÁ³V5E)A=k÷ p^±cÁÏ$'Qˆ©şŞš=•ïp2JFlYİÅ”½¨³ÎŠƒ¡“±`Åñÿ¹ÅCÚË¦U²ÒİlQå´€“w«ÒG²“>•¡/{I»qõÛçµ_ÒuÖõQœ#Bï"›zhÂ‹8i€Ö÷X²*²~´/£¹gMËYì˜ÖŞ£Õï ´µs¬Ó¿OsVg¡:m@´ìÁPJú){7Â"]«ß¼ç;;5¹«j–íãü¦DhjAìe€=©ÿ¥ ^ç­‘ô©©ÏLõ•ÚjçÌ[·ÉÄæŸÑ§oÍË›àÊÜJ].Çv'¡piN#-mÄ	æ„±4Ó5ffJ9£ç.z,±Âzín¶âw;ìÜ®¿Æ²ÿëªöí´”n b $Zá ²‘-şU‹öeV¿¿–LúWÿÉ€œß‰†«NËâ«0	İ-Ec”{,¹0F{0lµVîa†ıİÏç	'ÒßY‡'@Òè<«Ÿÿ†ó*S!4ÕLë[køFî½ûùıwGç%á«>˜wnsş<ÿİXÇ3 »Xú´3Öù/˜a/DAş"89íÕqbDkùĞP!ÑGÁïrMÑ$ßy½ë¤ŒÕ¬åNÊ}¼ Ë90º‹sòéZç~g)İI=›‘Ïù$¢´V‡¥!T•$¶RÃù5@—Ù_Q@cÀË2ºü)Ü„äØ=ÔÀ]ŠÍ/º¢á¤/:Ü‚Ş‹0’î¸d?¼'Ùˆ_f²èØF`<Œñ‚Ÿ†Ñï3Xü›Œh†¥øyP‘/~(ü<òûyĞ‡Wà°r	,±ï~„7.¡A®ˆL€ÁqSäÊğâÿÔ7×ü¾áõVx,L2ô D„äûÎïÀ†¥ ò.^/QK³%`Ë!y0÷¬FÆûÍ\:B‘ó‹f‹¯˜SñX>,(:–ïŸ.)¯Û•‘u#²¨2Ä7B™œ«ñ8ír,¯¬•ëºÃk¿á®…§sşÏZyd–Z©s›s#İH8Jò‡À\ÌS-À—Dƒîé¾ääof³/Él­¹‹ë2ÀOõĞ`>tpx…¸¨7@O«ñ¾à§ÄæøJr©2üò¹…hœPå¹Z?ïvPÍúl«	x›^Z]ğéR¿&¯o¯‡Áx¢6ı+òÂfËïQ¹duí.)e:xPk#TöÂ¥1ÈäwoyzpUoôã¦Zù†yÏ>»rJ\³¤º:Ú#-kğÿİ½À^úè'²nÓ?†F×8ªæ¼4-ÖJ¬ZW˜[è2‚=D‘0Qù QÖ¯6"±oëZiôU"çÍïÇÖ„Ø³5&;?9¡«I(†¬àœQé;S‰©–1ÖIÍ~õÕno¥Lä|l­üçKÃ‹Û*õz2Á&q2´V>ÇÉØğbûQñØ8¥=S^0r¾
+2ç¥Aù	~¸v
+çï£BŞp¸w vu/3÷€‰aºò{By„ ¿€z£0ªGİû Mû£3#QQŒFT~¤H•1`í¿ÉÛ+Ùû1œü"ää+ìÚíVı™Xª¤/‰¥ÿ.o>œÛêôW-]·ÿğÑÙJHëÄ‰}ŒoÒ¹Î¹tk{‘ÛãØJ¼»%ıÁå$5mš¶DíŸğX*8i‚ü?P”=ÅÔöH?#Í<‰–øã®Ç"Á»¯w´@õ@,6"3 Jcù•¬âşŞ^‡½õòóM1@á"ËOƒgİÅ‘ÆIlœöØ†uûBUSW6Ü O„½çÿ·{g=©‡#Ss‘²°¼^ŞûÁl‘XeF¿ië„Š‰G 8ÁM‹Ll†B«°@Òïò×³X,‹zà^œ½lMÙ˜T))Í™¬ùpı© |¨5şhŒ× g+T¬	{Š…ª}}nF/›ûVWŒQ·Ãˆ­Ÿ‘m¿Äzâ2ğiyÒ*üşÔ]“ÉÔ§pOïUç$ww}×ï@ßDÌEJêˆéåb´w÷´ªX:
+Èí¨·f¬o63>G£¤Ö¦¹Ò²ŞÈ¦—Y!‚-Õ«•S9qøq!®;"º	®ÖÑÑeµF»˜°ÇˆÀ«®ánœùˆb~ÀÛ­1€.âU„»8È!¼xÄ@­·–ó¯`c¤)ê\…¼i;¢}Şš2ø	¤yn°f¨;ûmºb¹D÷gW,9,…`š8^¡ÊÛÉf¤&ìTû:°F_cİ'…å;Œë¡®©L^=`}Ë¹<Éî¬UÔiÏuĞ„Eõ$*-µ¨Ò°Àšg§v;udOÈcW˜½Ú±’®ıºâm¨Ü÷jËåa¦:=Ö„Yır~g:PÆ"~Ÿ¾÷™®_^ZV2løRÙEPğ–WÍR}oè¹â‚¯ò~§éjÆãĞ( 3y°è=š>â/”:Ú†¹$hùk4Ü DçItö8ä¦»è”n —Ä&{™E™X*$Ş5¹¹ü2ã@ÚILœü’h.Bjx’ÿgî%ÿpõÛè®Æxuxt°ë”úo*áJã8i¿‡¹æµòkïÛ¿¤^)Ä—´|îm&ğ6â»1~S‚Ã·Bæ¯(õ!9Ÿ%Ç×µü?‹ó[6²MQ±ÛsoÖÊĞK´	/Îß0–ìhçˆ£1t”S(º3[Ì U‘`‘¶øî"‰¨«‚üªÃ'?bdˆ'wÜÅ+h!8ª1b‹u¢Cnê1K¬#Wåy½¬¿;ËlïB ^õ•{5¨˜o$Èá¡§ªˆ×b †šáı\/Dµ…Ûk‡ÁÒ\/ï^3û*˜–Ï‚bèøû[9›Gmôï?"…üŠ ™¤høİò@f„hşÙF*5!ŸêW
+õ«ïQè8qy,ËI;¯7ô¨•A¼AÔ…6³…MÕlà¤-*§Gå4ÈæQıúĞOúQG¬#…¦ĞqPİÃAçh/”®aX
+ş„Š]G^ s^ä.VÆhĞôòBq=‚!ÌP._	l4L¹ŒÖ{Ü˜A™-6‰uL„"0rÎ ™NY	òBúPÍ–XÇ©‡M¤G×(ÓÀÀMğ¡`’zRYRZˆ¦íÁ íã±Àø¬ğY¤{z,¨h5Æg|:ø»QúæÜËÎB4'ƒê¡úw¸ª‚¥»€}µ¸ù“6²iş{÷×lë±¬+ßàÂİ	”{,Ë8¿!êm³yaFFö<*ÍÉ\³×”ËÚhX›[úâ<uÿR–‡BD M‚Ã‹ç d Y­ñæo^ïzN3[Œ9³e	ÀEÔÃ‡MP'JB#áq	B_BI¥Êíó½é¹¹}
+ç+ÜÅS9ß%Ë‰ôIõî”‹t=¼íÉÉ”ÇtÉ©ÉoÌ§“è›[èV¨VÔ¢<‰B¦y«“Ÿ³ï±ªjÆÂYµ¯ïEÃJû[6c¬œ0/‘JG|È‚™úíûMå´8.oZŞÌM©Û¨´mÃÛ[«^şHQ)[wVÚ› ô?Àí>*N$PX[, ¾Æ½´Ãôö5Şë‚OB7¡Ç+ß= …,Ë¨™º]¯dcÊJRCËQ±0ı>®šˆğšà­¹Œ~ãş¡Ëxu5–Æ¤¬‚ ªRDğÖÊ[ı$GšáÍfhËF(Úˆ„…;æ½ÇĞ[¢~óØ9$‡êKg†“	Jc¢å1 OÄªQú§f³ÁßKóïÅYÎ¼â‰¡7QbÉrCù±°¼ğˆûøò\—}­Èâ¸š—¸‰W =$ùÆè¼yåÔ¸|Iş"£œŞÏölNNºsaÁ¢³
+4
+´Zà.Ö‰:Yàu6Ä7VßBWTÑ(ª„ƒÖ‡pMêº½İ'"ÓïÛ‘ÄI¸Ù¼ î­¡›è‰÷Ö¹¥2.0³‡éıhÍôj6˜m68·ÚœÇÑ˜¸uºß‚"„ş&N°AÑ¸\ù,ÚfÒ…v»Ä*m1“_¶Yi:®Š^¥Kù´@bK´V»ÏOı^i×J	îªtAÜ#2¢Æ7§Ğ[£îgQàèœŸĞC`¿Çé±íÕ_Ğ¢¬5Px)½ ¾¾QÍ’+U×YX-kªfi¬©-¿ [³º`¥iƒÎåÈŸgl»OË:T¬_o\Móß\:{ù´’äTzgãº]›¦¿ßÒ4J³ÆÈ±	ci')Õ®KˆÉZlš©[’Ÿ³ÁX­¬ĞÒ>o, ¡Jg•ó =@ßsì
+Î°¼7–Óo¤iÊ¢JöÔ_¼Ëæ¾º‚©ºÖ¢§1IÿIÿ+a»X…¡SRú¬ŸØwbÍ¦Æ÷×Æ=iRtJAï³q&]–¸ƒÃÇŞ´Ï×âøYÔèÖo9Wå)ÓmˆŞ´Í|U#J'ì¥ûhİ°bmav‘}TU¾HÃæU+ËßšµÅjšH_šš8k~áÜÜ	°öXàğ/º7ï·õ—!5é!yß¡.ápÊƒİ¤¼¶eÌx‚ónéâjF&Ö8?z±ŞœBË~#¼¸ğMhçp7¿ KƒñÊ‡WzQ±C6Oš5q$M£Ø/£'Íğê
+ÒT[¬o/!GŠ–t½™‰2ó”Õ£ÀßB€vÄ÷N"h1ìù©ho	ç	fËR K$QıM2f®ÇDW^6â.X¹.Ş·ÇV°”¹((Ñ
+Q×æˆ÷p„iSÄ{k,çIgPá`RyÂæe…ï¬)¤Òrº43/3áš¹o#*ß@TnÛœz“5U]aÍÔìM‘Êˆ#&h¼òRãŠE®Ğ~k#6ÎwØÈâ¨EöÌÜÔ\ÈÏ½p¿¡.¢uöìGJÊhH†6û°¬{8„r]T«=EµêÛ»‹Çe¾-’¡ÒÌ—h˜ºqª§ªdGIiÊÉãS¦Í0†(ó Ô¸±­$G}é´÷ƒ(‡=ŠÕ#Åºş±Óƒ«#ê¡ÿWÔeÔ¦hköÈñP3ß ›Ôx~[èUÆzúÿš6×ŸaóîÛ†bv”ãy\‰öqEÚâÕ£HE­å€aHcğ‚ä)?Ò¤ôÓÑÈ7ÅÜW›sİC·ŞW76/ƒ”u×İ#~¨~×bìÄ‹Ï(H8E~`’x/¯‡€Íğ, X½ØêàÙ¯EM¼e}-ÑŠD±d†íd#±[Â¬3bî{8÷´,„yh‡;şC§œ×R6Èq„f°HMÂN^ï@ö^9cø‚ÿBÃÿ-„ºh7—åû›’&çg †B>~ĞyOB‚şJ¸
+¿Á¨ò…"®ˆ<4f{<pÆ„¾òa>‚®Q–aì&äFbó+úK“&=‰ë¼
+‘ñ9Çá4šâH´£
+†o÷¿1UÕÿ«©ìĞj1¡F°±x
+]äkk8¶»¯Ò‚óìZy¼8bÒgktâŸ«Î5)³•W ÄY€ ‚´XŠVË’e#jâ ­>jŠTÔ·Ó÷×'uAªl"ËÇĞzâXn–ª›04&ã¦§	l•a«Ïà¥ü+Üåg¢4À{_à½ë8ı °î¡ZY
+Ù¬,,c#+ÙÕ£àóËàó(¡¿r™ıÃPùßÑk Lkc&MùÉp+±b§ËÄ‰ıîeŒÁèÏSáE;!@Ä¡jY#çq£^€^"}9>~š„gÚ²a l¯ÕáØÑCapæAHÁSr\Eüì¤ÁnI°“§ptJ’ş
+æ‰š’r¨–D!ŒÉ¦bÏX¥AäŒ.“&»’7A^haôù÷/lÅ0Ògó¸*8Ú‹QÔÚcY»²à Fş&Ã8	•pĞáÏñY©°š8bâ|5¹éé9¹‹W/‰¨´4’ĞW–Ì(bŠ§Ö¯•²µöÒ¬½Â*)\3ÜHD«”s~ÜFÒ!¡ãºĞ•İXiŞ_ûO‚å¡˜Q^Éø”}U­úRĞÇ¾(Ã¿u Íø úktMJÔe9ùF¯Öç|•øF…Eº?ËÆÎ Ï!õˆjà*â ì~GZœa¸<êçAZOz,›×n¦+3]é…3’EG7guµ‰V;nÑëÒOÚBwşrÓV]~Nn–Qi@eš\¨CÜEyxO±Ø×Êñ9Ø¿Åñˆ³Ÿ8ë9jŞ6ªy[KÃñ£åß‹·±ºåõ.$Ù3áµr(‰Bª2NÄ@GTzÉŸ$õU¾¥,ÜÀÖÑorÓéFº:{E¦k¾#Õ1âñ!~Ømq\ ¿ß—µj	„€>[™[ˆH p†ÿË!Á`uºÔâßE[_CÜÄÎø‚|L¬ßdB…]ã@ûâ.½‚_ğóÒ¤€ìİöu [éİJ! êX¹ TÖFô]ÏyDA~è#¢uªÅ{õP“«PGş©‰š÷`%=¤‹
+Áÿ‰ÔØ×,¸m­şï¢½¡´©¯Ú^ä{Ö]äf¡…ÛWo^¦U•èŒ}msWwnà
+nèiè	faA,¬0øgpÈÿ ¦m
+endstream
+endobj
+54 0 obj
+<< /Type /FontDescriptor /FontName /UCJJIF+LinLibertineOB /Flags 4 /FontBBox [ -1082 -328 6171 1014 ] /Ascent 894 /CapHeight 647 /Descent -246 /ItalicAngle 0 /StemV 81 /XHeight 433 /FontFile3 56 0 R /CIDSet 55 0 R >>
+endobj
+57 0 obj
+<< /Filter /FlateDecode /Length 518 >>        
+stream
+xÚ}“Koâ0…÷ù]¤8;3Š¤Tm©
+3š-Ä&8‘üû±}H+Ğ ør_ç8×£oï›p¦š=…É#gÔ5SQX¼îÚ`4Z4ÕåLº#R¤†h÷ÄŞMSm¨gã¢\”ºîlr©«ÓEÑu?iNÇZ¥¸9l¼¥ßáÏâù¹\…/µ~©÷dúZÓzrW³­û“Íı_³1v7Æ|‹_dººÑO,zäœÛK­Šæì¼uÁä¦MÅ‡Z+sÉöNrÅLÕU#ÿ[í!¹âÍµëé\êCL§lòaƒ]o®^ñC0YE¦ÖG6¾«Ğfl.m{"§†ñ Ï™¢ƒmlÏæmw&6qÆKe£u½_ÛkK,öAlÕ(êÚ]Ef§LíğœMWö“¤Õ?qªıh†¿‰BÕŸq¢Ø6â<‰rOsĞÌSŒXŠXœ€bP
+J@”‚$H€2Í@?@hZ‚ hé)á (ò$8Ê”%P& ,2e	”	(K¾ƒ2”	(Ká]Â{Š=Sô”è™¢§DÏn%Ü¦˜ 1!Åy›°  x—ğÂ»„wïŞ¼gğ.à=ƒwe”	(ËDğïÜ­‹ÛúÏİ¬.ÆØÅôWÃïŸÛ<»’Ÿ·§mZWå¿şÚ—ßÑzü:„8æ
+endstream
+endobj
+23 0 obj
+<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /BaseFont /UCJJIF+LinLibertineOB /DescendantFonts [ 58 0 R ] /ToUnicode 57 0 R >>
+endobj
+58 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /UCJJIF+LinLibertineOB /FontDescriptor 54 0 R /W 53 0 R /CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >> >>
+endobj
+59 0 obj
+[ 9 [ 298 298 ] 13 [ 220 338 220 323 465 465 465 465 465 465 465 465 465 465 236 236 ] 33 [ 895 695 588 646 701 557 485 ] 42 [ 297 322 ] 46 [ 839 699 702 541 ] 52 [ 485 597 661 652 951 ] 58 [ 575 ] 66 [ 457 493 428 506 447 310 500 538 271 272 512 264 790 542 504 519 503 372 390 316 531 497 747 490 515 424 ] 105 [ 695 ] 1752 [ 742 ] 1757 [ 268 ] 1766 [ 351 ] 2383 [ 596 ] 2386 [ 614 ] 2399 [ 1048 ] 2647 [ 560 ] ]
+endobj
+61 0 obj
+<< /Filter /FlateDecode /Length 36 >>         
+stream
+xÚcHÿÿ£Şøüûÿÿ?080'ĞÂDMÓ	(  K–
+endstream
+endobj
+62 0 obj
+<< /Subtype /CIDFontType0C /Filter /FlateDecode /Length 10731 >>      
+stream
+xÚÅ{w|“Õ÷ÿJš‡a…†ˆEMÊAV224dïÑÒ´…ÒA£´énsÓ=
+-”ÕÒEÃ,C¬ +eÊR6DAdÜÀSx~çÜ„êÇ_ı½üşñ¼¤É“{Ï=ã}ŞçÜ[	×¼9'‘HãÆ}4úmO­_€ÖÏÓ{q¨_€÷Xü`¤Mes'­•¶×9Û›²™MédS4ïÑÚÉÒºùóãBÎë¯¾öô‰ô“Ô¿c³ùm_o9µu'x9ôxë.øÎÌÖ]9çfœ„Sp$%£$ZÉÄ¿Zn@ouï¾ğNØ÷¦7İ=—ºóõó÷
+rİÛ}\ ¿¯–cƒ¼ÜG„º‡Ì÷^ì>Ñ{ñ¢÷@»>Œğğq¹ØÛÛ}B .4bŞbo˜ÎË; Ä;dHËQã´îoòğ^<Ïß}\˜§¿Ÿ×‹O{¸Gø…úÂ¡o{/ñò
+õpŸ0ß}ìHøÒï‹¾x¾wË{Ïõoÿ"~62p±·û›¾¡¡ACúôÁ©tøNï]ï ïĞ-'À¬îıûöU÷ÂQÃÆlÈÆwØ8ˆƒqì×—ızÁĞÿÏºûÁü@Oï1ó½BıB—rğ_®%÷çÂ½ÌµáÚr®œœkZ…kÏ½Ê¹q¸×¸×¹\'®3×…ëÊuãºsoq=¹Ş\®/×Óp¸Ü;Ü n÷!÷7‚û˜ÉâFsc¸O¸O9-÷çÁåÆqŸsã¹	ÜDn7™›ÂMå¦qÓ¹œŸó9çœZŒm1¾Åœ–SœÀäğßhn4ßƒ[Ã=–’Ì’,“d7ëÛì§Øæ~R´Æy¡óuY)ïÉçó¶gZieh­i]ûÒ1—Ã/yùnÛ6mpõ”·h7_!U|eã«:·MÒ_‹íìëçß÷Æ%åw7÷]?è´½óK]Ì]3ºuïù&éáıÖ«oİèiéUòöİ>E}Ï÷»ÒÿÚE=^¢)pş=ƒ¾ëEöÚnï“ÀØe¯Ó^Û=.d	ğ¿´t6¼¦Yø³Tp§_°ŸHc†T˜	?Ãi&½E¤ƒ½¦°%?ñhLvvöî¸ä´ƒf(Èìta9/ŒÎMÍÎJË^°EhA•„®„¿´%Un®ÅF“YäZj­¢øÄj9ç_Q|ˆïqV«Ğªkoa(<x˜’¾wÉ	Ä€Iw&ÑåÂ|::&%.>9®Ü›¶”DX	…–‚r¡È9ét¢øÈ¢†ùÔ˜Ùæk…ï‰j5muÿJ(LÚØJp+¡N·$´}ÓƒŸşaá*"ŠWôÜzQ|¬çV%¯N)L ¡$ÜgÖ”(“Ÿ(ïànrŠ?\ã¥triÈ!‰…æ9Ñ¢(0mÌÏMÊQ	ÎÑQ¡Kc2csT°LÌ#ÉGN¶+JB6m*)Ù´)¤$  $$ fX÷¤C„ÄLËœè®'Dˆy6i+‘º¯ÄTÚj+%5×¨÷5'i;­($+òõeÁŞ#BÒ'Y»bjØàé±K	ß;†¾wïÚ©JjüAq¶8O£UänÈ•9Eñ&j¶“4ñ¨ƒSj­“È›äm¡%¦ÃvsA3œ{¨g%*j >xDÏ‰Üë¨²ëhŒNÚzQüŸëfQ0Ç+)å¶o#$ÔçœİJ]ôŒ9‰ÖzF‹¦€ˆ\sXV|†qh…F=‹«ˆ?àÇpÎµVµ'|±›½9®	ªÏ³HÜÛznµÈ½¢ç2W^äÚàtNz.ÄO%\‘AA‰''$ğÌ„=F‘ël­‡q Z«÷1™a|U§3ì5df’â„ÌÓ–eK(<±Úá´[¥ëáï¨Çõ MrÛa›¯"|õÒâÂR‘k‹ë¾âfV’ì”Ì”¬”¬„’Í¯[_u¦jßâJòiè”qcù>”öè¾|Ç“}©›•ô#çÍ»RˆJş°`îwÆÒ„Œ¨Ô˜”e#–-ö!¼0Ò™ì>y"#ƒÿõg©Üv nûr–§œzÇ¥à4rğX37µl¦Ë+]kÏˆ\ZÂCİ_­Íu¹.û‹\O´_÷]°(~aÑ ¯Ö[­Ÿ‹¢õWˆ&¼ß ã3JSW‘ÂËøv¹ Üúùª¦’ØµÑ«bLQù„_²ÜërĞ!ÚêÑ9úªŠPÉàšq¹¼!ä¹ñ\7“y­Èõ`zÔXúÃ¨äšÅƒNÁâ`BîUS(ş„2½â¯~€kƒ|Ì¢]wŸ×sÁŠÜˆ’ÊôòÕªc'ó×+™ãĞµ¶×ÀwJÎBÔØÒÂVa‚LäÔàÜxœl$Fn ©à¤ÈÍVkxª¶*ÑÎd/¸JÖŸ’ 2«•OI]H¤ñ ‹§èVOPºFAÏiE±&8ÌÀa:§Ef•ÎíãLfy“¹Úl´wÁ6»ët0v5™›®3==<…Ôò?”™Ì«!Ä3õh1}%=µ—v:îqÚ•¾!¿EOÓÏ½¦}<VéM¢ÖEE.3‡~É’eWüĞ6×¤®?¾&4WÍ%ºØ¥ñ|*­NÚœ¸Lu®”T¤nMçWˆO—ÊoO˜”8™èˆOªoï'l•î/Ú’^Exë¾¹‚Ä±ú×•4h½dÇ%êsÉIä’ Ü“¸c¸+0˜Üq`Ø¶…-ñ¿¬é9Mh6oÚtíø
+úxÆ•È5CÅw@mJÑó_•Š\tÀ.Z+Ì÷¾œfåŞ3™¥n"×Ïj%ùI9qİ}6oÂ'Ÿ}äß—¼Ës¨Ìëmÿ%•_½:ëœğº2ŒrŞÍ'Š×Ôö¿i­}Ùá¶Ö¼×}›å'épÛfå<L˜ü®0e”Ğ‹Ï?‘&=@‡×Ñ!´9]ÏË«—çKå'—%†%xƒOy:û‘ÔÜ¥éğ~²$«3ôcã¦@
+AçoDù[‚¸âsëñ<Güš‹åY›d1<uİu|Ş7tÌ©™gäçh•µdî,™4yvPï¿Zªİ_NÊø]›·RRu?Åé	û{tã1\I&Ø5!Eç{—;Ï4å¦ç–KDñWt¯›8ÜÕs‹ÃxùOŸe³É|¾ëéIhûcwÎ*	€ñ¨ÍşGQZwpğÛ¥µkÏ~AñÂĞÆ¹ŠÙ£ÊnªHiÁ©«øÚ@éïu3É¾ûûËfcüD¯§AhyÉ^»Ù%c­VºS!Š—dBø¼ŒÃs„„»¼|°;{i³m{÷=à' ÙÅÛ(å3Œ–›(O1x¯ƒ €¼½-j˜ïnq½›I÷ëtİ7Q<®ÖèôØìÄ_KlûÊzätY¹ÀÓ9‚Ì2\h?I°k8}]¹<«[ƒ.[äŞ°¹—,jP¿°úıø‘äÔ#§S”şw"ªšÿErì	šz=r=õ(¸FşëŸ¿«ÄUû…‚¿JŞ¼üÖ?äoº_è_N{m§GÊèğ2É×i‡3tØ	:â¢“­T¿eS£üı?œ>Ş—hIä²›)<¶o_iÙöœBRE6-&Ş¼IHTÀõ\–Èu„Lµ?Dó"3&G%†HcÖû. |GA.8½Ö¼sOUI¾Ü´ã[>Õ [J"ùåY‹7Ñ€S´#u¦c…>´“°P>>€ıh_á]§¤Rr¨òĞ.>j•tÒÜÏBB(ä½Gıé[4†¾{Ÿö¢méGo
+ÂíÌ®)±©¹*—{€´ºm¶V€´+i•"ŒÄ§Aê´Ö3º~«ƒ”4³h2ÉmaTØ"ÌUÔÑ®ÒŒ‚ÌôÀFrP&Ş„®ú:Ìy0&1ñ$:07;lVëŒ5d+Ùb¨tÀ%<‹Aâ„ßºÄ^¡›İ…lÁõ7<m'¥‘±Aú(ØEDc¹4ø3Q¼ªçDñŒs€ñzÈäîµùJ=Ì¾×Pİ4û„´f&óLà˜^Fœëáfæ]âaÓ_VPRáúè
+õÿŞï¤Î	¶ZÅ~’{í«3‹º·hòg¿æ'åé†÷û0ĞCèõqÔúÃª¹¶pûïa5à?°ò|£]’SÉ…‰dßØøÆ²&¾Q’hĞÁØÕ3dg²Úú”Ë„Î ûï‘«äÎè:Í:>U†)µ?Æ½
+Şã^­=ÔZÉñ€k‚ñ%“R€)¸ì‹Ùj»V-©n°}RîDŸÄ(~&7v¸‘˜Ÿ©'#†òïÒ-Å%®5™i/B»Á<“Q¯à¼£0âº ¬³eú™Ì‡nüì©$uƒ×ÈOh·hÀZi­™‰_Äï©›š1Û"¼L’şã&‰â^¯LÎ¡™W»—ó-ˆãÕê‡¢¸ÈZO*]¥TØÎWH]±Éî8Ñ	—¶PYe¥iõÿFøHè-Ì^š&tì¡/Ú¬œk;Ø¤Ù£ Y¯Ö¬™\WĞi5Ù–òÈß‘z£ê!¼Mß&ªF‰)óA_Ş)åş5´zM¶ø—»>¼B?)¯)_Y)GO+è3E_:ÚyG~Ñ—Êïœ¿#+½ÖŒ¹ÖÑ+[¢®š!ii)³¹E“¸5òNJ6I5“É²ä8C8h¶³¼JÏü¤?¨çşAz^î£¯62–ƒÌåõ»/-4í5×gïƒ¢c Ó¬øPßÌzÅßXê²Öóò}ÄG¾ãŞƒEyçy+VÖªhpƒì
+IM›™PL23ë…€\!%·’Æ
+cIBf8IHà“'&GÄ<×B`çïúĞ–W—ÉïÒ*zVñ3­ƒ™^oš‰h¼Œëí3:&ìü2?w‡r§ó#²4˜OòR³Ó kX­[!ë!/˜«óÅ„[“!#1›aÈ?Gs˜h™Ğî2r†Ïè`"~J `ö"<å,¿´ŒÿıV÷w’dOÚ8x=%söA]r±œ<Ê|÷RaÆ©4û“s€]zÆóÌš—Øxö<óo×Ü	šéË°¨ú0×™qâ¾P[ìüsm±^xç“¥åÚD·)pıCõ½aå35®Ïbá"bBÆiõ/:Ö÷	£§.PŠâÏë÷·[Yë~»XÔ	àÅXGQ€p®µµ±
+Â¯Xæ³éÕNR–½µÊ$Ò]‘ŞÁAËÑÎ¼MÎÏF=¹ÊçŠÍò,Ê+2†0Ölø$ù¨[Œ¥¤¶ù¶Õ
+®ÒQ­qluTf°zsätOÕ}µƒó"ÇÓØKÁ´Í—¦éöÇy¡}ŠàÛ˜.MŠINJ!)°™g…RİÂœšæÙ2„®©Rûâ'“2Sâß‡)Ï6èûJ‘¡ &p3G‹bCƒn|¢ı±Rãfc	)!C©C¶1ğ,zŸwKpƒ´õü[×TB½WJåÅà™˜Ñl¸2ëØÜÌ™$“¤g¥gó4Ì¶>Šï/t­ÇùÛ~[B¸([BôñÊ$¹* šîØF	¯½y{r©of0ß8@Fú/Kø8Şñ.¸ÌÛ:Lí™Ë´g©âíaÛÇÉZ–Nxúµ¬‚˜³•™$O_ÆÓûŸIå;ó"bWŞ”“¿Ze‹–‘…™§²ìßóDW¶h`¼…á+ş„¡,~£µç8\‰?_˜Dúò.cªl·ª$Õwlc ¨/?i¦ ¯>š@Ğ	X‰‹ £:‘êî^¹«¢×…]
+ê%t¦.Â(Q •†¾æ(5ÜÍ,L£…—ép¥ÈX8¦b²éƒúˆ^áÖñtE½FäFƒ§_æ]&*¥WĞº
+Éƒ+4ì–ıÜ¶O±É\yúäÉPàFÜ”9o)¯T}?ÎVüE öc)Áf;³
+mTh/Šûaé!éÃekâK’+|?©£­®|=ÿ±ğ™
+âEÚAm}¼Æ‹¾cÿ‰ =AY?UHöA&EïùÅd¾Û`2?i)ìku`µÍÔšÕY6ƒ]û&áe:ŞdD¸ºë] P@g»…Î6ağzƒ<¹Z­&oßX­óD±Z­±'s¿ÂßÒsa"ç¥ç  XÔé5t>€¥1j6èÒ‡§çO?
+Jx­A
+F`Hş6â×“µ»pèÄ*A4Í`=WåàÃ˜'¾ÇÆ8].Ú³~,| çŒB(¸®ÌÔÁ}¿*c2Ã8‰›o•}V4²)îòjëİåd±Ïî¤˜ôÌûy—T€æÓ5’´
+ºä
+õªp¢¿!@»Êån©R®ô\\8<˜Œ9éñ»÷vcJªø%N‰ï~€óp"´ÌğNI!†¤Ù1Sô3r“òù¤èâ®õõ„ßã\ëí¡jT0×ú‡¾PÆÓŞdÁ×¹Nÿ?¸ÎPv×õ‚Üqí
+}¼Ç‰¾Ï°ÛœqÎİ3!ÔN â-ÕÍ'Müğİw„í2a®ÈÅé¹ù@®õ·‡ÊéH%]"ƒÇi­…Àƒ-šCY¿ç(%1€­,€›rÑ,Ç¼ßÅ&“!¼`	Í#…Â0åxâ,Ö}á*«ÖtÓkSÎ¨¬ä„?q.—Ø&Ú*¾M+`v½‰ÃO˜q˜
+À®næÆ®€ÑÌyç6èl=¥({(:‡_½¤çN8¤ô2Ì6ø4eª €tF®V5è–g0™GB=Ô¨1G
+ìüWŒo3™sIì\†T‹gxŒîèx,rÇ-[Trü°²×6ÈÃºY4G+/2øB¡t›mô|h.Ôfßâ“}¶#^QÏ?Ã°jÄ™%ˆUázÎ6DjgÜ |»3kª5i/sÁ‹, ¾Æ…‰÷'¯ºÑ¢Éì¥ÑÚ1 ˜Sƒ.F7s‰%ØL†U£‡Û°)gÃW÷ àÅ(xùü~yÏˆìØ*JjµVá!"HgÜWÖÚlğ­LµË° d˜oW(Œ× ˆ²ìL1†Šb»bT$ ã·HIóW–>Ñ¢´ÇÁv«”uÒqIü>×²*íA¯Ã·ø]ÛKFIÇÆ,~÷›Aı.<•	Wpşße8wA°<’•—sÌ²UÁ'­Û±‡¾j¯µÖ9ô`Xh&ÁdN˜n…=¼‰ô1½_Q7ßê|y—;9£@nBğ‹\’EƒÁñ3
+ÔwÔåä¹ˆ#éFX\ú­5
+|	uŸ}ù@XıÄ§Éœğ„Ö
+"¼Œ½ŒÇMş–ù¦Z#xKã@,f5µÇcñiĞn M÷#Jô–©0jSÁW­ú¼Áuæ“ÆE(Øë´e<µÒ	İâ`ƒ/L§­‚Aomñ­k®5hŒëÈÿ¢4Œ%tc¨Üy`c†(A³{ÆV[«r×ªKŸ£ÎËCé.ºB!¼*#Q	ñq	Áá~¡d	³2²³x×·«ùÂ …¼<ÓœÃd‚y vÖPˆÔÎ¢)gÃl­µBuÈc®yˆ*vÆxbG3â=Lqx€Œ=ÀP³KE»Ëh§a><hÒøüèµ›V(I–!+%İf 2Ã—mËÛRQ»L*I|rR².•‡ö9™Œ"ƒ¿
+>…ˆIµR­ÎŞQÁ­”ºt©°ÉvĞÙ¥"$ç/P¿«NôC**Ö¯-ÍÙDøÃ{?xKp5 —ÊŸ„¯‰XÇÓ4)¶»5XËŒÎªc>||ÀÄ¤/O™?"7‘€vsxª•YÓ-D™•”«\óş
+¯ä”¸Ôå™	_$çgwøÆH™oXš¼"#.#)Û;,^[àì-p*¢ÏšÚú|Ø.(ˆåM«ŸñÃ7œ?Eów†PçïÓV·¨šºôûN¤ä[LHây Qÿ@°íĞ˜=6§rIõUúÙ5'[§ERN\z¬ÑoÎÜ°¹„ÿĞã[Ú‚6Û]_¯úšdû¦û¦™b‹	_¼± ¬n¼¥ç›ûÅéşÔUuˆì_½÷Ş¥Lmüz¯’iÒµæ*º ßG¡md‰ƒPØĞyï£¼¬õº…—/&“È„¯	mKN›,æâ²ÚmiE¤Š¬‹*
+åMËÓâ‰?¯ŸÛXgOx )}@¸E	îê8(Rš±3|“ÇW?€Û“ìäøXÏe²yyÔšU•æÃ÷æ„ÌO3bW“=¼mÚß›Eh'‹OIAîY¸€Œ!sÂ¼¼çÎG>àåû„—ô£œ²†TíaJ}3fõ® . ×Ët8RZ©XM¥§rJÈ²3œ¼Cb“@/Z­ü÷ÂD…Î;`ùçÄ‡Ì+ößQ½‹äéêi~VfŞåE7•Fz©ÈÓ¤rï
+¯ÚÓä,ù²ÒòErnBF´–İtW¨¡Ñ’;¨ê{'ú’ß’å˜ÒsTE²ôäÔD¥Àp¦½w•”+KÉÊh“oöÒ¼Å¤”“"R¨_¾2xUpš7áßéı¡ĞWå5U¶41:N%K4Ò•'…bg2hyÒ¤¤…q¥ÑB,dwSa<,=9±K/!¶š~~øZM(sİ|Òó‡öÓéWÕÉééiºYÑ{æİ;±ß;µ®ªNy´bÖ •0VØ¦ÈK^™R 0²1ÍDö’m†MËkÂòW`ş£Şı”ò'zŸw6P‘ŠÔu›*yjµuT¬^µª¨xÉÊ U0™±,Ø/:{AÑ8ÂÃ2ıí£"“Jü7ñòúÀås‰ñ)
+\ÅÃD“Î"syÍAçèk´›ŒH6G®(™¿ùc£,%‹SB’#1†D‚_ğ5mW‘¢ÌâüÂ’ãkÈuò}ù…Ô®ØPš•[d* Y$+93–O+ˆÉ#¼Ëx0‡í; \¿@uœèPQòFƒ·
+7sC¿lä)š-X2[EDò¬yqÔÆb{·†k…yù¶›9Â\­IÅÀáñB/“4%1,’‘€í´H¹¡ÜIÌœ¡O'?@^–‘:û)×ãã.£d¤B­A2bµæû6gÅ?¾Q£ìgåb#;Ñ6™ —Àš&Ùv=“ş=š„°®V'}îp—rìfXëAÀ-ÏŒê›ú«õjuz,sáhîñÆM´í=×›÷Ôä¶›¶;Šà’à’%Àk(Ü
+JÂ7)CCBTò‡Á ‡´VÔlMú1¢LOL‹SBñ£ç ÈÎé¹Ø‘±)	©ËS!UÄM?eÊ^$ç…) ®>Ù#ñ…¨5L[@¦‚GºŞ.ßY!d‡í°CÀ»÷€€wÿA@“P©dÂ«IÂËÓ”z•Ÿ“½2Œğúğˆ¥U+V«ŠÉiÕeµ[6&ôsúÈö6í#PïÕ$?ÿeb^ì2Ô4rTNuècW/8]…€‡M$MhÒ7:C%8ÃZÇ&<í{€š±A'C*H,"dº°,|ÕS˜=ÏˆñT¨J«İrşL`o <‡Ÿ´ÒÅ_°$ÁL÷ÓÇh rJ)2®1A0—ŠËûAaÙÀ¨N‚A\GìÄ¼J‘?7"kno×™Ù+‚ä15=¿Ş -İ\™mq4xBP"x1ÔAÀ¾Jb]	Qü©ßc‡0–íÇX6äŸÛ˜ï¡OßÄS¦‡¸ÿ_pëÏ s‹’™Vëßçá2ÊÇ¨ïŸ.8ıd×w¢GSŸ°úONã‘¦Ge›÷?L{0)3™¼UÆ†’ÛèüëÔnNŸ“xÎR:è³
+2†¶ŞqqåzosÜfT¼|GõÁMN>’H>gN=8*qbÒ‹æÕ&Ä=Ä^écÏƒ€Õü˜ ˆĞİğUW´y;´”ë„ß²1d´JøˆKœ”dGŸu”Ö9ĞgZzlN¬–1òwïßYP_^_Ğ•8åO_®T°y¢ãËıe7"O©•˜+±l­³ûŞçhĞMLf¥XBb
+Œ
+y¬ç¶²f+ ŒN7…|no» !ÀO¿C‚y
+½Op´5ìwuì„B>ï2ÙnÈ¢s´µÌOtñğ8Õg8ˆfiµù<ÕTÛUô/“4¶©»ha*(m2ÎÔŒ˜ß“Ÿ³¥zçšHÕÅQù¡¹©Aÿ°C‰sTÁÿ’v‡–-[ãH×pkë£ ë-êQ¼Kß˜JÛË•’­WiÚU§­t¢ë	AJ;)Eî}–‹úbt¾‚[í„;êˆ[í…½öHÁ˜_gí™aÀ:Œ§/	oÃ
+ûğbmAA¯ó™ËÊz¬Ít­ÇáÃıÀ€è4:Cquÿ0¡‹àú‰ÿÌÎ~ÔõÜµâ7U.ï	QåtB…MºKrñÕ_EZsY±~36‰ëK!4`şXİG‚tp@W¡¹j)ñÍXŠ¥=¨şNƒnx‡Ec3©”Ïô;sÇí0ÇÄÊ¹ X,©V0,ÅìÓí_™´ñ=Ù_aÂî&LaÇ`ÊÉHıtÔä-ŒT&»íòØÍŞC¯ƒ…UP¦}Eön­©İµáù<zÿ—® ½S€’SÙQ‘•ÅÓ¬‰‡ß*7€óp–ş ‡b…wéÃ”ºÃ&«T^¥aàåß‰’ NuÙm“Pú>«~Äu™Œ,5$‚Ÿ<Ao¡ ÿobWâ9
+ø«ZCøÏ5ÛhÏÛ¾½¨±™Çàıx„WàS@Íùñ¹»ÉÌ’Ôß‚&*È¶NfJÊÓ+Ù5V7 (;È²h¢–&%G³Ë8€ğ¨ v¬	Æ³Ê¯ .ıº¯ö>*´¡]Tˆıº™½cÑXÔZ‘{I§KO%á ê!ñwHî"FØQW[oçuû×=(:é³&¢l§»~?AÊˆNC/PÉÈúüµù«òV®-Ï'9$Ç0ö=³áYEx)âİoè¯ì^MÉÚuë »™—²~Ü<ÕLâ9't~‚ë
+u6Öõ°³y1å6y¹äÈ7´ãY§İT©HŸ6“ÌËMÍ5f cÍ$Y)â7$Uƒoı¶Ü5ĞÖOØL€½«ÕàK_±úó†ÅËàqudkÕÚ
+²†Œ+˜™PdÌÌL«J­6–ûgÌ0M!ü£g|ª"–ûŸ[xÉou8™K¦Ï×ì?ı„ª|IkuÜ–liÑ„­ÕïHX—¹Ä "o©£¿ÔHn\pÚnû@±"é÷òãkáKçe»”»ÈŞ55;RX„NjQÇƒ#Å>(¡ôˆŠf>åş±êi]ãÌ0ÔÔ:_ (Ító™Q•ìÊHEíp+Dî€¥{Ã|ô2µ#†a
+ÌÙsz.šušbp,$˜=ğ¨ñ¡Î7V`Ç™x5àÓ˜Zú¬éÿTp­E1ŠR[´Ç’-­5õ?*×†¦Êõ’½rµs!¬^ÙEöØËWŞQ¿Ò‰²Òô3D™–œ–¨L4D"ÉBâcôs0£=ÉÑd/L’‘%)q+¢u½¡àæM3İPşİWw'™ôä^˜(Y:ú®Ò¥GN¸­w¹„·uR|™d&¨áÁ”w0>ëÙu*­U˜
+lî¾Ïé©ıDVÍÚ´"×ƒÜíhĞÑIØ4u3ïFİªóÙ	|Ö‹f¥¯aY@±®k˜2SdÁ¼€íŞê‘³qÑ&³pRš™™P@r±iÂNÙXO’u÷XO/A§£õ@^]1€z2êƒ››ù«ûŠ†C0¬èg\ü{ï·—cÃs`Ã¿·ˆ‘y"ü©xÏµ¾©Ø•ÀÚ{ìfØ#vâfëÇ6è„³ÒÌÙ	¹ãÙ™Y+ù_©á7Áø‡÷2QĞXS=%Å~$o6è
+!¼İÌûÒ^fXD‘yMjù.ÉÑ(¾‹ßG·ı¦”ë|…ùÒ˜ÅIxÏmQšvLõ¥Õÿ¢çjSs÷§¿Ø™Ì½ØÑhÄ¹kYp ô°ù1Áã5Uñ4š5¼ücáciÔ ,45ëT?@•»Ğ¥RF­wWîNã]:mvM~Âàõ6c(‘Œ•ìî¢As‹Æ.MaÛé"c°CšŠäË6zò×¹ûÚ ˆ£R´÷âëíå²:ş“:n’Ô£Vn³¶Aç›bŸ	ë<gŞhXï c¼¿Í·YÓ”Áã°‘£ØÍFÌj…Ã®y?ojURXîàP©ıØK<‰«İÃğsÌWXÿÏ¢yÁíÊUPøn0”4ïoğZŒxo18±{~8ñ °_?*ÇSmÔë—³Ô0ñ—K«kE®½Ë`'lMîÊ”Ø¤4øÔ¢Ib{Ç=*ì2‹— œ>ÁCnPaŒƒtpìˆãRï2Tˆ¼h«‹Í4
+Çu§×ØIÍ½n2a•PÏzæé$¤‚ «ŸÒ`áDrÜÎ[Zvc]Y‹@­ù]Ò@Ôœ!*PœdFÚ–û€›Z­ÂRi¼=âEŠF|Ætº3OŞ¨­§ó¥ßÂìøÅsÕs_ı¡U¯¯ö!~$ÈÑ¤Èm‰PÓvP«=À“ƒİÌÂJ©ı¼)#l—ùÆÍ˜v¹d'= Æ.Ò_±"v1YA’Òô„ˆ\^´|Ôï–ìªcÀŞ#ôiµäÛ§
+GµÀ\“ğ£Ê0;Ñ7r,oµ:2­›ø#£ÍLæ¢3enZk)Ë<m—&%8wºëÄ¼Î~ÒÃ®½`µLùøìD³’Z“¥ù_díµßJ¶»õCÇ•ÛhÂ¯ÚSxQáÉÆÊ(¼7SÏnÎßŞ~@û¹J°" 6sÜz†Z<=1-$’À”  XŸ:‹âeÖ-zÀêu”å>;Ñƒ¨p¹·vóÏ›hæÚ»›%–†#ô¶ÅÉö)õWØ+/ÖÛv¼BAÛRë—úM%ü„yÎüR»Î¢:@
+ÎÊ&YÆŒ4c‰qMJuDê²‚	K~ÃZŞ¨D~—-š¬ëñÆÆEv´—eáŸÓÌQ]gĞc;¡œ×íaåÛhñ.ØÜbà…!ud{yQ/´&)h_ÚÊaì+´§®B_øÓ^ÀûĞW„v´ŸÊVÚœª('8	*ø#šJÁİJ©’ªS'ê®r¡İiìÉ«xÒÜ¹  (?'9[¯zÖÜ9zEDt\ZlÊE¸h[`ÿ½¾5NTñÄãßüfH2åéÉºÄé]¦Ğî›zôè¾}GNİ§ÕNªUºcêf:zÄ®PİN¾ ßC?²uPĞÉÿkbÅ:Ÿƒú-i‚ã2<¸)ÌÄ™ÌHq³XhµÇ¬¯ &³·È)9Î˜•ÈõÇA† pv	$Q=g²óÎÄ´,?À~Àk¿ÜÉîŠ>Òù‘ÕŒ^LVÆF˜ùó¢o@f-Y¸È+n2QóÑË–Gb%ò¢›]a¬2V’J²İ`yqïÈÑò[m§¤7/PŸN7AcÂ—²¥µÊ½d×¦õ5LVû9c‰X\Æ#£#›ôF}ğ;ÿ':†‚•$â°Åãğ½<P'¿Iö/fÆTá°Ş,öô$İÅ6ÍŞùZ“Qáj¿|aÄ¸üşÏ70¼§jìèkš:ÅÀÕ#à©À¸Ô ­k‹¸·Ü
+şĞµÒØ;Æ"WÒ “ı]W½ ©«îËºê¾èªütÕ·‹ |ÛJÖ¶ÿë®º/ëªDyŒâÜ¦GºPÊ~W	µ¬V!m÷å‘×P¼%k•Ö“¢xĞTÈn5Šbø{Nb¹Éœ¦Å»xœå—õÿã´ÿ·Vº°#áìHx “ˆMÓ‘0ÿâLØ—5DĞÄ
+×ÛèØ‡\×Úày“¬†µ­R“”òïE|!UL;à,r³õ\…ÈMĞs'”ìÆa§×úlOv?t„ZT ïıjÑ”~MqQ±È×ùÄ_­*è­Ègí¤ÃH÷~±Z=r©5ó¦Çza|äôÿïãì¨êÁıâwµ:Ã•dgS»áÓôÖ)¦£dòÚ²ìˆ©*a«Ş'6Uïğ-vŸ§»ÏÓ‰5“º«5M÷Ã›ğvÛØ^kİíãŞÇ_Á½æJÚÙ~TDçÛ>(X•OÛåV”æ:±y²ÿ|‹‡·Z(‡äÕ‰­[d¶nYÕ²ªuë­.dµ~éÿóÜŞw
+endstream
+endobj
+60 0 obj
+<< /Type /FontDescriptor /FontName /PPCHJL+LinLibertineO /Flags 4 /FontBBox [ -1082 -256 6171 1125 ] /Ascent 894 /CapHeight 647 /Descent -246 /ItalicAngle 0 /StemV 73 /XHeight 429 /FontFile3 62 0 R /CIDSet 61 0 R >>
+endobj
+63 0 obj
+<< /Filter /FlateDecode /Length 686 >>        
+stream
+xÚ}”]kâ@†ïó+f/
+í…5™ÌG-"X?X·•Z–½Õdìj"1^øïw2ia‘-´ôõœ™ó¼oâ¹ù¶Z÷Æyµu½ô>¯îXêÌõ&?7‡èæfZe§½+›gçr—wÕã£XÕU¶v¸,¦‹²hî|ó¢Ì>N¹ëº®7=¹÷¢üjiçˆÛ7÷»·ZM¾ÿXö–E¹,¶®nŠÒ½ôâöÈ[Ñ|øÖÿt	_×J"\ğËÕÇ¢*ErÇ±ÿ`Væ“jß;Fıœèw¸»¢Ìë¡Ø¶¼Q"E^dÍE…¿ÙŞ'Ô^ŸÛ/Ê]‡¢ÿê‹Ç¦>Ş»¨ÿRç®.Êwq{Ğ7¬O‡Ã‡kaDF"w;¯Ïåy³w¢ßº^ä¾Z4ç«ö¿¼NÈ P³*wÇÃ&sõ¦|wÑĞÛGb8÷?£È•ù?õ˜SÛÒ7tÿÚ¤+e6u¸hà/Šcù0
+jŒ ¦¨	j†š¢æ¨YPIŒš£’ Ò%Q	*EI”B¥(R(ƒÒ(‹2¨”Eá!ÅC‚‡ÉjŒš ‚’p*8%œ
+N	§‚SÂ©à”p*8%œ
+N	§‚SÂ¢`‘°(X$y*ò”ä©È3%OE)œÎK
+‹†%…EÃ’Â¢aIÉL“Y
+™†Láİà]áİà]1Ï0O1Ï0O1Ï0O1Ï0O1Ï0OñŒÏH1İ\¦“‹!Å32<#Å;hx™2SdfÈL“™!3Mf–Ì4ş,ş4ş,ş4ş,ş4ş,ş4ş,ş4ş,ş4ş,ş4ş,ş4ş,ş4ş,şãP3ÓöÙ~‚š¢¨ÍLP2p:·¦£t®Ô×'óËÛĞ%=ÖöóT›vØá»ß®v÷}®¨ìT×~?…öP»üfúÜ¡‡êĞ
+¿aùvû¿U/óè/€@Q
+endstream
+endobj
+20 0 obj
+<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /BaseFont /PPCHJL+LinLibertineO /DescendantFonts [ 64 0 R ] /ToUnicode 63 0 R >>
+endobj
+64 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /PPCHJL+LinLibertineO /FontDescriptor 60 0 R /W 59 0 R /CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >> >>
+endobj
+65 0 obj
+[ 37 [ 761 ] 48 [ 799 ] 66 [ 516 586 472 ] 70 [ 508 ] 80 [ 566 ] 83 [ 421 419 ] 86 [ 591 ] ]
+endobj
+67 0 obj
+<< /Filter /FlateDecode /Length 19 >>         
+stream
+xÚc````ah`°b˜ ïY
+endstream
+endobj
+68 0 obj
+<< /Subtype /CIDFontType0C /Filter /FlateDecode /Length 2179 >>       
+stream
+xÚmVPT×¾ÏeÙ',ë¬–' ‘€ü¸bÕh²*¤nì.²îR\DtÒ<’w¹‚ Á@,1ÆŒÁª$&ÒDâ¢6f‘štª­šèÖFãOÛé}ö)·ç<´Étg8Ü{ßùùÎwÎ¹ï	$,Œ‚`~&{Ñ‚9‹SìnÏ\··Ìí©\“7d+’2-ÊX¢ŒË%^§Ä„%uÆ°Óê®±±cş½]?áò0”#¾3&À"âScîÿeœ@Cˆ@Ìd´0M˜/¬Jÿ_¸Ì4kÚ8©\/ÙİÅ®
+ŸÛã’Š«¥üRw™»¼\z:MÊ÷–•¥Fä•»<R×ã“*=NW…TàªX³Vò–H%ğØ[åö¬–r*\.i±·ÄWUTáw—g­kíÌˆÜ|»4)×åqU•Iù•ÅenÇÃ§ÉR•ÛW
+><¾É®õW¹ÏíõHE§”—FÿúP?-b^…«Èçrâ³oÅj—4©Ôç+Ÿ™®Jğ$mmIšÇåKX^¥)ÖT”S5™¥Éišü™&§krÊÌMf¦‚xÀÍCÂ¤<i®·ÌùÓÃ9No±ë§Ëãsûª	ü&2—Ì#Ù$‡ä“Å¤€<«ƒrÀ/’Dba«Â“CòÂ¢Ãn„Ç†»†ÓâÚ¥üí3dR—®K¹efO¨ÛTøÓï[	k¶÷zUbGµ½× Wa£>ÁÙ5ª¿7ış³â¿»à?ÜÄŠAåPP¸Í’Øq–¥cÛf%ßĞ¾çÍ#¬¬E}TMSWÎ/VÇsŞ’9ÿ!NnİoyJ9dv/«§ñ¿~û¢­¹Ô&ªµmÎ~e‰¸Å¯§]õíN~Ñ"SNìÁ 'ÏÅÉTdãÙ³}¬–“2Q³8Ùÿ
+â9ÿ}	(òsV›p-š˜¿æ˜rì˜p”e)C–ƒyÿbšêTs—d©áªqÚUVÀJú¿ºÏ¸º×Ì–«ãØ#ª[]¥&¨©êR5ŸMRcÙrNúãdN^É,ZLÎš“ìûná ÍÙ(û’U˜izúkÎPäE¡„…Ïç“½t­ÜG÷B*IèÉØä$µÃÆÉ+ˆ(«MdÅj”™¶me™t¨ÍBÿhİ	 Á¯”À*¬ø%;˜…-?N"eÂyoH¦óhÊk×‰şÍ»ljõ»·uÒÃô]ó!¨¼êßì¯Õ¡eúßÂ¥4—æœvX¢™’›;;Åºğ–âİ>şïqfHnÚ÷çˆVÁï#ƒ=¸©ÁA×ÕÓ¢é·5]ìb/{£J¸ÌbY>KĞqrµ²z‚fÎï`C1û˜ü¬Ó"‹¬Üp¤“˜¼²ƒp_ĞÏÑÇ îIÔ¾‹YAoƒ~	·7e²šóËÈÄ?1õï;lÔ×Z œÃñm:´'(‚ráÂgVÙLû8	C@Sñ¡Ål{nÓ’©‡Hà…óPH®áüƒ¹Šó³2ñ‹ĞšƒÚ¼ÑÿTŸÕkêäüÂü Á¨(~Àbé°A¯Aİ{°ñsF«­“Éöà.NL2"ÀÑ>İ"ïL•ÇšßÅH©˜¯f—¨õÿT«vs22&)Xö	29ÉÀ}2²›(“^Ğ[Ô~Îù¨2±GDãÛ9TKÂ³oĞ*
+ÏNAS<OKkòVŠ¦éPÃ;]ÂG,^Çº”83'5˜ãdâÙ] ¾·eÏ@½¾lgîo–Qu4UÃ§j&ÖŞb°4½Z,D~sHì°99™'Wp2ğsb×
+Ÿ	wş˜GC±†÷µ€h;Åz¯{ù‹ê¡w«ÛªÛ^â$½'f34é˜…CND£áĞd®¢1d<®°Ç†£óD0M…5gYR'İ%´Ã¼NeèØ¶òÓÉäˆV°AuŠÜ‘ùè1CiÛ±Ğ/@ù$Œ‹…:ƒĞÛdÏ"ÕIæû?iãˆâLŠ€^íZ:°£ĞêúÉ•{ 5Ú”MÉàÜ!“ğ[œ,‘I€Æ76êÙˆÒ[jš¥ <œÀÊİÄV<‡uÄqüî†8~ò91£J7‚LF•>$#m/`&3±ê·dÒO¿ ¹2yúD&§hó¦ÖàjÇ`b	¬¦ø+2«q×f°d6ù
+àB¼µV™}S­&Nœ¥¦[X³›/í²«ñª¡ø…•‰5Lwî»×û.Ç›ÔÑ­ëØ7„+,VÇ*Ù³6%õzˆ<
+qhıŒx›ˆ¬`ˆpyíL§MŠlíÁŸÓRN„ÛOS‡©vhLdŠğ	,}ğÙ_ß~ğS?µÔÕë_9ø„¿5Àkç-iŠÄÒ‹“-oÑ·_k}Ql­Ûõ÷Í[õ6ÖUÓBºbé¯œ¢I[sxÃuv°säç,â/,2z}7Ó›7¦è£;»«¾zõ}ÊFÑc§è!µåqr6ôdHÎ†¿ˆaF`bWZWt?}¯éíéÚVØì÷nyë*ŒUù›w¬ ™tÖ*ú}
+.]Ìû¶ÊtäâROğ[Çîjê …edyA+9¼”v¯ùƒhz¿æÜòuJnÕÈ¯áöÍb£×+â—æ:Ú0_¨¯m„·h²$ ßãP¸¼…ŒÚı’’k›"rôñË}´_<a ıôèëA±êUä/u»ë©Xß¶˜®€ëïqCtçBÎôWÁ}bµYÖPOSİŸÅº«z-NÿƒY2iàÄ
+—úq€ŸÕƒ~AÕ¬¶¥ZÅç‰u˜¾6§ıé›T<D¿n9~R4á×épeŒq"|e’Çğ‹³w$Qš_zC™ÓÜÚÄF5µ7ïk
+W_Şah4FtEt,6’Å£¶MÿPC‹
+endstream
+endobj
+66 0 obj
+<< /Type /FontDescriptor /FontName /IDRNAS+LinBiolinumOB /Flags 4 /FontBBox [ -1082 -267 6171 1022 ] /Ascent 894 /CapHeight 648 /Descent -246 /ItalicAngle 0 /StemV 82 /XHeight 429 /FontFile3 68 0 R /CIDSet 67 0 R >>
+endobj
+69 0 obj
+<< /Filter /FlateDecode /Length 405 >>        
+stream
+xÚ}’Q‹ê0…ßó+æ>îC·iµ
+‹V]¡°W+Ë¾Ödt6)iûà¿ß$c]¸È-XüœsÆ3“Œş|”Ñ«4GŒ&ÏöØšŞ
+ŒV«†Fk#úu·E”(‡jûÖˆ;¯Šu¡U÷äÄ…—^â z,ZâYé_‰ÿğ+*Öûík½+½Tæ¢t_ï–÷–ƒê.Nú¸<*Ahğ‰¶UF¿@òÌ9w?¼i¹2µ¬eñ-ÄCÜ“ÒÒŞÂÑçeI
+R‰îFá-j·!o.¯m‡u¡O†-ï]±íì5ä}bñÎJ´JŸaü( ”}Ó\Ğ‡Îò$\_·—mU#Äajéªª»>ÿ×p¸6ià„¢
+#±m*¶Ògd7>Ïa±qOÎPËêœ\Ç¡_“{I|WÖ7J3×ˆóé4÷4áD›@Ó4Ğ,!š¥DS¢	ÑŒ(”Q—uÉÈ7'_F¾9ù2òÍ³œR†T~ *÷å‰ŞZ·¹ptaC~7JãıtÓxWø„k1ÜLO»ûOvó
+endstream
+endobj
+19 0 obj
+<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /BaseFont /IDRNAS+LinBiolinumOB /DescendantFonts [ 70 0 R ] /ToUnicode 69 0 R >>
+endobj
+70 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /IDRNAS+LinBiolinumOB /FontDescriptor 66 0 R /W 65 0 R /CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >> >>
+endobj
+72 0 obj
+<< /Length1 844 /Length2 1166 /Length3 0 /Filter /FlateDecode /Length 1766 >>       
+stream
+xÚ}R}<TùoKd’v[µ"İŸ4Í˜3obÈkFBM™FhÕ˜93sçŒ™ƒ5‹·(­«ë¥¼ÔUín¡-’J¤Ò‡İ²2wou7BorÃf´­;¤öÖ~>÷sş9Ïóı>ßçû{‡hË¥øˆ°h˜ƒ¡8…æ±®Rª•€áˆD‚Ëà™È‡JCÙ3 Ÿà†x­ 7pxÒ
+ËhL6İA€ÑÜŞ1„ B© –P©@!‡	D?L®V )Î3ÚSÒdÀ&A ŒÂ
+ƒ¶D«Á”?¦ÀÓ¢+D$)ËÙTªØ ‰§ g¥Ø…qª£¡§?*òÃââ`Wh!BDÃ%P§¤xj9h@‹ßÆ!\¨@$ä”¡©ïıß—û"•©ÿ oÄÁ€¶y?`ãª·{ùúb*°“Â\(nL& »2XÀ•á
+4ÊpÈŒèÚ@TŒwvE	òw–g¦C2ŒÇ|(´Ã!HOğc'A&›öMš6ü'X‡ÈÔÿ‡Om
+B`’÷§òĞÿ}K .!BT"{ŸB”D‹¸.”±@¦„ßæ· "X!CP˜‹)‘©s}„ñ¤ˆ0…•JÀzÁ¨è#ş¨!¨ĞY.@ PÔÈ°a:‹vÒ bPRXeèMuF1ÜPä	¸‡05hPUXÒô=Na„ô…	
+…á˜¦chş.#†Â°
+zº0¡»6æ¬¶~ü{ë$Ê£6:sÁ—Y£óÂúü—&lÚíç¡a”gwû\éìÏÖÿ{ÑSú·“çc·.b£ì*Êf/é©©Ÿ+î%ïj_´fâ©28ŞÔØ±ƒŠ$K^ÔmnIõÖ9~AÿÏ£;Å<ìëª^UJ_˜8Ô>s6›İ¶?ÛÄÒÕ•a6[{Ù§ør•ï]gCàJåKï¶çy6œÇú¢æé¬‡7şy’ü	òK‘õ“'äA£ÅO<¯ºXíh:bßUË×_“vÖkÓHÑÊ›[ò:¯ëîmK´å'W•ğNm½;Ş’y¾¢åÇí‚#^áJÄæ¥&xèg›©~Nóäè¶#Ò{÷¥©1İÍÆLOŸO#"8áG÷ä÷è:ÆóçäŒ©­9¶°hmö›¼ˆÛ¯«ÿõ÷Õ<ë5'ÒYQO7øm*[«¾»8Õš¬Õ¬¾ŸÔqvY/ÀDwı¸©oÊ€Ã£¨´…Dš{‘p?¯¨"­ìşµ•–a©ªQÛîùé-xtd›4Ş|Q–|ùZ%ÛËD{¢²|;ÃâëÙº«7nËkşëÑojŞP‚øG.ÙÖ±¬%+:cà¨îx»pŸiŠmš7¦>Ú~\]Sj©‹¶d­Ş9Ùçê—F¾Eš çx(z†Ñ£Ãö÷+ñ¡Ú¥!â×šŒvÕZ9¿yvCM_œ¸9uwyÇr¢Sñ"O86X‘ëÏv*â¶^1eXû3ş‘ÉW¹X>å–şuk°ÿ¦Œ«š3Ëë÷Ã¯x©Aî…+†z6[„ÛøôÙ²Ï¿Ì(u·Js-¹Ñå’	iûŒÕ‚ÓFNÜué­ÔÓ“#ûßÌĞí“¼ö-F¿ê~Şdz(œä:dèÍï)z Ê±¢&ÿP¢µE&ŒÛO²¤´‹ò§{¿ê9—t`æ	›k»˜-ÜÓÓ>îpë»ÕŞIc¢Éúí²fkrõ,Éowù–Šš»uÃ…ß…>Ÿ¿“Øaîî‘è/|^zJSÅ:”YÎ±¶±Û|¡»ù›ŠŞÄvÜ?q9xbïª±|¯…§-+·DZ7nÌaÕÇ>óöı¥÷Ë¡À”·cÇ.m´bkëwêÛÜMËrû	Æ½Ìõ‰Åæ“›¬ÚÍs99_|h†‰ò"î|WïEI·;æ2Ï8jæñ‘K—öÿ¤Éù¦•¬)eÌÀ”°ïÄ‡ÓöîÖ©ø‰În™1#çæãNŒÀr~]ÒØ,£ıºÖ9È~v›ô<o©¶0|2P]œüÓÁtîYûáDgì`åÉ›«&®iûãç_ìêmøy¸Ib?™|Ü"ïn–!*L°çA,[^û2˜Ó*ÈúŒµ<w²;Ã<²f™1Bàåâi%éõ¶Û}NÎÜ×µÆº€’ò»ûÒŠ¥9©~ê!‹'ßŞêOnÑÚ¸ìõ¨nŒuó~hvÁ5±iOe–Ë9.£ª?_X”3je¾ø×æRŸßîÄ+ØË9­¾´Ùº(»š“}ë[?)ØzÕ)èìgÑ³$_9,g1KşÖp­?ô_@2Nú
+endstream
+endobj
+71 0 obj
+<< /Type /FontDescriptor /FontName /WRHVGO+txsys /Flags 4 /FontBBox [ -47 -944 2835 838 ] /Ascent 707 /CapHeight 707 /Descent -152 /ItalicAngle 0 /StemV 52 /XHeight 400 /CharSet( /arrowright) /FontFile 72 0 R >>
+endobj
+26 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /WRHVGO+txsys /FontDescriptor 71 0 R /FirstChar 33 /LastChar 33 /Widths 46 0 R >>
+endobj
+29 0 obj
+<< /Type /Pages  /Count 1 /Kids [ 11 0 R ] >>
+endobj
+73 0 obj
+<< /Type /Outlines /First 4 0 R /Last 8 0 R /Count 2 >>
+endobj
+8 0 obj
+<< /Title 9 0 R /A 6 0 R /Parent 73 0 R /Prev 4 0 R >>
+endobj
+4 0 obj
+<< /Title 5 0 R /A 1 0 R /Parent 73 0 R /Next 8 0 R >>
+endobj
+74 0 obj
+<< /Names [ (Doc-Start) 21 0 R (SECTION*.2) 22 0 R (SECTION*.3) 25 0 R (SECTION*.4) 27 0 R (page.1) 18 0 R (section*.1) 3 0 R (section.1) 7 0 R ] /Limits [ (Doc-Start) (section.1) ] >>
+endobj
+75 0 obj
+<< /Dests 74 0 R >>
+endobj
+76 0 obj
+<< /Type /Catalog /Pages 29 0 R /Outlines 73 0 R /Names 75 0 R /PageMode/UseOutlines/ViewerPreferences<</DisplayDocTitle true>>/Lang(en)/Metadata 15 0 R /OpenAction 10 0 R >>
+endobj
+77 0 obj
+<< /Title(\376\377\000D\000r\000o\000s\000e\000r\000a\000\040\000O\000b\000s\000c\000u\000r\000a)/Subject(\376\377\000-\000\040\000\040\000A\000p\000p\000l\000i\000e\000d\000\040\000c\000o\000m\000p\000u\000t\000i\000n\000g\000\040\000\040\000-\000>\000\040\000\040\000A\000r\000t\000s\000\040\000a\000n\000d\000\040\000h\000u\000m\000a\000n\000i\000t\000i\000e\000s\000.\000M\000e\000d\000i\000a\000\040\000a\000r\000t\000s\000.)/Creator(\376\377\000L\000a\000T\000e\000X\000\040\000w\000i\000t\000h\000\040\000a\000c\000m\000a\000r\000t\000\040\0002\0000\0002\0004\000/\0000\0004\000/\0001\0007\000\040\000v\0002\000.\0000\0007\000\040\000T\000y\000p\000e\000s\000e\000t\000t\000i\000n\000g\000\040\000a\000r\000t\000i\000c\000l\000e\000s\000\040\000f\000o\000r\000\040\000t\000h\000e\000\040\000A\000s\000s\000o\000c\000i\000a\000t\000i\000o\000n\000\040\000f\000o\000r\000\040\000C\000o\000m\000p\000u\000t\000i\000n\000g\000\040\000M\000a\000c\000h\000i\000n\000e\000r\000y\000\040\000a\000n\000d\000\040\000h\000y\000p\000e\000r\000r\000e\000f\000\040\0002\0000\0002\0003\000-\0000\0002\000-\0000\0007\000\040\000v\0007\000.\0000\0000\000v\000\040\000H\000y\000p\000e\000r\000t\000e\000x\000t\000\040\000l\000i\000n\000k\000s\000\040\000f\000o\000r\000\040\000L\000a\000T\000e\000X)/Producer(LuaHBTeX, Version 1.16.0 (TeX Live 2023)) /CreationDate (D:20240531215201Z) /ModDate (D:20240531215201Z) /Trapped /False /PTEX.FullBanner (This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)) >>
+endobj
+2 0 obj
+<< /Type /ObjStm /N 5 /First 27 /Filter /FlateDecode /Length 148 >>        
+stream
+xÚuÏ½
+ÂPàı>Å[oÂÕş@)ˆEéR¡ÖÉvĞâĞÅ‚íûã=]Ô!_ „£lá‡ª*Ğ41Y{†=Í[ ˜ı<ŒÏÕZCä¹	ZG¾âVDväN&2“¹‘ş3Í¿“¿.*ie#ì%©HCjr"¹ı²-—mõıòêúÈ5ìa˜Ññíâó=E
+endstream
+endobj
+78 0 obj
+<< /Type /XRef /Index [ 0 79 ] /Size 79 /W [ 1 3 1 ] /Root 76 0 R /Info 77 0 R /ID [ <CB9EE77CF9E3DADE593766AD5EC13812> <CB9EE77CF9E3DADE593766AD5EC13812> ] /Filter /FlateDecode /Length 257 >>        
+stream
+xÚĞ½/ƒQÇñsÂ?`@â­/ê5ƒ]b1VµO-&&’2˜ı(‰Ä*5Xt1‘´F´6¥!&‰D¬¿¯;|rî/7çŞsÍ¬/
+Ìs«ˆì‰xú22‡À=W$+ıg-Ğê.)›_s!|š›u¨ÊİŠéoZ%EíWTºØ.CCE¡‡Ã¢qD•™3.JĞ/eZı‘€Ä!I„Á0ŒÀ(ŒÁ8XäÎªi¸$ÖNEşX,´‰õ=Şr!6¶ÄN¯ØÜ†±ÛÎsÄş¥¸š‡«Ğ×İÌv.ªq7Aõ"nfÄ=³ÕÄcY<ä™?x‚H4ãğ*Ş«ö8P¨
+endstream
+endobj
+startxref
+124357
+%%EOF

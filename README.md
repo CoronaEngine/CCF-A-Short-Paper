@@ -1,7 +1,8 @@
 # 人机交互与图形学顶会（CCF-A）
-全部短文收集仓库（以下按投稿时间排序）
 
 ## 图形学顶会 SIGGRAPH / SIGGRAPH ASIA
+- SIGGRAPH Poster 4月
+- SIGGRAPH ASIA Poster 7月底/8月初
   
 ## 人机交互顶会 ACM CHI
 
